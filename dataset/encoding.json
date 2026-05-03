@@ -1,0 +1,1344 @@
+{
+  "dem_age": {
+    "definition": "Age",
+    "encoding": {}
+  },
+  "dem_bmi": {
+    "definition": "BMI",
+    "encoding": {}
+  },
+  "dem_gender": {
+    "definition": "Gender",
+    "encoding": {
+      "male": 1,
+      "female": 0
+    }
+  },
+  "dem_race": {
+    "definition": "Race",
+    "encoding": {
+      "white (caucasian)": 0,
+      "african american": 1,
+      "hispanic": 2,
+      "american indian": 3,
+      "pacific islander": 4,
+      "asian": 5,
+      "alaska native": 6,
+      "native hawaiian": 7
+    }
+  },
+  "ep_reading": {
+    "definition": "Ep.Reading",
+    "encoding": {
+      "high chance of dozing": 3,
+      "moderate chance": 2,
+      "slight chance": 1,
+      "would never doze": 0
+    }
+  },
+  "ep_watchingtv": {
+    "definition": "Ep.Watching TV",
+    "encoding": {
+      "high chance of dozing": 3,
+      "moderate chance": 2,
+      "slight chance": 1,
+      "would never doze": 0
+    }
+  },
+  "ep_sittingquietlyinpublicplace": {
+    "definition": "Ep.sitting quietly",
+    "encoding": {
+      "high chance of dozing": 3,
+      "moderate chance": 2,
+      "slight chance": 1,
+      "would never doze": 0
+    }
+  },
+  "ep_carpassenger": {
+    "definition": "Ep.car passenger",
+    "encoding": {
+      "high chance of dozing": 3,
+      "moderate chance": 2,
+      "slight chance": 1,
+      "would never doze": 0
+    }
+  },
+  "ep_lyingdown": {
+    "definition": "Ep.lying down",
+    "encoding": {
+      "high chance of dozing": 3,
+      "moderate chance": 2,
+      "slight chance": 1,
+      "would never doze": 0
+    }
+  },
+  "ep_talking": {
+    "definition": "Ep.talking",
+    "encoding": {
+      "high chance of dozing": 3,
+      "moderate chance": 2,
+      "slight chance": 1,
+      "would never doze": 0
+    }
+  },
+  "ep_sittingquietlyafterlunch": {
+    "definition": "Ep.sitting quietly after lunch",
+    "encoding": {
+      "high chance of dozing": 3,
+      "moderate chance": 2,
+      "slight chance": 1,
+      "would never doze": 0
+    }
+  },
+  "ep_incar": {
+    "definition": "Ep.in car",
+    "encoding": {
+      "high chance of dozing": 3,
+      "moderate chance": 2,
+      "slight chance": 1,
+      "would never doze": 0
+    }
+  },
+  "ep_score": {
+    "definition": "Ep.Score",
+    "encoding": {}
+  },
+  "mh_tuberculosis": {
+    "definition": "Tuberculosis",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_intestinal_disease": {
+    "definition": "Intestinal Disease",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_cancer": {
+    "definition": "Cancer",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_peptic_ulcer": {
+    "definition": "Peptic Ulcer",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_high_blood_pressure": {
+    "definition": "High Blood Pressure",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_liver_disease": {
+    "definition": "Liver Disease",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_diabetes": {
+    "definition": "Diabetes",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_seizures": {
+    "definition": "Seizures",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_heart_attack": {
+    "definition": "Heart Attack",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_tobacco_habit": {
+    "definition": "Tobacco Habit",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_other_heart_disease": {
+    "definition": "Other Heart Disease",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_tobacco_quit": {
+    "definition": "Tobacco Quit",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_kidney_disease": {
+    "definition": "Kidney Disease",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_alcohol": {
+    "definition": "Alcohol",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_alcohol_quit": {
+    "definition": "Alcohol Quit",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_thyroid_disease": {
+    "definition": "Thyroid Disease",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_caffeinated_beverage": {
+    "definition": "Caffeinated Beverage",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_stomach_disease": {
+    "definition": "Stomach Disease",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_head_ache": {
+    "definition": "Headache",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_frequent_cough": {
+    "definition": "Frequent Cough",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_breathe_difficulty": {
+    "definition": "Breathing Difficulty",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_nasal_discharge": {
+    "definition": "Nasal Discharge",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_painful_sinus": {
+    "definition": "Painful Sinus",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_breath_shortness": {
+    "definition": "Shortness of Breath",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_allergy": {
+    "definition": "Allergy",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_dentures": {
+    "definition": "Dentures",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_smothering_spells_at_night": {
+    "definition": "Smothering Spells at Night",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_legs_swollen": {
+    "definition": "Swollen Legs",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_irregular_heart_beat": {
+    "definition": "Irregular Heart Beat",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_heart_enlarge": {
+    "definition": "Enlarged Heart",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_chest_pain": {
+    "definition": "Chest Pain",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_morethanone_pillow": {
+    "definition": "More Than One Pillow",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_swallow_difficulty": {
+    "definition": "Swallowing Difficulty",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_heartburn": {
+    "definition": "Heartburn",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_voice_changes": {
+    "definition": "Voice Changes",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_hernia": {
+    "definition": "Hernia",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_muscular_pain": {
+    "definition": "Muscular Pain",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_joint_pain": {
+    "definition": "Joint Pain",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_muscle_weakness": {
+    "definition": "Muscle Weakness",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_arthritis": {
+    "definition": "Arthritis",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_thyroid_enlarge": {
+    "definition": "Enlarged Thyroid",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_weight_loss": {
+    "definition": "Weight Loss",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_abnormal_glucose": {
+    "definition": "Abnormal Glucose",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_weight_gain": {
+    "definition": "Weight Gain",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_low_blood_sugar": {
+    "definition": "Low Blood Sugar",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_low_blood_pressure": {
+    "definition": "Low Blood Pressure",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_hiv": {
+    "definition": "HIV",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_anemia": {
+    "definition": "Anemia",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_personality_changes": {
+    "definition": "Personality Changes",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_stroke_history": {
+    "definition": "Stroke History",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_depression": {
+    "definition": "Depression",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_memory_loss": {
+    "definition": "Memory Loss",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_sleep_difficulty": {
+    "definition": "Sleep Difficulty",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_body_control_difficulty": {
+    "definition": "Body Control Difficulty",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_paralysis_attacks": {
+    "definition": "Paralysis Attacks",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_body_shake": {
+    "definition": "Body Shaking",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "mh_speak_difficulty": {
+    "definition": "Speaking Difficulty",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_work_sleep_accidents_div_week": {
+    "definition": "sleep_related_accidents",
+    "encoding": {}
+  },
+  "sa_no_of_misses_binary": {
+    "definition": "sleep related misses",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_sleepiness_affect_performance": {
+    "definition": "sleepiness_performance",
+    "encoding": {}
+  },
+  "sa_sleep_get_going": {
+    "definition": "Sleep get going",
+    "encoding": {}
+  },
+  "sa_problem_going_tosleep_atnight": {
+    "definition": "Problem going to sleep at night",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_third_awaken_part": {
+    "definition": "sa_third_awaken_part",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_problem_wakingup_during_night": {
+    "definition": "Problem waking up during night",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_falling_asleep_thought": {
+    "definition": "Falling asleep thought",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_problem_not_feeling_rested": {
+    "definition": "Problem not feeling rested",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_falling_asleep_depressed": {
+    "definition": "Falling asleep depressed",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_problem_with_tiredness": {
+    "definition": "Problem with tiredness",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_falling_asleep_worry": {
+    "definition": "Falling asleep worry",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_problem_with_sleepiness": {
+    "definition": "Problem with sleepiness",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_falling_asleep_muscular_tension": {
+    "definition": "Falling asleep muscular tension",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_falling_asleep_afraid": {
+    "definition": "Falling asleep afraid",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_falling_asleep_paralyzed": {
+    "definition": "Falling asleep paralyzed",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_before_bed_watch_tv": {
+    "definition": "Watch TV Before Bed",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_falling_asleep_jerk": {
+    "definition": "Falling asleep jerk",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_before_bed_sleep_aids": {
+    "definition": "Before bed slee aid",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_falling_asleep_legpain": {
+    "definition": "Leg Pain While Falling Asleep",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_first_awaken_part": {
+    "definition": "First awaken part",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_falling_asleep_dream": {
+    "definition": "Falling asleep dream",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_second_awaken_part": {
+    "definition": "Second awaken part",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_falling_asleep_discomfort": {
+    "definition": "Falling asleep discomfort",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_someone_room": {
+    "definition": "Sleep someone room",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_gasp": {
+    "definition": "Gasping Episodes",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_someone_bed": {
+    "definition": "Sleep someone bed",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_choke": {
+    "definition": "Sleep choke",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_special_surface": {
+    "definition": "Sleep special surface",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_breath_problem": {
+    "definition": "Sleep breath problem",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_restless": {
+    "definition": "Sleep restless",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_sweat": {
+    "definition": "Sleep sweat",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_disturb_partner": {
+    "definition": "Sleep disturb partner",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_walk": {
+    "definition": "Sleep walk",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_provide_assistance": {
+    "definition": "Sleep provide assistance",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_talk": {
+    "definition": "Sleep talk",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_nasal_congestion": {
+    "definition": "Sleep nasal congestion",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_grind_teeth": {
+    "definition": "Grind teeth",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_nasal_medication": {
+    "definition": "Nasal medication",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_leg_jerk": {
+    "definition": "Leg jerk",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_snore": {
+    "definition": "Snoring",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_other_movements": {
+    "definition": "Sleep other movements",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_stop_breath": {
+    "definition": "Witnessed Apneas",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_eat": {
+    "definition": "Sleep eat",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_stomach_pain": {
+    "definition": "Sleep Stomach Pain",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_thirst": {
+    "definition": "Sleep thirst",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_leg_cramps": {
+    "definition": "Sleep leg cramps",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_urinate": {
+    "definition": "Sleep urinate",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_parasthesia": {
+    "definition": "Sleep parasthesia",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_heart_pain": {
+    "definition": "Sleep heart pain",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_itch": {
+    "definition": "Sleep itch",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_chest_pain": {
+    "definition": "Sleep chest pain",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_shortof_breath": {
+    "definition": "Sleep shortof breath",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_asthma": {
+    "definition": "Sleep asthma",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_indigestion": {
+    "definition": "Sleep indigestion",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_cough": {
+    "definition": "Sleep cough",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_throat_burn": {
+    "definition": "Sleep throat burn",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_hunger": {
+    "definition": "Sleep hunger",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_sleep_alert": {
+    "definition": "Sleep alert",
+    "encoding": {
+      "moderate / sometimes": 2,
+      "not at all / none": 0,
+      "often": 3,
+      "severe / always": 4,
+      "slight / few times": 1
+    }
+  },
+  "sa_shift_1st": {
+    "definition": "shift 1st",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_shift_2nd": {
+    "definition": "shift 2nd",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_shift_3rd": {
+    "definition": "shift 3rd",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_shift_swing": {
+    "definition": "shift swing",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_too_little_sleep": {
+    "definition": "too_little_sleep",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_too_much_sleep": {
+    "definition": "too_much_sleep",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "sa_work_sleep_fatique": {
+    "definition": "too_much_sleep",
+    "encoding": {}
+  },
+  "sa_accident_sleep_mistakes": {
+    "definition": "accident sleep mistake",
+    "encoding": {}
+  },
+  "sa_accident_sleep_fatigue": {
+    "definition": "sleep accident fatigue",
+    "encoding": {}
+  },
+  "sa_time_in_bed_weekday_hours": {
+    "definition": "Time in Bed (Weekday)",
+    "encoding": {}
+  },
+  "sa_time_in_bed_weekend_hours": {
+    "definition": "time in bed (weekend)",
+    "encoding": {}
+  },
+  "sa_do_you_nap": {
+    "definition": "nap",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "presleep_physical_complaints_today": {
+    "definition": "physical complaints today",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "presleep_feel_sleepy_today": {
+    "definition": "feel sleepy today",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "presleep_outof_ordinary_happen_today": {
+    "definition": "Out of ordinary happen today",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "presleep_naps_today": {
+    "definition": "naps today",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "presleep_physical_strenuous_day": {
+    "definition": "Physical strenuous day",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "presleep_medications_today": {
+    "definition": "Medications today",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "presleep_feel_tired_now": {
+    "definition": "Feel tired now",
+    "encoding": {
+      "quite a bit": 2,
+      "not at all / none": 0,
+      "extreme": 3,
+      "a little": 1
+    }
+  },
+  "presleep_medications_past_month": {
+    "definition": "medication past month",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "presleep_feel_sleepy_now": {
+    "definition": "feel sleepy now",
+    "encoding": {
+      "quite a bit": 2,
+      "not at all / none": 0,
+      "extreme": 3,
+      "a little": 1
+    }
+  },
+  "presleep_alcohol_beverage_today": {
+    "definition": "alcohol beverage today",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "presleep_feel_alert_now": {
+    "definition": "feel alert now",
+    "encoding": {
+      "quite a bit": 2,
+      "not at all / none": 0,
+      "extreme": 3,
+      "a little": 1
+    }
+  },
+  "presleep_caffeinated_beverage_today": {
+    "definition": "caffeinated beverage today",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "postsleep_have_difficulty_falling_asleep": {
+    "definition": "Have difficulty falling asleep",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "postsleep_slept_longer": {
+    "definition": "Slept Longer",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "postsleep_wake_during_night": {
+    "definition": "Wake during night",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "postsleep_awake_feeling": {
+    "definition": "Awake feeling",
+    "encoding": {
+      "better": 1,
+      "same": 0,
+      "worse": -1
+    }
+  },
+  "postsleep_difficulty_goingback_sleep": {
+    "definition": "Difficulty going back sleep",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "postsleep_feeling_refreshing": {
+    "definition": "Feeling refreshing",
+    "encoding": {
+      "a little": 1,
+      "extremely": 3,
+      "not at all / none": 0,
+      "quite a bit": 2
+    }
+  },
+  "postsleep_dreaming_last_night": {
+    "definition": "Dreaming last night",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "postsleep_feeling_tired": {
+    "definition": "Feeling Tired",
+    "encoding": {
+      "quite a bit": 2,
+      "not at all / none": 0,
+      "extreme": 3,
+      "a little": 1
+    }
+  },
+  "postsleep_feeling_sleepy": {
+    "definition": "Feeling sleepy",
+    "encoding": {
+      "quite a bit": 2,
+      "not at all / none": 0,
+      "extreme": 3,
+      "a little": 1
+    }
+  },
+  "postsleep_feeling_alert": {
+    "definition": "Feeling alert",
+    "encoding": {
+      "quite a bit": 2,
+      "not at all / none": 0,
+      "extreme": 3,
+      "a little": 1
+    }
+  },
+  "postsleep_feeling_sick": {
+    "definition": "Feeling sick",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "postsleep_last_night_sleep_quality": {
+    "definition": "Sleep quality last night",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "bmi_obese": {
+    "definition": "Obese",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "bmi_skinny_weight": {
+    "definition": "Underweight",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "bmi_normal_weight": {
+    "definition": "Normal Weight",
+    "encoding": {
+      "yes": 1,
+      "no": 0
+    }
+  },
+  "dem_age_women_50": {
+    "definition": "Female Age >50",
+    "encoding": {}
+  },
+  "LAB_CAT": {
+    "definition": "Lab Site",
+    "encoding": {}
+  },
+  "MD_Identifyer": {
+    "definition": "Physician ID",
+    "encoding": {}
+  }
+}

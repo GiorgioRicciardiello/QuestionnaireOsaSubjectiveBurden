@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.env
+
+# IDE / editor
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Pipeline artefacts (regenerable)
+results/*.pkl
+results/*.pkl.backup_*
+figures/**/*.png
+figures/**/*.pdf
+tables/*.csv
+
+# Tooling caches
+.mypy_cache/
+.ruff_cache/
+.pytest_cache/
+
+# Large input data — committed via Git LFS or downloaded out-of-band
+dataset/sleep_research_cleaned.db
+dataset/*.csv
