@@ -1,0 +1,340 @@
+{
+ "blocks": [
+  {
+   "title": "Table S9. Approximate AUROC Uncertainty and Majority-Class Baselines",
+   "caption": "XGBoost AUROC with approximate 95% CIs (Hanley–McNeil). Approximate 95% confidence intervals were computed post hoc from the point estimates in Tables S4 and S6, the cohort class prevalence (full cohort, assuming the stratified 90/10 split preserved it) and a nominal 10% test set of 6,740 patients (the per-endpoint test sets in the figures contain 6,763–6,802 patients, which changes interval widths by less than 1%). The intervals for AUROC differences treat the two AUROCs as independent, which overstates the uncertainty when both models are scored on the same patients (conservative); a paired DeLong test was not possible because per-patient predictions were not available. The retained share of above-chance AUROC (AUROC − 0.5, relative to All-Features) was 0.87–0.94 for Demographics-Only and 0.73–0.80 for Questionnaire-Only. Majority-class accuracy is the full-cohort proportion of the more frequent class; the TabPFN column gives the 5-fold cross-validated accuracy from Table S6 and its difference from that baseline. For the four-class task, the majority-class accuracy is 0.341 (AHI) and 0.339 (RDI), against an equal-class expectation of 0.25; a constant majority-class predictor would have macro-F1 of 0.127 (AHI) and 0.127 (RDI).",
+   "rows": [
+    [
+     "Endpoint",
+     "All-Features AUROC (95% CI)",
+     "Demographics-Only AUROC (95% CI)",
+     "Questionnaire-Only AUROC (95% CI)",
+     "All − Demographics (conservative 95% CI)",
+     "All − Questionnaire (conservative 95% CI)",
+     "Majority-class accuracy",
+     "TabPFN accuracy (gain over majority)"
+    ],
+    [
+     "AHI ≥5",
+     "0.775 (0.764–0.786)",
+     "0.755 (0.744–0.766)",
+     "0.708 (0.696–0.720)",
+     "0.020 (0.004–0.036)",
+     "0.067 (0.051–0.083)",
+     "0.662",
+     "0.743 (+0.081)"
+    ],
+    [
+     "AHI ≥15",
+     "0.762 (0.749–0.775)",
+     "0.729 (0.715–0.743)",
+     "0.698 (0.684–0.712)",
+     "0.033 (0.014–0.052)",
+     "0.064 (0.045–0.083)",
+     "0.679",
+     "0.718 (+0.039)"
+    ],
+    [
+     "AHI ≥30",
+     "0.782 (0.764–0.800)",
+     "0.750 (0.731–0.769)",
+     "0.706 (0.687–0.725)",
+     "0.032 (0.006–0.058)",
+     "0.076 (0.050–0.102)",
+     "0.858",
+     "0.862 (+0.004)"
+    ],
+    [
+     "RDI ≥5",
+     "0.792 (0.781–0.803)",
+     "0.774 (0.762–0.786)",
+     "0.734 (0.721–0.747)",
+     "0.018 (0.001–0.035)",
+     "0.058 (0.041–0.075)",
+     "0.797",
+     "0.821 (+0.024)"
+    ],
+    [
+     "RDI ≥15",
+     "0.763 (0.751–0.775)",
+     "0.736 (0.724–0.748)",
+     "0.700 (0.687–0.713)",
+     "0.027 (0.010–0.044)",
+     "0.063 (0.046–0.080)",
+     "0.542",
+     "0.675 (+0.133)"
+    ],
+    [
+     "RDI ≥30",
+     "0.771 (0.756–0.786)",
+     "0.739 (0.723–0.755)",
+     "0.698 (0.681–0.715)",
+     "0.032 (0.010–0.054)",
+     "0.073 (0.050–0.096)",
+     "0.794",
+     "0.805 (+0.011)"
+    ]
+   ],
+   "widths": [
+    900,
+    1250,
+    1250,
+    1250,
+    1250,
+    1250,
+    950,
+    1100
+   ]
+  },
+  {
+   "title": "Table S10. Concentration of Mean |SHAP| in the Top-Ranked Features",
+   "caption": "Share of the summed mean |SHAP| over all features that is carried by the three highest-ranked features (and by the highest-ranked feature) in the XGBoost binary models, computed from the mean |SHAP| values underlying Table S7 (rounded to three decimals, so shares are approximate). Age, BMI and gender are the top three features in the All-Features models. Spearman rank correlation of the 169 mean |SHAP| values between endpoints was 0.61–0.86 (All-Features; 15 endpoint pairs) and 0.64–0.91 (Questionnaire-Only; 161 features); the AHI-threshold pairs gave 0.63, 0.73 and 0.81 for All-Features (≥5 vs ≥30, ≥5 vs ≥15, ≥15 vs ≥30).",
+   "rows": [
+    [
+     "Feature set",
+     "Endpoint",
+     "Three highest-ranked features",
+     "Top-3 share of summed mean |SHAP| (%)",
+     "Top-1 share (%)"
+    ],
+    [
+     "All Features",
+     "AHI ≥5",
+     "Age, BMI, Gender",
+     "51.1",
+     "19.6"
+    ],
+    [
+     "All Features",
+     "AHI ≥15",
+     "Age, BMI, Gender",
+     "40.5",
+     "14.4"
+    ],
+    [
+     "All Features",
+     "AHI ≥30",
+     "BMI, Age, Gender",
+     "39.1",
+     "14.1"
+    ],
+    [
+     "All Features",
+     "RDI ≥5",
+     "Age, BMI, Gender",
+     "45.0",
+     "17.0"
+    ],
+    [
+     "All Features",
+     "RDI ≥15",
+     "Age, BMI, Gender",
+     "42.3",
+     "15.7"
+    ],
+    [
+     "All Features",
+     "RDI ≥30",
+     "BMI, Age, Gender",
+     "34.0",
+     "12.1"
+    ],
+    [
+     "Questionnaire Only",
+     "AHI ≥5",
+     "High Blood Pressure, Snoring, Witnessed Apneas",
+     "20.0",
+     "8.7"
+    ],
+    [
+     "Questionnaire Only",
+     "AHI ≥15",
+     "High Blood Pressure, Snoring, Witnessed Apneas",
+     "17.4",
+     "6.6"
+    ],
+    [
+     "Questionnaire Only",
+     "AHI ≥30",
+     "High Blood Pressure, Witnessed Apneas, Snoring",
+     "17.4",
+     "7.3"
+    ],
+    [
+     "Questionnaire Only",
+     "RDI ≥5",
+     "High Blood Pressure, Snoring, Witnessed Apneas",
+     "19.4",
+     "8.5"
+    ],
+    [
+     "Questionnaire Only",
+     "RDI ≥15",
+     "High Blood Pressure, Snoring, Witnessed Apneas",
+     "15.9",
+     "6.1"
+    ],
+    [
+     "Questionnaire Only",
+     "RDI ≥30",
+     "High Blood Pressure, Have Difficulty Falling Asleep, Snoring",
+     "14.9",
+     "6.1"
+    ]
+   ],
+   "widths": [
+    1600,
+    1000,
+    3200,
+    1900,
+    1300
+   ]
+  },
+  {
+   "title": "Table S11. Approximate Confidence Intervals for Sensitivity, Specificity and Precision",
+   "caption": "Wilson 95% confidence intervals for the XGBoost values in Table S4 at the fixed 0.50 threshold. Case and control counts were reconstructed from the cohort prevalence and the nominal 10% test set of 6,740 patients (precision uses the implied number of predicted positives), so the intervals are approximate and ignore any difference between the nominal and actual test sets.",
+   "rows": [
+    [
+     "Feature set",
+     "Endpoint",
+     "Sensitivity (95% CI)",
+     "Specificity (95% CI)",
+     "Precision (95% CI)"
+    ],
+    [
+     "All Features",
+     "AHI ≥5",
+     "0.755 (0.742–0.767)",
+     "0.649 (0.629–0.668)",
+     "0.807 (0.796–0.820)"
+    ],
+    [
+     "All Features",
+     "AHI ≥15",
+     "0.727 (0.708–0.745)",
+     "0.659 (0.645–0.673)",
+     "0.490 (0.485–0.520)"
+    ],
+    [
+     "All Features",
+     "AHI ≥30",
+     "0.709 (0.679–0.737)",
+     "0.695 (0.683–0.707)",
+     "0.272 (0.260–0.296)"
+    ],
+    [
+     "All Features",
+     "RDI ≥5",
+     "0.776 (0.765–0.787)",
+     "0.639 (0.613–0.664)",
+     "0.875 (0.885–0.903)"
+    ],
+    [
+     "All Features",
+     "RDI ≥15",
+     "0.735 (0.719–0.750)",
+     "0.637 (0.621–0.652)",
+     "0.613 (0.615–0.647)"
+    ],
+    [
+     "All Features",
+     "RDI ≥30",
+     "0.712 (0.688–0.735)",
+     "0.678 (0.665–0.690)",
+     "0.348 (0.346–0.383)"
+    ],
+    [
+     "Demographics Only",
+     "AHI ≥5",
+     "0.756 (0.743–0.768)",
+     "0.613 (0.593–0.633)",
+     "0.796 (0.781–0.805)"
+    ],
+    [
+     "Demographics Only",
+     "AHI ≥15",
+     "0.720 (0.701–0.739)",
+     "0.612 (0.598–0.626)",
+     "0.471 (0.451–0.485)"
+    ],
+    [
+     "Demographics Only",
+     "AHI ≥30",
+     "0.719 (0.690–0.747)",
+     "0.648 (0.636–0.660)",
+     "0.243 (0.237–0.269)"
+    ],
+    [
+     "Demographics Only",
+     "RDI ≥5",
+     "0.773 (0.762–0.784)",
+     "0.629 (0.603–0.654)",
+     "0.887 (0.882–0.900)"
+    ],
+    [
+     "Demographics Only",
+     "RDI ≥15",
+     "0.742 (0.726–0.757)",
+     "0.596 (0.580–0.612)",
+     "0.614 (0.593–0.624)"
+    ],
+    [
+     "Demographics Only",
+     "RDI ≥30",
+     "0.706 (0.681–0.729)",
+     "0.634 (0.621–0.647)",
+     "0.329 (0.316–0.350)"
+    ],
+    [
+     "Questionnaire Only",
+     "AHI ≥5",
+     "0.703 (0.689–0.716)",
+     "0.598 (0.578–0.618)",
+     "0.772 (0.761–0.787)"
+    ],
+    [
+     "Questionnaire Only",
+     "AHI ≥15",
+     "0.632 (0.611–0.652)",
+     "0.650 (0.636–0.664)",
+     "0.437 (0.443–0.479)"
+    ],
+    [
+     "Questionnaire Only",
+     "AHI ≥30",
+     "0.611 (0.580–0.641)",
+     "0.681 (0.669–0.693)",
+     "0.236 (0.224–0.258)"
+    ],
+    [
+     "Questionnaire Only",
+     "RDI ≥5",
+     "0.725 (0.713–0.737)",
+     "0.622 (0.596–0.647)",
+     "0.874 (0.873–0.892)"
+    ],
+    [
+     "Questionnaire Only",
+     "RDI ≥15",
+     "0.652 (0.635–0.669)",
+     "0.625 (0.609–0.641)",
+     "0.577 (0.579–0.612)"
+    ],
+    [
+     "Questionnaire Only",
+     "RDI ≥30",
+     "0.604 (0.578–0.629)",
+     "0.670 (0.657–0.682)",
+     "0.307 (0.304–0.340)"
+    ]
+   ],
+   "widths": [
+    1900,
+    1000,
+    1900,
+    1900,
+    1900
+   ]
+  }
+ ]
+}

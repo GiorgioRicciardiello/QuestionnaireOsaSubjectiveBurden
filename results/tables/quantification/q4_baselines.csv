@@ -1,0 +1,9 @@
+task,majority_class_accuracy,balanced_accuracy_chance
+binary AHI @ 5,0.662,0.5
+binary AHI @ 15,0.679,0.5
+binary AHI @ 30,0.858,0.5
+binary RDI @ 5,0.797,0.5
+binary RDI @ 15,0.542,0.5
+binary RDI @ 30,0.794,0.5
+four-class AHI,0.341,0.25
+four-class RDI,0.339,0.25

@@ -1,0 +1,126 @@
+{
+  "all_features": {
+    "ahi": [
+      0.743,
+      0.764
+    ],
+    "rdi": [
+      0.746,
+      0.763
+    ],
+    "all": [
+      0.743,
+      0.764
+    ]
+  },
+  "dem_only": {
+    "ahi": [
+      0.718,
+      0.749
+    ],
+    "rdi": [
+      0.717,
+      0.746
+    ],
+    "all": [
+      0.717,
+      0.749
+    ]
+  },
+  "no_dem": {
+    "ahi": [
+      0.674,
+      0.699
+    ],
+    "rdi": [
+      0.679,
+      0.696
+    ],
+    "all": [
+      0.674,
+      0.699
+    ]
+  },
+  "auroc": {
+    "ahi_5": {
+      "all_features": 0.764,
+      "dem_only": 0.749,
+      "no_dem": 0.69
+    },
+    "ahi_15": {
+      "all_features": 0.743,
+      "dem_only": 0.718,
+      "no_dem": 0.674
+    },
+    "ahi_30": {
+      "all_features": 0.763,
+      "dem_only": 0.726,
+      "no_dem": 0.699
+    },
+    "rdi_5": {
+      "all_features": 0.763,
+      "dem_only": 0.746,
+      "no_dem": 0.696
+    },
+    "rdi_15": {
+      "all_features": 0.746,
+      "dem_only": 0.723,
+      "no_dem": 0.679
+    },
+    "rdi_30": {
+      "all_features": 0.753,
+      "dem_only": 0.717,
+      "no_dem": 0.691
+    }
+  },
+  "all_features_minus_dem_only": {
+    "range": [
+      0.016,
+      0.038
+    ],
+    "ci_lower_range": [
+      0.01,
+      0.028
+    ],
+    "max_p": 3.372229284917089e-07,
+    "per_target": {
+      "ahi_5": 0.016,
+      "ahi_15": 0.025,
+      "ahi_30": 0.038,
+      "rdi_5": 0.017,
+      "rdi_15": 0.022,
+      "rdi_30": 0.036
+    }
+  },
+  "all_features_minus_no_dem": {
+    "range": [
+      0.062,
+      0.074
+    ],
+    "ci_lower_range": [
+      0.05,
+      0.063
+    ],
+    "max_p": 3.18376100069125e-20,
+    "per_target": {
+      "ahi_5": 0.074,
+      "ahi_15": 0.069,
+      "ahi_30": 0.064,
+      "rdi_5": 0.067,
+      "rdi_15": 0.067,
+      "rdi_30": 0.062
+    }
+  },
+  "dem_share_above_chance_pct": [
+    86,
+    94
+  ],
+  "n_test": {
+    "ahi_5": 6802,
+    "ahi_15": 6777,
+    "ahi_30": 6763,
+    "rdi_5": 6787,
+    "rdi_15": 6788,
+    "rdi_30": 6782
+  }
+}

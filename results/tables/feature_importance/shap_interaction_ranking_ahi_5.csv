@@ -1,0 +1,31 @@
+Rank,Feature A,Feature B,Mean |SHAP interaction|,n_samples
+1,Age,BMI,0.11279253,1000
+2,Age,Gender,0.10445046,1000
+3,Gender,BMI,0.07193399,1000
+4,Age,Snoring,0.04117299,1000
+5,Age,High Blood Pressure,0.017643213,1000
+6,Gender,Female Age >50,0.015585572,1000
+7,BMI,Witnessed Apneas,0.014551317,1000
+8,High Blood Pressure,Snoring,0.013932102,1000
+9,BMI,Snoring,0.013601923,1000
+10,BMI,High Blood Pressure,0.013101385,1000
+11,High Blood Pressure,Witnessed Apneas,0.012079089,1000
+12,BMI,Depression,0.011840939,1000
+13,Gender,Snoring,0.011216481,1000
+14,Snoring,Witnessed Apneas,0.010938592,1000
+15,Age,Witnessed Apneas,0.0105208475,1000
+16,Sleepiness Affect Performance,Snoring,0.008180651,1000
+17,Sleep Get Going,Snoring,0.0076919063,1000
+18,Gender,Witnessed Apneas,0.0076421285,1000
+19,Age,Obese,0.0071437,1000
+20,BMI,Before Bed Sleep Aid,0.0064183697,1000
+21,Age,Normal Weight,0.006382178,1000
+22,Age,Sleepiness Affect Performance,0.0063092383,1000
+23,Age,Ep. Score,0.005829502,1000
+24,Grind Teeth,Snoring,0.005799016,1000
+25,Age,Someone in Room,0.0056825588,1000
+26,Age,Depression,0.005567932,1000
+27,Age,Sleep Get Going,0.005190458,1000
+28,High Blood Pressure,Sleep Throat Burn,0.005133569,1000
+29,High Blood Pressure,Sleepiness Affect Performance,0.0050442587,1000
+30,High Blood Pressure,Sleep Restless,0.00501754,1000

@@ -9,8 +9,11 @@ This directory holds the input data referenced by `config/config.py`.
 
 ## Inclusion criterion
 
-The pipeline filters with `dem_age >= 18` at load time.  Effective N
-after filtering: ≈69,000 adult subjects.
+The pipeline filters with `dem_age >= 18` (inclusive, i.e. adults aged 18
+years or older) at load time.  Effective N after filtering: **67,397** of
+72,221 rows.  Note that a strict `dem_age > 18` filter yields 66,928 (it
+drops the 469 eighteen-year-olds); that number must not be used, as the
+models are trained on the inclusive cohort.
 
 ## Schema highlights
 

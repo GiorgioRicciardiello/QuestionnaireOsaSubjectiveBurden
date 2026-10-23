@@ -1,0 +1,2005 @@
+Feature_Set,Target,Rank,Feature,Mean_|SHAP|,Std,Direction
+All Features,AHI @ 5,1,Age,0.527,0.35430953,Increases odds
+All Features,AHI @ 5,2,BMI,0.497,0.3361194,Increases odds
+All Features,AHI @ 5,3,Gender,0.351,0.09123217,Increases odds
+All Features,AHI @ 5,4,Snoring,0.161,0.1327181,Increases odds
+All Features,AHI @ 5,5,Witnessed Apneas,0.107,0.101959884,Increases odds
+All Features,AHI @ 5,6,High Blood Pressure,0.092,0.037253905,Increases odds
+All Features,AHI @ 5,7,Before Bed Sleep Aid,0.029,0.017685069,Increases odds
+All Features,AHI @ 5,8,Obese,0.023,0.02618536,Increases odds
+All Features,AHI @ 5,9,Feel Sleepy Now,0.023,0.024791481,Increases odds
+All Features,AHI @ 5,10,Diabetes,0.022,0.014671974,Increases odds
+All Features,AHI @ 5,11,Sleep Asthma,0.02,0.03067619,Decreases odds
+All Features,AHI @ 5,12,Someone in Room,0.02,0.011435945,Increases odds
+All Features,AHI @ 5,13,Depression,0.02,0.017778374,Increases odds
+All Features,AHI @ 5,14,Sleep Get Going,0.018,0.020733597,Increases odds
+All Features,AHI @ 5,15,Sleepiness Affect Performance,0.017,0.015702222,Increases odds
+All Features,AHI @ 5,16,Sleep Throat Burn,0.017,0.013297053,Increases odds
+All Features,AHI @ 5,17,Sleep Other Movements,0.016,0.022317948,Decreases odds
+All Features,AHI @ 5,18,Ep. Score,0.016,0.012707895,Increases odds
+All Features,AHI @ 5,19,Dentures,0.016,0.018347314,Decreases odds
+All Features,AHI @ 5,20,Sleep Restless,0.016,0.013960581,Decreases odds
+All Features,AHI @ 5,21,Sleep Sweat,0.016,0.015437549,Increases odds
+All Features,AHI @ 5,22,Problem Not Feeling Rested,0.015,0.011664519,Increases odds
+All Features,AHI @ 5,23,Feeling Sleepy,0.015,0.010621674,Increases odds
+All Features,AHI @ 5,24,Sleep Talk,0.014,0.021946723,Decreases odds
+All Features,AHI @ 5,25,Problem with Sleepiness,0.014,0.009056919,Increases odds
+All Features,AHI @ 5,26,Physical Complaints Today,0.013,0.009957281,Increases odds
+All Features,AHI @ 5,27,Leg Jerk,0.013,0.0159695,Increases odds
+All Features,AHI @ 5,28,Normal Weight,0.013,0.014630678,Increases odds
+All Features,AHI @ 5,29,Alcohol,0.013,0.0063199676,Increases odds
+All Features,AHI @ 5,30,Female Age >50,0.012,0.008373584,Decreases odds
+All Features,AHI @ 5,31,Grind Teeth,0.012,0.01770543,Decreases odds
+All Features,AHI @ 5,32,Wake During Night,0.012,0.01235007,Increases odds
+All Features,AHI @ 5,33,Sleep Thirst,0.011,0.01063069,Increases odds
+All Features,AHI @ 5,34,Falling Asleep Worry,0.011,0.010956469,Increases odds
+All Features,AHI @ 5,35,Problem with Tiredness,0.011,0.009142631,Decreases odds
+All Features,AHI @ 5,36,Falling Asleep Thought,0.011,0.00704116,Increases odds
+All Features,AHI @ 5,37,Falling Asleep Muscular Tension,0.011,0.01194163,Increases odds
+All Features,AHI @ 5,38,Race,0.01,0.01877485,Increases odds
+All Features,AHI @ 5,39,More Than One Pillow,0.01,0.00613237,Decreases odds
+All Features,AHI @ 5,40,Swollen Legs,0.01,0.008681802,Increases odds
+All Features,AHI @ 5,41,Problem Going to Sleep at Night,0.01,0.0062710675,Decreases odds
+All Features,AHI @ 5,42,Falling Asleep Afraid,0.01,0.012836481,Decreases odds
+All Features,AHI @ 5,43,Ep. Car Passenger,0.01,0.006670307,Decreases odds
+All Features,AHI @ 5,44,Caffeinated Beverage Today,0.009,0.0038495096,Increases odds
+All Features,AHI @ 5,45,Joint Pain,0.009,0.0032014656,Increases odds
+All Features,AHI @ 5,46,Have Difficulty Falling Asleep,0.009,0.0030932124,Decreases odds
+All Features,AHI @ 5,47,Ep. Talking,0.009,0.007875924,Increases odds
+All Features,AHI @ 5,48,Weight Gain,0.008,0.005018582,Increases odds
+All Features,AHI @ 5,49,Headache,0.008,0.006108124,Decreases odds
+All Features,AHI @ 5,50,Feel Tired Now,0.008,0.0045865867,Increases odds
+All Features,AHI @ 5,51,Falling Asleep Discomfort,0.008,0.007555792,Increases odds
+All Features,AHI @ 5,52,Sleep Nasal Congestion,0.008,0.00833289,Decreases odds
+All Features,AHI @ 5,53,Sleep Short of Breath,0.008,0.008548388,Increases odds
+All Features,AHI @ 5,54,Frequent Cough,0.008,0.008707819,Increases odds
+All Features,AHI @ 5,55,Other Heart Disease,0.008,0.0082017165,Increases odds
+All Features,AHI @ 5,56,Breathing Difficulty,0.007,0.006284318,Increases odds
+All Features,AHI @ 5,57,Ep. Sitting Quietly,0.007,0.0051065236,Increases odds
+All Features,AHI @ 5,58,Time in Bed (Weekend),0.007,0.0061665457,Increases odds
+All Features,AHI @ 5,59,Falling Asleep Jerk,0.007,0.0067851953,Increases odds
+All Features,AHI @ 5,60,Sleep Disturb Partner,0.007,0.0064885463,Increases odds
+All Features,AHI @ 5,61,Feeling Tired,0.007,0.0066160783,Decreases odds
+All Features,AHI @ 5,62,Tobacco Habit,0.007,0.005190112,Decreases odds
+All Features,AHI @ 5,63,Someone in Bed,0.006,0.0039862976,Increases odds
+All Features,AHI @ 5,64,Sleep Chest Pain,0.006,0.010919601,Decreases odds
+All Features,AHI @ 5,65,Leg Pain While Falling Asleep,0.006,0.0034625148,Decreases odds
+All Features,AHI @ 5,66,Falling Asleep Dream,0.006,0.0070679705,Increases odds
+All Features,AHI @ 5,67,Ep. Reading,0.005,0.0044862838,Increases odds
+All Features,AHI @ 5,68,Problem Waking Up During Night,0.005,0.006673846,Increases odds
+All Features,AHI @ 5,69,Time in Bed (Weekday),0.005,0.0047995597,Increases odds
+All Features,AHI @ 5,70,Sleep Cough,0.005,0.009763665,Increases odds
+All Features,AHI @ 5,71,Feeling Alert,0.005,0.007131528,Increases odds
+All Features,AHI @ 5,72,Memory Loss,0.005,0.0051666447,Decreases odds
+All Features,AHI @ 5,73,Sleep Choke,0.005,0.007776403,Increases odds
+All Features,AHI @ 5,74,Sleep Leg Cramps,0.005,0.003756601,Decreases odds
+All Features,AHI @ 5,75,Sleep Indigestion,0.005,0.003799771,Increases odds
+All Features,AHI @ 5,76,Falling Asleep Depressed,0.005,0.0029987048,Increases odds
+All Features,AHI @ 5,77,Feeling Refreshing,0.005,0.003882248,Increases odds
+All Features,AHI @ 5,78,Hernia,0.005,0.006196512,Decreases odds
+All Features,AHI @ 5,79,Cancer,0.005,0.006282668,Increases odds
+All Features,AHI @ 5,80,Gasping Episodes,0.004,0.004999329,Decreases odds
+All Features,AHI @ 5,81,Sleep Urinate,0.004,0.0046487474,Decreases odds
+All Features,AHI @ 5,82,Ep. Sitting Quietly After Lunch,0.004,0.0028036446,Increases odds
+All Features,AHI @ 5,83,Sleep Alert,0.004,0.0058848574,Increases odds
+All Features,AHI @ 5,84,Low Blood Pressure,0.004,0.008636727,Decreases odds
+All Features,AHI @ 5,85,Caffeinated Beverage,0.004,0.0056490167,Increases odds
+All Features,AHI @ 5,86,Ep. Lying Down,0.004,0.0049808095,Increases odds
+All Features,AHI @ 5,87,Feel Alert Now,0.004,0.0051150345,Decreases odds
+All Features,AHI @ 5,88,Nasal Medication,0.004,0.0051120482,Decreases odds
+All Features,AHI @ 5,89,Liver Disease,0.004,0.011766245,Decreases odds
+All Features,AHI @ 5,90,Sleep Provide Assistance,0.004,0.008029819,Increases odds
+All Features,AHI @ 5,91,Slept Longer,0.004,0.0024123248,Decreases odds
+All Features,AHI @ 5,92,Awake Feeling,0.004,0.0022645772,Increases odds
+All Features,AHI @ 5,93,Sleep Special Surface,0.003,0.0038679945,Increases odds
+All Features,AHI @ 5,94,Ep. Watching TV,0.003,0.0023562969,Increases odds
+All Features,AHI @ 5,95,Dreaming Last Night,0.003,0.002743528,Increases odds
+All Features,AHI @ 5,96,Body Shaking,0.003,0.0038005847,Decreases odds
+All Features,AHI @ 5,97,Weight Loss,0.003,0.0038183734,Decreases odds
+All Features,AHI @ 5,98,Enlarged Heart,0.003,0.00558253,Increases odds
+All Features,AHI @ 5,99,Sleep Hunger,0.003,0.003903826,Decreases odds
+All Features,AHI @ 5,100,Naps Today,0.003,0.0035701238,Decreases odds
+All Features,AHI @ 5,101,Feeling Sick,0.003,0.003523684,Decreases odds
+All Features,AHI @ 5,102,Sleep Parasthesia,0.003,0.0033491596,Increases odds
+All Features,AHI @ 5,103,Heartburn,0.003,0.00227292,Decreases odds
+All Features,AHI @ 5,104,Shift 1st,0.003,0.002127513,Increases odds
+All Features,AHI @ 5,105,Sleep Itch,0.003,0.0030760875,Increases odds
+All Features,AHI @ 5,106,mh_tobacco_history,0.003,0.0022127184,Decreases odds
+All Features,AHI @ 5,107,Feel Sleepy Today,0.002,0.001979208,Increases odds
+All Features,AHI @ 5,108,Sleep Heart Pain,0.002,0.0043620593,Increases odds
+All Features,AHI @ 5,109,Sleep Walk,0.002,0.0066808485,Increases odds
+All Features,AHI @ 5,110,Sleep Quality Last Night,0.002,0.0016426512,Increases odds
+All Features,AHI @ 5,111,Too Little Sleep,0.002,0.0012959049,Decreases odds
+All Features,AHI @ 5,112,Nap,0.002,0.0017426382,Increases odds
+All Features,AHI @ 5,113,Chest Pain,0.002,0.003243783,Decreases odds
+All Features,AHI @ 5,114,Sleep Breath Problem,0.002,0.002242596,Increases odds
+All Features,AHI @ 5,115,Heart Attack,0.002,0.004504826,Increases odds
+All Features,AHI @ 5,116,Peptic Ulcer,0.002,0.0044747037,Decreases odds
+All Features,AHI @ 5,117,Medication Past Month,0.002,0.0026655411,Increases odds
+All Features,AHI @ 5,118,Kidney Disease,0.002,0.00470294,Decreases odds
+All Features,AHI @ 5,119,Sleep Eat,0.002,0.003399041,Increases odds
+All Features,AHI @ 5,120,Ep. In Car,0.002,0.0017533862,Increases odds
+All Features,AHI @ 5,121,Smothering Spells at Night,0.002,0.0018450122,Increases odds
+All Features,AHI @ 5,122,Sleep Stomach Pain,0.002,0.0036257384,Decreases odds
+All Features,AHI @ 5,123,Second Awaken Part,0.002,0.0012328582,Increases odds
+All Features,AHI @ 5,124,Shortness of Breath,0.001,0.0014851805,Increases odds
+All Features,AHI @ 5,125,Allergy,0.001,0.0012772159,Increases odds
+All Features,AHI @ 5,126,Speaking Difficulty,0.001,0.0029592607,Decreases odds
+All Features,AHI @ 5,127,Sleep Difficulty,0.001,0.001409288,Decreases odds
+All Features,AHI @ 5,128,Abnormal Glucose,0.001,0.003174129,Decreases odds
+All Features,AHI @ 5,129,First Awaken Part,0.001,0.001605471,Increases odds
+All Features,AHI @ 5,130,Alcohol Beverage Today,0.001,0.0031152326,Increases odds
+All Features,AHI @ 5,131,Difficulty Going Back to Sleep,0.001,0.0011370291,Increases odds
+All Features,AHI @ 5,132,Irregular Heart Beat,0.001,0.0015459314,Increases odds
+All Features,AHI @ 5,133,Stroke History,0.001,0.0019572491,Increases odds
+All Features,AHI @ 5,134,Third Awaken Part,0.001,0.0012518185,Decreases odds
+All Features,AHI @ 5,135,Thyroid Disease,0.001,0.0019839644,Decreases odds
+All Features,AHI @ 5,136,Shift 2nd,0.001,0.002532407,Decreases odds
+All Features,AHI @ 5,137,Too Much Sleep,0.001,0.0024959208,Increases odds
+All Features,AHI @ 5,138,Out of Ordinary Happen Today,0.001,0.0019382192,Increases odds
+All Features,AHI @ 5,139,Stomach Disease,0.001,0.0020541493,Decreases odds
+All Features,AHI @ 5,140,Paralysis Attacks,0.001,0.0023847823,Decreases odds
+All Features,AHI @ 5,141,Body Control Difficulty,0.001,0.0014628306,Decreases odds
+All Features,AHI @ 5,142,Alcohol Quit,0.001,0.0010977495,Increases odds
+All Features,AHI @ 5,143,Muscular Pain,0.001,0.0010097659,Increases odds
+All Features,AHI @ 5,144,Seizures,0.001,0.0014337735,Decreases odds
+All Features,AHI @ 5,145,Arthritis,0.001,0.0009474084,Increases odds
+All Features,AHI @ 5,146,Falling Asleep Paralyzed,0.001,0.0014574687,Increases odds
+All Features,AHI @ 5,147,Watch TV Before Bed,0.001,0.00074331707,Decreases odds
+All Features,AHI @ 5,148,Medications Today,0.001,0.0008837153,Increases odds
+All Features,AHI @ 5,149,Work Sleep Fatigue,0.001,0.0020297486,Increases odds
+All Features,AHI @ 5,150,Muscle Weakness,0.001,0.0006588105,Decreases odds
+All Features,AHI @ 5,151,Painful Sinus,0.001,0.0010133919,Increases odds
+All Features,AHI @ 5,152,Intestinal Disease,0.001,0.0013470768,Decreases odds
+All Features,AHI @ 5,153,Nasal Discharge,0.001,0.0011369443,Increases odds
+All Features,AHI @ 5,154,Anemia,0.001,0.0011815173,Increases odds
+All Features,AHI @ 5,155,Shift 3rd,0.001,0.001906984,Decreases odds
+All Features,AHI @ 5,156,Low Blood Sugar,0.001,0.0013115344,Decreases odds
+All Features,AHI @ 5,157,Physical Strenuous Day,0.001,0.0011404163,Increases odds
+All Features,AHI @ 5,158,Voice Changes,0.001,0.0007229487,Increases odds
+All Features,AHI @ 5,159,Sleep Accident Mistakes,0.001,0.00088391925,Increases odds
+All Features,AHI @ 5,160,Enlarged Thyroid,0.001,0.0014376617,Increases odds
+All Features,AHI @ 5,161,Sleep Accident Fatigue,0.001,0.0009042182,Increases odds
+All Features,AHI @ 5,162,Personality Changes,0.0,0.0007433787,Decreases odds
+All Features,AHI @ 5,163,HIV,0.0,0.004421502,Increases odds
+All Features,AHI @ 5,164,Swallowing Difficulty,0.0,0.00075964,Increases odds
+All Features,AHI @ 5,165,Shift Swing,0.0,0.0014784761,Increases odds
+All Features,AHI @ 5,166,Sleep Related Misses,0.0,0.0007150983,Increases odds
+All Features,AHI @ 5,167,Sleep Related Accidents,0.0,0.0,Decreases odds
+All Features,AHI @ 5,168,Tuberculosis,0.0,0.0,Decreases odds
+All Features,AHI @ 5,169,Underweight,0.0,0.0,Decreases odds
+All Features,AHI @ 15,1,Age,0.455,0.35308412,Decreases odds
+All Features,AHI @ 15,2,BMI,0.448,0.31564772,Decreases odds
+All Features,AHI @ 15,3,Gender,0.378,0.07530466,Decreases odds
+All Features,AHI @ 15,4,Snoring,0.168,0.11219197,Decreases odds
+All Features,AHI @ 15,5,Witnessed Apneas,0.123,0.108778,Decreases odds
+All Features,AHI @ 15,6,High Blood Pressure,0.098,0.04210972,Decreases odds
+All Features,AHI @ 15,7,Have Difficulty Falling Asleep,0.092,0.020562897,Decreases odds
+All Features,AHI @ 15,8,Sleep Throat Burn,0.039,0.034434803,Decreases odds
+All Features,AHI @ 15,9,Race,0.036,0.025054831,Decreases odds
+All Features,AHI @ 15,10,Sleep Quality Last Night,0.035,0.0151591785,Decreases odds
+All Features,AHI @ 15,11,Before Bed Sleep Aid,0.035,0.024535779,Increases odds
+All Features,AHI @ 15,12,Diabetes,0.032,0.018222963,Decreases odds
+All Features,AHI @ 15,13,Sleepiness Affect Performance,0.03,0.024844792,Decreases odds
+All Features,AHI @ 15,14,Falling Asleep Thought,0.029,0.02472608,Decreases odds
+All Features,AHI @ 15,15,Sleep Asthma,0.027,0.044631436,Decreases odds
+All Features,AHI @ 15,16,Nap,0.025,0.008772182,Decreases odds
+All Features,AHI @ 15,17,Headache,0.023,0.020403735,Decreases odds
+All Features,AHI @ 15,18,Ep. Score,0.023,0.021632638,Decreases odds
+All Features,AHI @ 15,19,Someone in Room,0.023,0.018198023,Decreases odds
+All Features,AHI @ 15,20,Sleep Thirst,0.023,0.021671256,Decreases odds
+All Features,AHI @ 15,21,Feel Tired Now,0.023,0.015676968,Decreases odds
+All Features,AHI @ 15,22,Weight Gain,0.021,0.013368411,Increases odds
+All Features,AHI @ 15,23,Sleep Restless,0.021,0.015675804,Decreases odds
+All Features,AHI @ 15,24,Sleep Nasal Congestion,0.021,0.026439229,Increases odds
+All Features,AHI @ 15,25,Grind Teeth,0.021,0.020900834,Decreases odds
+All Features,AHI @ 15,26,Shift 1st,0.021,0.011880668,Decreases odds
+All Features,AHI @ 15,27,Problem Not Feeling Rested,0.02,0.01573591,Decreases odds
+All Features,AHI @ 15,28,Time in Bed (Weekend),0.019,0.012190339,Decreases odds
+All Features,AHI @ 15,29,Problem Waking Up During Night,0.019,0.014602201,Decreases odds
+All Features,AHI @ 15,30,Ep. Talking,0.017,0.014134982,Decreases odds
+All Features,AHI @ 15,31,Time in Bed (Weekday),0.017,0.012650166,Increases odds
+All Features,AHI @ 15,32,Feel Sleepy Now,0.017,0.035198044,Decreases odds
+All Features,AHI @ 15,33,Ep. In Car,0.017,0.011588916,Decreases odds
+All Features,AHI @ 15,34,Sleep Other Movements,0.016,0.020713968,Decreases odds
+All Features,AHI @ 15,35,Gasping Episodes,0.016,0.017897967,Decreases odds
+All Features,AHI @ 15,36,Sleep Parasthesia,0.016,0.016525473,Decreases odds
+All Features,AHI @ 15,37,Naps Today,0.015,0.012578727,Decreases odds
+All Features,AHI @ 15,38,Sleep Alert,0.015,0.0087524485,Increases odds
+All Features,AHI @ 15,39,Alcohol,0.015,0.007023104,Increases odds
+All Features,AHI @ 15,40,Dentures,0.015,0.017005539,Decreases odds
+All Features,AHI @ 15,41,First Awaken Part,0.015,0.014347372,Increases odds
+All Features,AHI @ 15,42,Breathing Difficulty,0.014,0.009416448,Increases odds
+All Features,AHI @ 15,43,Hernia,0.014,0.022822687,Decreases odds
+All Features,AHI @ 15,44,Someone in Bed,0.013,0.011906541,Increases odds
+All Features,AHI @ 15,45,Leg Jerk,0.013,0.016185412,Decreases odds
+All Features,AHI @ 15,46,Feeling Refreshing,0.013,0.011850043,Decreases odds
+All Features,AHI @ 15,47,Sleep Choke,0.013,0.014327524,Decreases odds
+All Features,AHI @ 15,48,Problem Going to Sleep at Night,0.013,0.0073847934,Decreases odds
+All Features,AHI @ 15,49,Wake During Night,0.013,0.014077989,Decreases odds
+All Features,AHI @ 15,50,Physical Complaints Today,0.013,0.012328474,Decreases odds
+All Features,AHI @ 15,51,Feeling Tired,0.012,0.011884611,Decreases odds
+All Features,AHI @ 15,52,Sleep Get Going,0.012,0.017109219,Decreases odds
+All Features,AHI @ 15,53,Sleep Urinate,0.011,0.00875423,Decreases odds
+All Features,AHI @ 15,54,Memory Loss,0.011,0.012447658,Decreases odds
+All Features,AHI @ 15,55,Problem with Tiredness,0.011,0.010540435,Decreases odds
+All Features,AHI @ 15,56,Nasal Discharge,0.011,0.012502633,Decreases odds
+All Features,AHI @ 15,57,Weight Loss,0.01,0.016853534,Decreases odds
+All Features,AHI @ 15,58,Sleep Leg Cramps,0.01,0.014938156,Decreases odds
+All Features,AHI @ 15,59,Normal Weight,0.01,0.014466389,Decreases odds
+All Features,AHI @ 15,60,Ep. Sitting Quietly,0.01,0.007961109,Decreases odds
+All Features,AHI @ 15,61,Too Little Sleep,0.01,0.002887567,Decreases odds
+All Features,AHI @ 15,62,Falling Asleep Worry,0.009,0.009836502,Decreases odds
+All Features,AHI @ 15,63,Female Age >50,0.009,0.008158669,Decreases odds
+All Features,AHI @ 15,64,Problem with Sleepiness,0.009,0.009310043,Decreases odds
+All Features,AHI @ 15,65,Falling Asleep Afraid,0.009,0.009688589,Decreases odds
+All Features,AHI @ 15,66,Irregular Heart Beat,0.008,0.009683423,Decreases odds
+All Features,AHI @ 15,67,Swollen Legs,0.008,0.0063871597,Increases odds
+All Features,AHI @ 15,68,More Than One Pillow,0.008,0.0058362884,Increases odds
+All Features,AHI @ 15,69,Sleep Talk,0.008,0.010160406,Decreases odds
+All Features,AHI @ 15,70,Leg Pain While Falling Asleep,0.008,0.006590658,Decreases odds
+All Features,AHI @ 15,71,Sleep Sweat,0.008,0.01284343,Decreases odds
+All Features,AHI @ 15,72,Obese,0.008,0.010704587,Decreases odds
+All Features,AHI @ 15,73,Falling Asleep Muscular Tension,0.008,0.010422252,Decreases odds
+All Features,AHI @ 15,74,Depression,0.007,0.0087469565,Decreases odds
+All Features,AHI @ 15,75,Allergy,0.007,0.004229205,Decreases odds
+All Features,AHI @ 15,76,Frequent Cough,0.007,0.00780607,Decreases odds
+All Features,AHI @ 15,77,Sleep Indigestion,0.007,0.004890739,Decreases odds
+All Features,AHI @ 15,78,Shortness of Breath,0.007,0.00450864,Increases odds
+All Features,AHI @ 15,79,Falling Asleep Jerk,0.007,0.007878335,Increases odds
+All Features,AHI @ 15,80,Voice Changes,0.007,0.0052720997,Decreases odds
+All Features,AHI @ 15,81,Ep. Sitting Quietly After Lunch,0.006,0.0060071805,Decreases odds
+All Features,AHI @ 15,82,Falling Asleep Discomfort,0.006,0.006418157,Increases odds
+All Features,AHI @ 15,83,Sleep Special Surface,0.006,0.009935171,Decreases odds
+All Features,AHI @ 15,84,Nasal Medication,0.006,0.005319321,Decreases odds
+All Features,AHI @ 15,85,Sleep Itch,0.006,0.008282035,Decreases odds
+All Features,AHI @ 15,86,Sleep Provide Assistance,0.006,0.008425931,Decreases odds
+All Features,AHI @ 15,87,Feeling Alert,0.006,0.0077833,Decreases odds
+All Features,AHI @ 15,88,Watch TV Before Bed,0.006,0.002676801,Decreases odds
+All Features,AHI @ 15,89,Feel Alert Now,0.006,0.0054732612,Decreases odds
+All Features,AHI @ 15,90,Ep. Reading,0.006,0.005045345,Decreases odds
+All Features,AHI @ 15,91,Sleep Chest Pain,0.006,0.010851855,Decreases odds
+All Features,AHI @ 15,92,Sleep Disturb Partner,0.006,0.0042501185,Increases odds
+All Features,AHI @ 15,93,Ep. Lying Down,0.005,0.0045176228,Decreases odds
+All Features,AHI @ 15,94,Falling Asleep Dream,0.005,0.007884986,Increases odds
+All Features,AHI @ 15,95,Heartburn,0.005,0.004086136,Decreases odds
+All Features,AHI @ 15,96,Sleep Cough,0.005,0.0074362503,Decreases odds
+All Features,AHI @ 15,97,Feeling Sleepy,0.005,0.0036588728,Decreases odds
+All Features,AHI @ 15,98,Medications Today,0.004,0.0026824698,Decreases odds
+All Features,AHI @ 15,99,Sleep Breath Problem,0.004,0.00441469,Decreases odds
+All Features,AHI @ 15,100,Falling Asleep Paralyzed,0.004,0.0068969484,Decreases odds
+All Features,AHI @ 15,101,Stomach Disease,0.004,0.009772421,Decreases odds
+All Features,AHI @ 15,102,Difficulty Going Back to Sleep,0.004,0.0036797673,Decreases odds
+All Features,AHI @ 15,103,Medication Past Month,0.004,0.006117237,Decreases odds
+All Features,AHI @ 15,104,Sleep Short of Breath,0.004,0.005686897,Decreases odds
+All Features,AHI @ 15,105,Sleep Stomach Pain,0.004,0.0052584466,Decreases odds
+All Features,AHI @ 15,106,Kidney Disease,0.004,0.007490153,Increases odds
+All Features,AHI @ 15,107,Falling Asleep Depressed,0.004,0.004612945,Increases odds
+All Features,AHI @ 15,108,Feel Sleepy Today,0.004,0.0026532616,Decreases odds
+All Features,AHI @ 15,109,Ep. Car Passenger,0.004,0.0030138486,Decreases odds
+All Features,AHI @ 15,110,Sleep Eat,0.004,0.0040107127,Decreases odds
+All Features,AHI @ 15,111,Body Shaking,0.004,0.0055013,Decreases odds
+All Features,AHI @ 15,112,Enlarged Heart,0.003,0.007037584,Increases odds
+All Features,AHI @ 15,113,Caffeinated Beverage,0.003,0.0052476767,Decreases odds
+All Features,AHI @ 15,114,Tobacco Habit,0.003,0.0027334082,Decreases odds
+All Features,AHI @ 15,115,Stroke History,0.003,0.006053471,Increases odds
+All Features,AHI @ 15,116,Third Awaken Part,0.003,0.0028378482,Decreases odds
+All Features,AHI @ 15,117,mh_tobacco_history,0.003,0.0029609397,Decreases odds
+All Features,AHI @ 15,118,Heart Attack,0.003,0.004497006,Increases odds
+All Features,AHI @ 15,119,Ep. Watching TV,0.003,0.0033542095,Decreases odds
+All Features,AHI @ 15,120,Alcohol Beverage Today,0.003,0.007246311,Decreases odds
+All Features,AHI @ 15,121,Second Awaken Part,0.003,0.0017671057,Increases odds
+All Features,AHI @ 15,122,Slept Longer,0.003,0.0021659266,Decreases odds
+All Features,AHI @ 15,123,Seizures,0.003,0.0065408223,Decreases odds
+All Features,AHI @ 15,124,Sleep Difficulty,0.003,0.0023385081,Decreases odds
+All Features,AHI @ 15,125,Physical Strenuous Day,0.003,0.005278718,Decreases odds
+All Features,AHI @ 15,126,Sleep Heart Pain,0.003,0.004429947,Increases odds
+All Features,AHI @ 15,127,Other Heart Disease,0.003,0.0021471288,Increases odds
+All Features,AHI @ 15,128,Sleep Hunger,0.003,0.0047193333,Decreases odds
+All Features,AHI @ 15,129,Muscular Pain,0.003,0.0021377367,Decreases odds
+All Features,AHI @ 15,130,Caffeinated Beverage Today,0.003,0.0022423342,Decreases odds
+All Features,AHI @ 15,131,Chest Pain,0.003,0.0031862678,Decreases odds
+All Features,AHI @ 15,132,Awake Feeling,0.003,0.0023495487,Decreases odds
+All Features,AHI @ 15,133,Sleep Walk,0.002,0.006135945,Decreases odds
+All Features,AHI @ 15,134,Alcohol Quit,0.002,0.0043111905,Decreases odds
+All Features,AHI @ 15,135,Joint Pain,0.002,0.0021157723,Decreases odds
+All Features,AHI @ 15,136,Low Blood Pressure,0.002,0.004718123,Decreases odds
+All Features,AHI @ 15,137,Cancer,0.002,0.0030108506,Increases odds
+All Features,AHI @ 15,138,Smothering Spells at Night,0.002,0.0029003008,Decreases odds
+All Features,AHI @ 15,139,Work Sleep Fatigue,0.002,0.006142522,Decreases odds
+All Features,AHI @ 15,140,Thyroid Disease,0.002,0.0032051976,Decreases odds
+All Features,AHI @ 15,141,Enlarged Thyroid,0.002,0.004869186,Decreases odds
+All Features,AHI @ 15,142,Dreaming Last Night,0.002,0.0019301954,Decreases odds
+All Features,AHI @ 15,143,Muscle Weakness,0.002,0.0016759379,Increases odds
+All Features,AHI @ 15,144,Arthritis,0.002,0.0016790444,Decreases odds
+All Features,AHI @ 15,145,Painful Sinus,0.002,0.0022546188,Decreases odds
+All Features,AHI @ 15,146,Personality Changes,0.002,0.003211841,Decreases odds
+All Features,AHI @ 15,147,Swallowing Difficulty,0.002,0.002364199,Decreases odds
+All Features,AHI @ 15,148,Feeling Sick,0.001,0.002517534,Decreases odds
+All Features,AHI @ 15,149,Intestinal Disease,0.001,0.003866126,Decreases odds
+All Features,AHI @ 15,150,Anemia,0.001,0.0022122327,Decreases odds
+All Features,AHI @ 15,151,Too Much Sleep,0.001,0.0027011621,Decreases odds
+All Features,AHI @ 15,152,Body Control Difficulty,0.001,0.0018539687,Decreases odds
+All Features,AHI @ 15,153,Shift 2nd,0.001,0.0026430017,Decreases odds
+All Features,AHI @ 15,154,Peptic Ulcer,0.001,0.0031267435,Decreases odds
+All Features,AHI @ 15,155,Liver Disease,0.001,0.0028580471,Decreases odds
+All Features,AHI @ 15,156,Paralysis Attacks,0.001,0.0025343888,Decreases odds
+All Features,AHI @ 15,157,Shift 3rd,0.001,0.003168035,Decreases odds
+All Features,AHI @ 15,158,Sleep Related Misses,0.001,0.0019000641,Decreases odds
+All Features,AHI @ 15,159,Sleep Related Accidents,0.001,0.0067305663,Increases odds
+All Features,AHI @ 15,160,Low Blood Sugar,0.001,0.0011198182,Decreases odds
+All Features,AHI @ 15,161,Out of Ordinary Happen Today,0.001,0.0014918547,Decreases odds
+All Features,AHI @ 15,162,Speaking Difficulty,0.001,0.0013781908,Decreases odds
+All Features,AHI @ 15,163,Tuberculosis,0.0,0.0009226413,Increases odds
+All Features,AHI @ 15,164,Shift Swing,0.0,0.0020614597,Decreases odds
+All Features,AHI @ 15,165,Abnormal Glucose,0.0,0.001043336,Increases odds
+All Features,AHI @ 15,166,Sleep Accident Mistakes,0.0,0.0015741109,Increases odds
+All Features,AHI @ 15,167,Sleep Accident Fatigue,0.0,0.00051137444,Increases odds
+All Features,AHI @ 15,168,HIV,0.0,0.0004916192,Increases odds
+All Features,AHI @ 15,169,Underweight,0.0,0.0,Decreases odds
+All Features,AHI @ 30,1,BMI,0.543,0.36071742,Decreases odds
+All Features,AHI @ 30,2,Age,0.481,0.3581615,Decreases odds
+All Features,AHI @ 30,3,Gender,0.476,0.075179935,Decreases odds
+All Features,AHI @ 30,4,Snoring,0.167,0.13042125,Decreases odds
+All Features,AHI @ 30,5,Witnessed Apneas,0.149,0.13535178,Decreases odds
+All Features,AHI @ 30,6,Have Difficulty Falling Asleep,0.144,0.028221052,Decreases odds
+All Features,AHI @ 30,7,High Blood Pressure,0.129,0.05730369,Decreases odds
+All Features,AHI @ 30,8,Sleep Quality Last Night,0.077,0.029157763,Decreases odds
+All Features,AHI @ 30,9,Race,0.072,0.046282902,Decreases odds
+All Features,AHI @ 30,10,Shift 1st,0.055,0.030934444,Decreases odds
+All Features,AHI @ 30,11,Feel Tired Now,0.049,0.031894647,Decreases odds
+All Features,AHI @ 30,12,Sleepiness Affect Performance,0.048,0.035050243,Decreases odds
+All Features,AHI @ 30,13,Sleep Throat Burn,0.044,0.037768867,Decreases odds
+All Features,AHI @ 30,14,Feeling Refreshing,0.044,0.042189535,Decreases odds
+All Features,AHI @ 30,15,Sleep Asthma,0.04,0.06226808,Decreases odds
+All Features,AHI @ 30,16,Falling Asleep Thought,0.038,0.029195601,Decreases odds
+All Features,AHI @ 30,17,Sleep Parasthesia,0.038,0.04365977,Decreases odds
+All Features,AHI @ 30,18,Time in Bed (Weekday),0.037,0.033018313,Decreases odds
+All Features,AHI @ 30,19,Time in Bed (Weekend),0.036,0.02511964,Increases odds
+All Features,AHI @ 30,20,Diabetes,0.035,0.010687916,Decreases odds
+All Features,AHI @ 30,21,Naps Today,0.033,0.025337469,Decreases odds
+All Features,AHI @ 30,22,Headache,0.032,0.029585162,Decreases odds
+All Features,AHI @ 30,23,Before Bed Sleep Aid,0.032,0.025657995,Decreases odds
+All Features,AHI @ 30,24,Falling Asleep Discomfort,0.031,0.02196799,Increases odds
+All Features,AHI @ 30,25,Someone in Bed,0.031,0.02142191,Decreases odds
+All Features,AHI @ 30,26,Someone in Room,0.031,0.017747322,Decreases odds
+All Features,AHI @ 30,27,Nap,0.029,0.0125216,Decreases odds
+All Features,AHI @ 30,28,Ep. Score,0.029,0.031590383,Decreases odds
+All Features,AHI @ 30,29,Breathing Difficulty,0.029,0.018139245,Decreases odds
+All Features,AHI @ 30,30,Problem with Tiredness,0.026,0.018794082,Decreases odds
+All Features,AHI @ 30,31,Weight Gain,0.026,0.019041104,Decreases odds
+All Features,AHI @ 30,32,Sleep Restless,0.024,0.020371836,Decreases odds
+All Features,AHI @ 30,33,Grind Teeth,0.023,0.024952713,Decreases odds
+All Features,AHI @ 30,34,Ep. Watching TV,0.023,0.009734035,Decreases odds
+All Features,AHI @ 30,35,Ep. Talking,0.02,0.021251492,Decreases odds
+All Features,AHI @ 30,36,Feeling Tired,0.02,0.014668038,Decreases odds
+All Features,AHI @ 30,37,Swollen Legs,0.019,0.01389842,Increases odds
+All Features,AHI @ 30,38,Wake During Night,0.019,0.022509541,Decreases odds
+All Features,AHI @ 30,39,Weight Loss,0.019,0.031715468,Decreases odds
+All Features,AHI @ 30,40,Sleep Thirst,0.019,0.01812744,Decreases odds
+All Features,AHI @ 30,41,Ep. In Car,0.018,0.013188868,Decreases odds
+All Features,AHI @ 30,42,Medications Today,0.018,0.006193803,Decreases odds
+All Features,AHI @ 30,43,Dentures,0.017,0.016622053,Increases odds
+All Features,AHI @ 30,44,Hernia,0.016,0.029179765,Decreases odds
+All Features,AHI @ 30,45,Difficulty Going Back to Sleep,0.015,0.0083899405,Decreases odds
+All Features,AHI @ 30,46,Falling Asleep Muscular Tension,0.015,0.009214176,Increases odds
+All Features,AHI @ 30,47,Sleep Urinate,0.015,0.008667457,Decreases odds
+All Features,AHI @ 30,48,Awake Feeling,0.015,0.0073544662,Decreases odds
+All Features,AHI @ 30,49,Feel Sleepy Now,0.014,0.03369607,Increases odds
+All Features,AHI @ 30,50,Memory Loss,0.014,0.017164629,Decreases odds
+All Features,AHI @ 30,51,Sleep Get Going,0.014,0.019319937,Decreases odds
+All Features,AHI @ 30,52,Problem Not Feeling Rested,0.014,0.012985842,Decreases odds
+All Features,AHI @ 30,53,Sleep Nasal Congestion,0.012,0.013125424,Increases odds
+All Features,AHI @ 30,54,Sleep Leg Cramps,0.012,0.02429323,Decreases odds
+All Features,AHI @ 30,55,Ep. Sitting Quietly,0.012,0.006921069,Decreases odds
+All Features,AHI @ 30,56,Falling Asleep Worry,0.012,0.016460197,Increases odds
+All Features,AHI @ 30,57,Physical Complaints Today,0.011,0.010483437,Decreases odds
+All Features,AHI @ 30,58,Ep. Sitting Quietly After Lunch,0.011,0.006128441,Decreases odds
+All Features,AHI @ 30,59,Gasping Episodes,0.01,0.0123448875,Increases odds
+All Features,AHI @ 30,60,Sleep Sweat,0.01,0.013373767,Decreases odds
+All Features,AHI @ 30,61,Sleep Alert,0.01,0.007741615,Increases odds
+All Features,AHI @ 30,62,Falling Asleep Paralyzed,0.01,0.014777071,Decreases odds
+All Features,AHI @ 30,63,Kidney Disease,0.01,0.022659292,Decreases odds
+All Features,AHI @ 30,64,Ep. Reading,0.009,0.009698445,Decreases odds
+All Features,AHI @ 30,65,Caffeinated Beverage Today,0.009,0.004053226,Decreases odds
+All Features,AHI @ 30,66,Leg Jerk,0.009,0.0054230615,Decreases odds
+All Features,AHI @ 30,67,Sleep Other Movements,0.008,0.017858634,Decreases odds
+All Features,AHI @ 30,68,Falling Asleep Depressed,0.008,0.007298882,Increases odds
+All Features,AHI @ 30,69,First Awaken Part,0.008,0.0070253736,Decreases odds
+All Features,AHI @ 30,70,Irregular Heart Beat,0.008,0.009406771,Increases odds
+All Features,AHI @ 30,71,Female Age >50,0.007,0.0074636764,Decreases odds
+All Features,AHI @ 30,72,Feeling Alert,0.007,0.006436566,Decreases odds
+All Features,AHI @ 30,73,Other Heart Disease,0.007,0.0084520625,Decreases odds
+All Features,AHI @ 30,74,Sleep Itch,0.007,0.00677719,Decreases odds
+All Features,AHI @ 30,75,Falling Asleep Afraid,0.007,0.0077091223,Increases odds
+All Features,AHI @ 30,76,Stomach Disease,0.007,0.015166537,Decreases odds
+All Features,AHI @ 30,77,Sleep Chest Pain,0.007,0.010831236,Decreases odds
+All Features,AHI @ 30,78,Shortness of Breath,0.007,0.002811359,Decreases odds
+All Features,AHI @ 30,79,Problem Going to Sleep at Night,0.007,0.0059522428,Decreases odds
+All Features,AHI @ 30,80,Ep. Car Passenger,0.006,0.004069145,Decreases odds
+All Features,AHI @ 30,81,Falling Asleep Jerk,0.006,0.009723059,Decreases odds
+All Features,AHI @ 30,82,Swallowing Difficulty,0.006,0.009185922,Increases odds
+All Features,AHI @ 30,83,Normal Weight,0.006,0.009528588,Decreases odds
+All Features,AHI @ 30,84,Out of Ordinary Happen Today,0.006,0.012152814,Decreases odds
+All Features,AHI @ 30,85,Problem Waking Up During Night,0.006,0.0036592328,Decreases odds
+All Features,AHI @ 30,86,Sleep Stomach Pain,0.006,0.005528361,Increases odds
+All Features,AHI @ 30,87,Stroke History,0.006,0.008568853,Decreases odds
+All Features,AHI @ 30,88,Feeling Sick,0.005,0.008119187,Decreases odds
+All Features,AHI @ 30,89,Feel Alert Now,0.005,0.008948725,Decreases odds
+All Features,AHI @ 30,90,Feeling Sleepy,0.005,0.006380439,Decreases odds
+All Features,AHI @ 30,91,Leg Pain While Falling Asleep,0.005,0.0050762435,Decreases odds
+All Features,AHI @ 30,92,Sleep Eat,0.005,0.0034830316,Increases odds
+All Features,AHI @ 30,93,Cancer,0.005,0.006527763,Increases odds
+All Features,AHI @ 30,94,Medication Past Month,0.005,0.006949854,Increases odds
+All Features,AHI @ 30,95,Physical Strenuous Day,0.005,0.008220998,Decreases odds
+All Features,AHI @ 30,96,Joint Pain,0.005,0.0037190148,Decreases odds
+All Features,AHI @ 30,97,Sleep Choke,0.004,0.0035412826,Increases odds
+All Features,AHI @ 30,98,Third Awaken Part,0.004,0.0029262928,Increases odds
+All Features,AHI @ 30,99,Sleep Special Surface,0.004,0.0052196328,Decreases odds
+All Features,AHI @ 30,100,Slept Longer,0.004,0.004127148,Decreases odds
+All Features,AHI @ 30,101,More Than One Pillow,0.004,0.0028349801,Decreases odds
+All Features,AHI @ 30,102,Nasal Medication,0.004,0.003402802,Decreases odds
+All Features,AHI @ 30,103,Sleep Cough,0.004,0.008503552,Decreases odds
+All Features,AHI @ 30,104,Sleep Short of Breath,0.003,0.002514862,Increases odds
+All Features,AHI @ 30,105,Personality Changes,0.003,0.005956337,Decreases odds
+All Features,AHI @ 30,106,Work Sleep Fatigue,0.003,0.012809718,Decreases odds
+All Features,AHI @ 30,107,Paralysis Attacks,0.003,0.011227196,Decreases odds
+All Features,AHI @ 30,108,Sleep Provide Assistance,0.003,0.0039673606,Decreases odds
+All Features,AHI @ 30,109,Depression,0.003,0.0028187549,Decreases odds
+All Features,AHI @ 30,110,Liver Disease,0.003,0.011047068,Decreases odds
+All Features,AHI @ 30,111,Ep. Lying Down,0.002,0.0027741876,Decreases odds
+All Features,AHI @ 30,112,Second Awaken Part,0.002,0.0013836216,Decreases odds
+All Features,AHI @ 30,113,Falling Asleep Dream,0.002,0.0047394363,Decreases odds
+All Features,AHI @ 30,114,Heartburn,0.002,0.0030435927,Decreases odds
+All Features,AHI @ 30,115,Obese,0.002,0.004060245,Decreases odds
+All Features,AHI @ 30,116,Frequent Cough,0.002,0.0019348301,Decreases odds
+All Features,AHI @ 30,117,Sleep Disturb Partner,0.002,0.0023421044,Decreases odds
+All Features,AHI @ 30,118,Enlarged Heart,0.002,0.00439209,Increases odds
+All Features,AHI @ 30,119,Problem with Sleepiness,0.002,0.0026755782,Decreases odds
+All Features,AHI @ 30,120,Nasal Discharge,0.002,0.0032048186,Decreases odds
+All Features,AHI @ 30,121,Caffeinated Beverage,0.002,0.0031409278,Decreases odds
+All Features,AHI @ 30,122,Watch TV Before Bed,0.002,0.0012014696,Increases odds
+All Features,AHI @ 30,123,Low Blood Pressure,0.002,0.003174108,Decreases odds
+All Features,AHI @ 30,124,Sleep Heart Pain,0.002,0.0042735217,Decreases odds
+All Features,AHI @ 30,125,Sleep Indigestion,0.002,0.0015852951,Increases odds
+All Features,AHI @ 30,126,Dreaming Last Night,0.002,0.0027357854,Decreases odds
+All Features,AHI @ 30,127,Sleep Hunger,0.002,0.0023135873,Decreases odds
+All Features,AHI @ 30,128,Too Little Sleep,0.001,0.0018686976,Decreases odds
+All Features,AHI @ 30,129,Alcohol,0.001,0.00096456223,Decreases odds
+All Features,AHI @ 30,130,Sleep Talk,0.001,0.0019214401,Increases odds
+All Features,AHI @ 30,131,Sleep Walk,0.001,0.0022089123,Decreases odds
+All Features,AHI @ 30,132,mh_tobacco_history,0.001,0.0010486422,Increases odds
+All Features,AHI @ 30,133,Alcohol Quit,0.001,0.0015679632,Decreases odds
+All Features,AHI @ 30,134,Tobacco Habit,0.001,0.00095407735,Decreases odds
+All Features,AHI @ 30,135,Thyroid Disease,0.001,0.0024314558,Decreases odds
+All Features,AHI @ 30,136,Speaking Difficulty,0.001,0.0038324208,Decreases odds
+All Features,AHI @ 30,137,Heart Attack,0.001,0.0022984205,Decreases odds
+All Features,AHI @ 30,138,Seizures,0.001,0.0029720026,Decreases odds
+All Features,AHI @ 30,139,Sleep Breath Problem,0.001,0.0018879748,Decreases odds
+All Features,AHI @ 30,140,Painful Sinus,0.001,0.0019546342,Decreases odds
+All Features,AHI @ 30,141,Muscle Weakness,0.001,0.001907875,Decreases odds
+All Features,AHI @ 30,142,Shift 2nd,0.001,0.0030144874,Decreases odds
+All Features,AHI @ 30,143,Smothering Spells at Night,0.001,0.0018357651,Decreases odds
+All Features,AHI @ 30,144,Allergy,0.001,0.0008604778,Increases odds
+All Features,AHI @ 30,145,Peptic Ulcer,0.001,0.00097623136,Increases odds
+All Features,AHI @ 30,146,Body Control Difficulty,0.001,0.0010170817,Increases odds
+All Features,AHI @ 30,147,Voice Changes,0.001,0.0008665559,Decreases odds
+All Features,AHI @ 30,148,Too Much Sleep,0.001,0.0019826067,Decreases odds
+All Features,AHI @ 30,149,Sleep Related Accidents,0.0,0.006095039,Increases odds
+All Features,AHI @ 30,150,Sleep Difficulty,0.0,0.0011774033,Decreases odds
+All Features,AHI @ 30,151,Sleep Related Misses,0.0,0.0015511331,Decreases odds
+All Features,AHI @ 30,152,Intestinal Disease,0.0,0.00092483766,Decreases odds
+All Features,AHI @ 30,153,Body Shaking,0.0,0.0009600911,Decreases odds
+All Features,AHI @ 30,154,Shift 3rd,0.0,0.0020942944,Decreases odds
+All Features,AHI @ 30,155,Feel Sleepy Today,0.0,0.0006483243,Decreases odds
+All Features,AHI @ 30,156,Tuberculosis,0.0,0.0017711462,Decreases odds
+All Features,AHI @ 30,157,Sleep Accident Fatigue,0.0,0.0028681643,Decreases odds
+All Features,AHI @ 30,158,Chest Pain,0.0,0.0005844837,Decreases odds
+All Features,AHI @ 30,159,Sleep Accident Mistakes,0.0,0.0015211318,Decreases odds
+All Features,AHI @ 30,160,Muscular Pain,0.0,0.00049533235,Decreases odds
+All Features,AHI @ 30,161,HIV,0.0,0.0016515567,Increases odds
+All Features,AHI @ 30,162,Arthritis,0.0,0.0005963693,Decreases odds
+All Features,AHI @ 30,163,Shift Swing,0.0,0.0011139625,Decreases odds
+All Features,AHI @ 30,164,Low Blood Sugar,0.0,0.00045359528,Decreases odds
+All Features,AHI @ 30,165,Anemia,0.0,0.0,Decreases odds
+All Features,AHI @ 30,166,Abnormal Glucose,0.0,0.0,Decreases odds
+All Features,AHI @ 30,167,Enlarged Thyroid,0.0,0.0,Decreases odds
+All Features,AHI @ 30,168,Alcohol Beverage Today,0.0,0.0,Decreases odds
+All Features,AHI @ 30,169,Underweight,0.0,0.0,Decreases odds
+All Features,RDI @ 5,1,Age,0.473,0.31692395,Increases odds
+All Features,RDI @ 5,2,BMI,0.423,0.28595576,Increases odds
+All Features,RDI @ 5,3,Gender,0.36,0.1006666,Increases odds
+All Features,RDI @ 5,4,Snoring,0.154,0.11443278,Increases odds
+All Features,RDI @ 5,5,Witnessed Apneas,0.105,0.10633938,Increases odds
+All Features,RDI @ 5,6,High Blood Pressure,0.092,0.03086079,Increases odds
+All Features,RDI @ 5,7,Female Age >50,0.059,0.03111813,Decreases odds
+All Features,RDI @ 5,8,Obese,0.05,0.04876,Increases odds
+All Features,RDI @ 5,9,Before Bed Sleep Aid,0.047,0.02575768,Increases odds
+All Features,RDI @ 5,10,Wake During Night,0.036,0.033801403,Increases odds
+All Features,RDI @ 5,11,Sleep Throat Burn,0.034,0.022101542,Increases odds
+All Features,RDI @ 5,12,Depression,0.028,0.02158899,Increases odds
+All Features,RDI @ 5,13,Normal Weight,0.027,0.0277475,Increases odds
+All Features,RDI @ 5,14,Dentures,0.027,0.030494552,Decreases odds
+All Features,RDI @ 5,15,Alcohol,0.024,0.010758556,Increases odds
+All Features,RDI @ 5,16,Race,0.023,0.02116301,Increases odds
+All Features,RDI @ 5,17,Leg Jerk,0.022,0.02823456,Increases odds
+All Features,RDI @ 5,18,More Than One Pillow,0.021,0.010450797,Decreases odds
+All Features,RDI @ 5,19,Physical Complaints Today,0.021,0.014869844,Increases odds
+All Features,RDI @ 5,20,Sleep Restless,0.019,0.01274943,Increases odds
+All Features,RDI @ 5,21,Headache,0.019,0.012681675,Increases odds
+All Features,RDI @ 5,22,Medications Today,0.019,0.0050858157,Increases odds
+All Features,RDI @ 5,23,Sleep Get Going,0.019,0.019614331,Increases odds
+All Features,RDI @ 5,24,Sleep Asthma,0.019,0.024325058,Increases odds
+All Features,RDI @ 5,25,Problem with Sleepiness,0.017,0.013506646,Increases odds
+All Features,RDI @ 5,26,Diabetes,0.017,0.015832959,Increases odds
+All Features,RDI @ 5,27,Feel Sleepy Now,0.016,0.016451478,Increases odds
+All Features,RDI @ 5,28,Someone in Room,0.015,0.011680472,Increases odds
+All Features,RDI @ 5,29,Falling Asleep Worry,0.015,0.011104134,Increases odds
+All Features,RDI @ 5,30,Sleep Quality Last Night,0.015,0.0075698756,Increases odds
+All Features,RDI @ 5,31,Problem Not Feeling Rested,0.015,0.012158598,Increases odds
+All Features,RDI @ 5,32,Feeling Sleepy,0.014,0.008934877,Increases odds
+All Features,RDI @ 5,33,Feeling Alert,0.014,0.017785627,Increases odds
+All Features,RDI @ 5,34,Ep. Score,0.014,0.01397627,Increases odds
+All Features,RDI @ 5,35,Shift 1st,0.012,0.006827751,Increases odds
+All Features,RDI @ 5,36,Memory Loss,0.011,0.011920028,Increases odds
+All Features,RDI @ 5,37,Feel Tired Now,0.01,0.0050249943,Increases odds
+All Features,RDI @ 5,38,Falling Asleep Discomfort,0.01,0.00961329,Increases odds
+All Features,RDI @ 5,39,Sleep Talk,0.01,0.01778025,Decreases odds
+All Features,RDI @ 5,40,Swollen Legs,0.01,0.01161714,Increases odds
+All Features,RDI @ 5,41,Feeling Refreshing,0.01,0.0063483887,Increases odds
+All Features,RDI @ 5,42,Falling Asleep Dream,0.01,0.015955722,Decreases odds
+All Features,RDI @ 5,43,Sleepiness Affect Performance,0.009,0.0074251983,Increases odds
+All Features,RDI @ 5,44,Sleep Disturb Partner,0.009,0.009037973,Increases odds
+All Features,RDI @ 5,45,Ep. Watching TV,0.009,0.008517895,Increases odds
+All Features,RDI @ 5,46,Problem Waking Up During Night,0.009,0.0088842595,Increases odds
+All Features,RDI @ 5,47,Feel Alert Now,0.009,0.010989843,Increases odds
+All Features,RDI @ 5,48,Falling Asleep Jerk,0.008,0.008042974,Increases odds
+All Features,RDI @ 5,49,Sleep Nasal Congestion,0.008,0.010126256,Increases odds
+All Features,RDI @ 5,50,Sleep Cough,0.008,0.016714768,Decreases odds
+All Features,RDI @ 5,51,Other Heart Disease,0.008,0.01142792,Increases odds
+All Features,RDI @ 5,52,Sleep Indigestion,0.008,0.0046346104,Increases odds
+All Features,RDI @ 5,53,Sleep Sweat,0.008,0.0065205228,Increases odds
+All Features,RDI @ 5,54,Problem Going to Sleep at Night,0.008,0.0066380673,Increases odds
+All Features,RDI @ 5,55,Weight Loss,0.008,0.011418855,Decreases odds
+All Features,RDI @ 5,56,Ep. In Car,0.008,0.006885393,Decreases odds
+All Features,RDI @ 5,57,Falling Asleep Afraid,0.008,0.0074032345,Increases odds
+All Features,RDI @ 5,58,Breathing Difficulty,0.008,0.0063372166,Increases odds
+All Features,RDI @ 5,59,Slept Longer,0.007,0.0034344534,Increases odds
+All Features,RDI @ 5,60,Body Shaking,0.007,0.0077877403,Decreases odds
+All Features,RDI @ 5,61,Ep. Talking,0.007,0.012487603,Increases odds
+All Features,RDI @ 5,62,Problem with Tiredness,0.007,0.0050958684,Increases odds
+All Features,RDI @ 5,63,Sleep Thirst,0.007,0.006885526,Increases odds
+All Features,RDI @ 5,64,Weight Gain,0.007,0.0049070483,Increases odds
+All Features,RDI @ 5,65,Sleep Difficulty,0.007,0.003520218,Increases odds
+All Features,RDI @ 5,66,Falling Asleep Depressed,0.007,0.005372023,Increases odds
+All Features,RDI @ 5,67,Time in Bed (Weekday),0.006,0.007086811,Increases odds
+All Features,RDI @ 5,68,Ep. Reading,0.006,0.004943612,Increases odds
+All Features,RDI @ 5,69,Sleep Other Movements,0.006,0.005662065,Increases odds
+All Features,RDI @ 5,70,Cancer,0.005,0.009557886,Increases odds
+All Features,RDI @ 5,71,Someone in Bed,0.005,0.0044636177,Increases odds
+All Features,RDI @ 5,72,Sleep Choke,0.005,0.019340683,Increases odds
+All Features,RDI @ 5,73,Watch TV Before Bed,0.005,0.0021632724,Increases odds
+All Features,RDI @ 5,74,Have Difficulty Falling Asleep,0.005,0.0020732621,Increases odds
+All Features,RDI @ 5,75,Sleep Short of Breath,0.005,0.010030557,Increases odds
+All Features,RDI @ 5,76,Nasal Medication,0.005,0.0042250403,Increases odds
+All Features,RDI @ 5,77,Time in Bed (Weekend),0.005,0.005201868,Decreases odds
+All Features,RDI @ 5,78,Falling Asleep Muscular Tension,0.004,0.0034810114,Increases odds
+All Features,RDI @ 5,79,Muscle Weakness,0.004,0.0048864842,Decreases odds
+All Features,RDI @ 5,80,Tobacco Habit,0.004,0.002926311,Decreases odds
+All Features,RDI @ 5,81,Sleep Chest Pain,0.004,0.0066616856,Increases odds
+All Features,RDI @ 5,82,Falling Asleep Thought,0.004,0.0037919388,Increases odds
+All Features,RDI @ 5,83,Medication Past Month,0.004,0.006386457,Increases odds
+All Features,RDI @ 5,84,Frequent Cough,0.004,0.0041148397,Increases odds
+All Features,RDI @ 5,85,Caffeinated Beverage,0.004,0.005611038,Decreases odds
+All Features,RDI @ 5,86,Alcohol Beverage Today,0.004,0.010057347,Increases odds
+All Features,RDI @ 5,87,Feeling Tired,0.004,0.003807148,Increases odds
+All Features,RDI @ 5,88,Ep. Car Passenger,0.004,0.0031424984,Increases odds
+All Features,RDI @ 5,89,Sleep Hunger,0.004,0.0050650006,Increases odds
+All Features,RDI @ 5,90,Sleep Alert,0.004,0.006280092,Increases odds
+All Features,RDI @ 5,91,Sleep Parasthesia,0.004,0.00342509,Increases odds
+All Features,RDI @ 5,92,Sleep Provide Assistance,0.004,0.00724603,Decreases odds
+All Features,RDI @ 5,93,Leg Pain While Falling Asleep,0.004,0.0024007112,Decreases odds
+All Features,RDI @ 5,94,Alcohol Quit,0.004,0.0055002677,Decreases odds
+All Features,RDI @ 5,95,Work Sleep Fatigue,0.003,0.005995592,Increases odds
+All Features,RDI @ 5,96,Sleep Stomach Pain,0.003,0.0041509042,Decreases odds
+All Features,RDI @ 5,97,Chest Pain,0.003,0.0033099547,Decreases odds
+All Features,RDI @ 5,98,Sleep Leg Cramps,0.003,0.0056130253,Increases odds
+All Features,RDI @ 5,99,Caffeinated Beverage Today,0.003,0.0019526588,Increases odds
+All Features,RDI @ 5,100,Ep. Sitting Quietly,0.003,0.003135572,Increases odds
+All Features,RDI @ 5,101,Enlarged Heart,0.003,0.0060359156,Increases odds
+All Features,RDI @ 5,102,Second Awaken Part,0.003,0.0022034121,Increases odds
+All Features,RDI @ 5,103,Swallowing Difficulty,0.003,0.0021958998,Increases odds
+All Features,RDI @ 5,104,Falling Asleep Paralyzed,0.003,0.0032748287,Increases odds
+All Features,RDI @ 5,105,Naps Today,0.003,0.003142752,Increases odds
+All Features,RDI @ 5,106,Sleep Special Surface,0.003,0.0040033734,Increases odds
+All Features,RDI @ 5,107,Sleep Walk,0.003,0.0064332243,Decreases odds
+All Features,RDI @ 5,108,Nasal Discharge,0.003,0.0038241316,Increases odds
+All Features,RDI @ 5,109,Grind Teeth,0.003,0.00314918,Increases odds
+All Features,RDI @ 5,110,Sleep Itch,0.003,0.0030471585,Increases odds
+All Features,RDI @ 5,111,Liver Disease,0.003,0.009053406,Decreases odds
+All Features,RDI @ 5,112,Ep. Sitting Quietly After Lunch,0.002,0.0021729523,Increases odds
+All Features,RDI @ 5,113,Ep. Lying Down,0.002,0.0020375217,Increases odds
+All Features,RDI @ 5,114,Sleep Urinate,0.002,0.0024394973,Increases odds
+All Features,RDI @ 5,115,Sleep Eat,0.002,0.0027573009,Decreases odds
+All Features,RDI @ 5,116,Gasping Episodes,0.002,0.00441274,Increases odds
+All Features,RDI @ 5,117,Anemia,0.002,0.003945762,Increases odds
+All Features,RDI @ 5,118,Allergy,0.002,0.0015684412,Decreases odds
+All Features,RDI @ 5,119,Sleep Breath Problem,0.002,0.0030765918,Increases odds
+All Features,RDI @ 5,120,Feeling Sick,0.002,0.0027331535,Decreases odds
+All Features,RDI @ 5,121,Thyroid Disease,0.002,0.0025265962,Increases odds
+All Features,RDI @ 5,122,Third Awaken Part,0.002,0.002387528,Increases odds
+All Features,RDI @ 5,123,Stomach Disease,0.002,0.002936452,Decreases odds
+All Features,RDI @ 5,124,Arthritis,0.002,0.0015390757,Increases odds
+All Features,RDI @ 5,125,Nap,0.002,0.0013284886,Increases odds
+All Features,RDI @ 5,126,Speaking Difficulty,0.002,0.003193992,Decreases odds
+All Features,RDI @ 5,127,Paralysis Attacks,0.002,0.003630448,Decreases odds
+All Features,RDI @ 5,128,Awake Feeling,0.002,0.0015611754,Increases odds
+All Features,RDI @ 5,129,Hernia,0.002,0.0019373193,Decreases odds
+All Features,RDI @ 5,130,Joint Pain,0.002,0.0012364165,Increases odds
+All Features,RDI @ 5,131,Painful Sinus,0.001,0.001965274,Increases odds
+All Features,RDI @ 5,132,Shortness of Breath,0.001,0.001282222,Increases odds
+All Features,RDI @ 5,133,mh_tobacco_history,0.001,0.0011481378,Decreases odds
+All Features,RDI @ 5,134,Seizures,0.001,0.0038027999,Decreases odds
+All Features,RDI @ 5,135,Dreaming Last Night,0.001,0.0013123485,Increases odds
+All Features,RDI @ 5,136,Sleep Heart Pain,0.001,0.0023021195,Decreases odds
+All Features,RDI @ 5,137,Too Much Sleep,0.001,0.0027220617,Increases odds
+All Features,RDI @ 5,138,Low Blood Pressure,0.001,0.002421862,Increases odds
+All Features,RDI @ 5,139,Enlarged Thyroid,0.001,0.0019679035,Decreases odds
+All Features,RDI @ 5,140,Peptic Ulcer,0.001,0.0031112835,Increases odds
+All Features,RDI @ 5,141,Muscular Pain,0.001,0.0013986103,Decreases odds
+All Features,RDI @ 5,142,Low Blood Sugar,0.001,0.0034569632,Increases odds
+All Features,RDI @ 5,143,Body Control Difficulty,0.001,0.0019089615,Decreases odds
+All Features,RDI @ 5,144,Irregular Heart Beat,0.001,0.0013204277,Increases odds
+All Features,RDI @ 5,145,Voice Changes,0.001,0.0013422464,Increases odds
+All Features,RDI @ 5,146,Too Little Sleep,0.001,0.00085027365,Increases odds
+All Features,RDI @ 5,147,Smothering Spells at Night,0.001,0.001334687,Increases odds
+All Features,RDI @ 5,148,Kidney Disease,0.001,0.0014844274,Increases odds
+All Features,RDI @ 5,149,Heart Attack,0.001,0.0016476586,Increases odds
+All Features,RDI @ 5,150,Personality Changes,0.001,0.0010219966,Increases odds
+All Features,RDI @ 5,151,Physical Strenuous Day,0.001,0.0012288679,Increases odds
+All Features,RDI @ 5,152,Out of Ordinary Happen Today,0.001,0.0012800279,Increases odds
+All Features,RDI @ 5,153,Abnormal Glucose,0.001,0.0019048058,Increases odds
+All Features,RDI @ 5,154,First Awaken Part,0.001,0.00094841875,Decreases odds
+All Features,RDI @ 5,155,Heartburn,0.001,0.00068675313,Increases odds
+All Features,RDI @ 5,156,Feel Sleepy Today,0.001,0.00074138417,Increases odds
+All Features,RDI @ 5,157,Intestinal Disease,0.001,0.0014072426,Decreases odds
+All Features,RDI @ 5,158,Sleep Accident Mistakes,0.001,0.0009546129,Increases odds
+All Features,RDI @ 5,159,Shift 2nd,0.001,0.0010381077,Increases odds
+All Features,RDI @ 5,160,Shift Swing,0.0,0.0020696335,Increases odds
+All Features,RDI @ 5,161,Difficulty Going Back to Sleep,0.0,0.0006459985,Increases odds
+All Features,RDI @ 5,162,Stroke History,0.0,0.00085365074,Decreases odds
+All Features,RDI @ 5,163,Tuberculosis,0.0,0.0020093573,Increases odds
+All Features,RDI @ 5,164,Shift 3rd,0.0,0.0008384609,Increases odds
+All Features,RDI @ 5,165,Sleep Accident Fatigue,0.0,0.0003966243,Decreases odds
+All Features,RDI @ 5,166,Sleep Related Misses,0.0,0.0003802608,Increases odds
+All Features,RDI @ 5,167,HIV,0.0,0.0,Decreases odds
+All Features,RDI @ 5,168,Sleep Related Accidents,0.0,0.0,Decreases odds
+All Features,RDI @ 5,169,Underweight,0.0,0.0,Decreases odds
+All Features,RDI @ 15,1,Age,0.471,0.35436743,Decreases odds
+All Features,RDI @ 15,2,BMI,0.428,0.2969168,Decreases odds
+All Features,RDI @ 15,3,Gender,0.371,0.06696883,Increases odds
+All Features,RDI @ 15,4,Snoring,0.164,0.11893653,Decreases odds
+All Features,RDI @ 15,5,Witnessed Apneas,0.104,0.100794,Decreases odds
+All Features,RDI @ 15,6,Have Difficulty Falling Asleep,0.097,0.018257372,Decreases odds
+All Features,RDI @ 15,7,High Blood Pressure,0.081,0.033461537,Decreases odds
+All Features,RDI @ 15,8,Sleep Quality Last Night,0.063,0.026303349,Increases odds
+All Features,RDI @ 15,9,Before Bed Sleep Aid,0.043,0.02631997,Increases odds
+All Features,RDI @ 15,10,Feel Tired Now,0.039,0.021153718,Decreases odds
+All Features,RDI @ 15,11,Diabetes,0.033,0.024381734,Decreases odds
+All Features,RDI @ 15,12,Race,0.033,0.023924602,Decreases odds
+All Features,RDI @ 15,13,Sleep Throat Burn,0.03,0.023728512,Increases odds
+All Features,RDI @ 15,14,Sleep Asthma,0.028,0.04545236,Decreases odds
+All Features,RDI @ 15,15,Sleepiness Affect Performance,0.024,0.018821849,Decreases odds
+All Features,RDI @ 15,16,Nap,0.024,0.00823584,Decreases odds
+All Features,RDI @ 15,17,Falling Asleep Thought,0.023,0.020648856,Increases odds
+All Features,RDI @ 15,18,Sleep Thirst,0.022,0.012941639,Increases odds
+All Features,RDI @ 15,19,Someone in Room,0.022,0.014189174,Increases odds
+All Features,RDI @ 15,20,Normal Weight,0.021,0.027948113,Decreases odds
+All Features,RDI @ 15,21,Sleep Indigestion,0.021,0.010956416,Decreases odds
+All Features,RDI @ 15,22,Sleep Get Going,0.021,0.014918357,Increases odds
+All Features,RDI @ 15,23,Sleep Nasal Congestion,0.02,0.012368264,Increases odds
+All Features,RDI @ 15,24,Time in Bed (Weekend),0.02,0.012886507,Increases odds
+All Features,RDI @ 15,25,Sleep Restless,0.02,0.0154812215,Decreases odds
+All Features,RDI @ 15,26,Alcohol,0.019,0.009763368,Increases odds
+All Features,RDI @ 15,27,Headache,0.019,0.015115643,Decreases odds
+All Features,RDI @ 15,28,Wake During Night,0.018,0.018749963,Decreases odds
+All Features,RDI @ 15,29,Medications Today,0.017,0.005438643,Increases odds
+All Features,RDI @ 15,30,Someone in Bed,0.016,0.007855505,Increases odds
+All Features,RDI @ 15,31,Ep. In Car,0.016,0.010515954,Increases odds
+All Features,RDI @ 15,32,Feeling Refreshing,0.015,0.012626953,Increases odds
+All Features,RDI @ 15,33,Falling Asleep Muscular Tension,0.015,0.018582137,Decreases odds
+All Features,RDI @ 15,34,Feel Sleepy Now,0.015,0.020222984,Increases odds
+All Features,RDI @ 15,35,Gasping Episodes,0.015,0.016955772,Increases odds
+All Features,RDI @ 15,36,Dentures,0.015,0.016811166,Decreases odds
+All Features,RDI @ 15,37,Sleep Choke,0.014,0.015060961,Increases odds
+All Features,RDI @ 15,38,Grind Teeth,0.014,0.00923624,Increases odds
+All Features,RDI @ 15,39,More Than One Pillow,0.014,0.007009037,Decreases odds
+All Features,RDI @ 15,40,Sleep Leg Cramps,0.013,0.01289886,Increases odds
+All Features,RDI @ 15,41,Memory Loss,0.013,0.013831165,Increases odds
+All Features,RDI @ 15,42,Obese,0.012,0.015901199,Decreases odds
+All Features,RDI @ 15,43,Problem with Tiredness,0.012,0.008844442,Decreases odds
+All Features,RDI @ 15,44,Time in Bed (Weekday),0.012,0.00975985,Increases odds
+All Features,RDI @ 15,45,Sleep Other Movements,0.012,0.012269236,Decreases odds
+All Features,RDI @ 15,46,Ep. Score,0.012,0.012241947,Decreases odds
+All Features,RDI @ 15,47,Leg Jerk,0.012,0.0091256825,Decreases odds
+All Features,RDI @ 15,48,Problem Not Feeling Rested,0.012,0.010985519,Decreases odds
+All Features,RDI @ 15,49,Weight Gain,0.011,0.00533578,Increases odds
+All Features,RDI @ 15,50,Difficulty Going Back to Sleep,0.011,0.005841567,Increases odds
+All Features,RDI @ 15,51,Naps Today,0.011,0.009656632,Decreases odds
+All Features,RDI @ 15,52,Ep. Talking,0.011,0.011875448,Increases odds
+All Features,RDI @ 15,53,Problem Waking Up During Night,0.011,0.010610359,Decreases odds
+All Features,RDI @ 15,54,Sleep Disturb Partner,0.01,0.005578467,Increases odds
+All Features,RDI @ 15,55,Leg Pain While Falling Asleep,0.01,0.0071182405,Decreases odds
+All Features,RDI @ 15,56,Feel Alert Now,0.01,0.011449669,Increases odds
+All Features,RDI @ 15,57,Feeling Tired,0.01,0.006297585,Decreases odds
+All Features,RDI @ 15,58,Female Age >50,0.009,0.008116005,Decreases odds
+All Features,RDI @ 15,59,Depression,0.009,0.00812772,Increases odds
+All Features,RDI @ 15,60,Physical Complaints Today,0.009,0.007843645,Decreases odds
+All Features,RDI @ 15,61,Sleep Talk,0.009,0.01453781,Decreases odds
+All Features,RDI @ 15,62,Problem Going to Sleep at Night,0.008,0.0059596845,Decreases odds
+All Features,RDI @ 15,63,Voice Changes,0.008,0.008615322,Decreases odds
+All Features,RDI @ 15,64,Falling Asleep Afraid,0.008,0.0076155593,Increases odds
+All Features,RDI @ 15,65,Chest Pain,0.008,0.010909774,Decreases odds
+All Features,RDI @ 15,66,Slept Longer,0.007,0.0038051386,Decreases odds
+All Features,RDI @ 15,67,Falling Asleep Discomfort,0.007,0.006749845,Increases odds
+All Features,RDI @ 15,68,Feeling Alert,0.007,0.0068898126,Increases odds
+All Features,RDI @ 15,69,Sleep Sweat,0.007,0.009752404,Decreases odds
+All Features,RDI @ 15,70,Falling Asleep Worry,0.007,0.006543374,Increases odds
+All Features,RDI @ 15,71,Ep. Watching TV,0.006,0.005350554,Decreases odds
+All Features,RDI @ 15,72,Falling Asleep Dream,0.006,0.009441905,Increases odds
+All Features,RDI @ 15,73,Breathing Difficulty,0.006,0.0053045955,Increases odds
+All Features,RDI @ 15,74,Work Sleep Fatigue,0.006,0.009755436,Decreases odds
+All Features,RDI @ 15,75,Problem with Sleepiness,0.006,0.0055533657,Decreases odds
+All Features,RDI @ 15,76,Sleep Chest Pain,0.006,0.010744896,Decreases odds
+All Features,RDI @ 15,77,Hernia,0.006,0.0077029527,Decreases odds
+All Features,RDI @ 15,78,Sleep Short of Breath,0.005,0.0064400937,Decreases odds
+All Features,RDI @ 15,79,Medication Past Month,0.005,0.00756787,Decreases odds
+All Features,RDI @ 15,80,Falling Asleep Jerk,0.005,0.006928009,Increases odds
+All Features,RDI @ 15,81,Falling Asleep Depressed,0.005,0.008297829,Increases odds
+All Features,RDI @ 15,82,Sleep Itch,0.005,0.008548479,Decreases odds
+All Features,RDI @ 15,83,Alcohol Beverage Today,0.005,0.011276498,Decreases odds
+All Features,RDI @ 15,84,Ep. Car Passenger,0.005,0.0029604342,Decreases odds
+All Features,RDI @ 15,85,Nasal Medication,0.005,0.0029451768,Increases odds
+All Features,RDI @ 15,86,Sleep Alert,0.005,0.004113351,Increases odds
+All Features,RDI @ 15,87,Sleep Parasthesia,0.005,0.0063374606,Decreases odds
+All Features,RDI @ 15,88,Third Awaken Part,0.005,0.0036594663,Decreases odds
+All Features,RDI @ 15,89,First Awaken Part,0.004,0.0044597625,Increases odds
+All Features,RDI @ 15,90,Weight Loss,0.004,0.0069151265,Decreases odds
+All Features,RDI @ 15,91,Muscular Pain,0.004,0.0034194917,Decreases odds
+All Features,RDI @ 15,92,Feeling Sleepy,0.004,0.003910313,Decreases odds
+All Features,RDI @ 15,93,Other Heart Disease,0.004,0.00415866,Increases odds
+All Features,RDI @ 15,94,Sleep Breath Problem,0.004,0.0046923114,Decreases odds
+All Features,RDI @ 15,95,Shortness of Breath,0.004,0.002785835,Increases odds
+All Features,RDI @ 15,96,Kidney Disease,0.004,0.008815355,Increases odds
+All Features,RDI @ 15,97,Allergy,0.004,0.0020381508,Decreases odds
+All Features,RDI @ 15,98,Ep. Sitting Quietly,0.004,0.004714107,Decreases odds
+All Features,RDI @ 15,99,Enlarged Heart,0.004,0.009310635,Increases odds
+All Features,RDI @ 15,100,Frequent Cough,0.004,0.0042032385,Increases odds
+All Features,RDI @ 15,101,Tobacco Habit,0.003,0.0023760365,Decreases odds
+All Features,RDI @ 15,102,Sleep Heart Pain,0.003,0.008271888,Increases odds
+All Features,RDI @ 15,103,Alcohol Quit,0.003,0.0052242577,Decreases odds
+All Features,RDI @ 15,104,Caffeinated Beverage Today,0.003,0.0023482956,Increases odds
+All Features,RDI @ 15,105,Ep. Lying Down,0.003,0.0024727162,Decreases odds
+All Features,RDI @ 15,106,Body Shaking,0.003,0.0043909764,Decreases odds
+All Features,RDI @ 15,107,Stroke History,0.003,0.0054823905,Increases odds
+All Features,RDI @ 15,108,Ep. Reading,0.003,0.0023875406,Increases odds
+All Features,RDI @ 15,109,Sleep Stomach Pain,0.003,0.0050816284,Increases odds
+All Features,RDI @ 15,110,Sleep Urinate,0.003,0.0028377222,Decreases odds
+All Features,RDI @ 15,111,Swallowing Difficulty,0.003,0.004257219,Decreases odds
+All Features,RDI @ 15,112,Sleep Eat,0.003,0.008183108,Decreases odds
+All Features,RDI @ 15,113,Sleep Provide Assistance,0.003,0.0034996886,Decreases odds
+All Features,RDI @ 15,114,Ep. Sitting Quietly After Lunch,0.003,0.0018895777,Decreases odds
+All Features,RDI @ 15,115,Heartburn,0.003,0.0017862223,Decreases odds
+All Features,RDI @ 15,116,Sleep Cough,0.003,0.004613593,Decreases odds
+All Features,RDI @ 15,117,Stomach Disease,0.002,0.0051440494,Decreases odds
+All Features,RDI @ 15,118,Personality Changes,0.002,0.0028830464,Decreases odds
+All Features,RDI @ 15,119,mh_tobacco_history,0.002,0.001998931,Increases odds
+All Features,RDI @ 15,120,Awake Feeling,0.002,0.0017900526,Decreases odds
+All Features,RDI @ 15,121,Sleep Special Surface,0.002,0.0028288367,Decreases odds
+All Features,RDI @ 15,122,Falling Asleep Paralyzed,0.002,0.003556606,Decreases odds
+All Features,RDI @ 15,123,Irregular Heart Beat,0.002,0.0023087617,Decreases odds
+All Features,RDI @ 15,124,Liver Disease,0.002,0.0069740904,Decreases odds
+All Features,RDI @ 15,125,Cancer,0.002,0.0023343037,Increases odds
+All Features,RDI @ 15,126,Sleep Difficulty,0.002,0.0013499516,Increases odds
+All Features,RDI @ 15,127,Heart Attack,0.002,0.00277482,Increases odds
+All Features,RDI @ 15,128,Joint Pain,0.002,0.0012262836,Decreases odds
+All Features,RDI @ 15,129,Second Awaken Part,0.002,0.0010739047,Increases odds
+All Features,RDI @ 15,130,Sleep Walk,0.002,0.0047690663,Decreases odds
+All Features,RDI @ 15,131,Sleep Hunger,0.002,0.0023520743,Decreases odds
+All Features,RDI @ 15,132,Intestinal Disease,0.002,0.0041454486,Decreases odds
+All Features,RDI @ 15,133,Anemia,0.001,0.0028813179,Decreases odds
+All Features,RDI @ 15,134,Sleep Related Misses,0.001,0.0029618482,Increases odds
+All Features,RDI @ 15,135,Feeling Sick,0.001,0.0024130216,Decreases odds
+All Features,RDI @ 15,136,Caffeinated Beverage,0.001,0.0015777288,Increases odds
+All Features,RDI @ 15,137,Muscle Weakness,0.001,0.0011010233,Decreases odds
+All Features,RDI @ 15,138,Enlarged Thyroid,0.001,0.0029026305,Decreases odds
+All Features,RDI @ 15,139,Too Little Sleep,0.001,0.00089005055,Decreases odds
+All Features,RDI @ 15,140,Shift 1st,0.001,0.0011822339,Decreases odds
+All Features,RDI @ 15,141,Physical Strenuous Day,0.001,0.0022271127,Increases odds
+All Features,RDI @ 15,142,Paralysis Attacks,0.001,0.0031480775,Decreases odds
+All Features,RDI @ 15,143,Dreaming Last Night,0.001,0.0012477181,Increases odds
+All Features,RDI @ 15,144,Feel Sleepy Today,0.001,0.0013792341,Increases odds
+All Features,RDI @ 15,145,Nasal Discharge,0.001,0.0016018518,Increases odds
+All Features,RDI @ 15,146,Seizures,0.001,0.0028276246,Decreases odds
+All Features,RDI @ 15,147,Smothering Spells at Night,0.001,0.0011889972,Decreases odds
+All Features,RDI @ 15,148,Body Control Difficulty,0.001,0.000951146,Decreases odds
+All Features,RDI @ 15,149,Painful Sinus,0.001,0.001286527,Increases odds
+All Features,RDI @ 15,150,Arthritis,0.001,0.0009756222,Increases odds
+All Features,RDI @ 15,151,Out of Ordinary Happen Today,0.001,0.0017355161,Increases odds
+All Features,RDI @ 15,152,Sleep Related Accidents,0.001,0.008244981,Increases odds
+All Features,RDI @ 15,153,Abnormal Glucose,0.001,0.0021286572,Increases odds
+All Features,RDI @ 15,154,Thyroid Disease,0.001,0.0009248954,Increases odds
+All Features,RDI @ 15,155,Watch TV Before Bed,0.001,0.00069063925,Increases odds
+All Features,RDI @ 15,156,Shift 3rd,0.001,0.0021589985,Decreases odds
+All Features,RDI @ 15,157,Speaking Difficulty,0.001,0.0014208768,Increases odds
+All Features,RDI @ 15,158,Swollen Legs,0.001,0.0008407547,Increases odds
+All Features,RDI @ 15,159,Sleep Accident Mistakes,0.001,0.0015322694,Increases odds
+All Features,RDI @ 15,160,Low Blood Pressure,0.0,0.0014516624,Decreases odds
+All Features,RDI @ 15,161,Sleep Accident Fatigue,0.0,0.0011754262,Increases odds
+All Features,RDI @ 15,162,Shift 2nd,0.0,0.001269477,Decreases odds
+All Features,RDI @ 15,163,Tuberculosis,0.0,0.0022729004,Decreases odds
+All Features,RDI @ 15,164,Peptic Ulcer,0.0,0.0007294595,Decreases odds
+All Features,RDI @ 15,165,Low Blood Sugar,0.0,0.0008674072,Decreases odds
+All Features,RDI @ 15,166,Too Much Sleep,0.0,0.00068231806,Decreases odds
+All Features,RDI @ 15,167,Shift Swing,0.0,0.000605979,Decreases odds
+All Features,RDI @ 15,168,HIV,0.0,0.00022943481,Increases odds
+All Features,RDI @ 15,169,Underweight,0.0,0.0,Decreases odds
+All Features,RDI @ 30,1,BMI,0.486,0.32109585,Decreases odds
+All Features,RDI @ 30,2,Age,0.449,0.344175,Decreases odds
+All Features,RDI @ 30,3,Gender,0.434,0.05938492,Decreases odds
+All Features,RDI @ 30,4,Snoring,0.162,0.11198801,Decreases odds
+All Features,RDI @ 30,5,Have Difficulty Falling Asleep,0.151,0.02249625,Decreases odds
+All Features,RDI @ 30,6,Witnessed Apneas,0.137,0.11934242,Decreases odds
+All Features,RDI @ 30,7,High Blood Pressure,0.124,0.053833734,Decreases odds
+All Features,RDI @ 30,8,Race,0.074,0.046368077,Decreases odds
+All Features,RDI @ 30,9,Sleep Quality Last Night,0.073,0.024924591,Decreases odds
+All Features,RDI @ 30,10,Feel Tired Now,0.063,0.03819717,Decreases odds
+All Features,RDI @ 30,11,Sleepiness Affect Performance,0.056,0.043803703,Decreases odds
+All Features,RDI @ 30,12,Feeling Refreshing,0.055,0.042570733,Decreases odds
+All Features,RDI @ 30,13,Sleep Throat Burn,0.05,0.036069814,Decreases odds
+All Features,RDI @ 30,14,Headache,0.048,0.038348757,Decreases odds
+All Features,RDI @ 30,15,Shift 1st,0.048,0.02286734,Decreases odds
+All Features,RDI @ 30,16,Time in Bed (Weekend),0.04,0.021101676,Decreases odds
+All Features,RDI @ 30,17,Medications Today,0.038,0.010375305,Increases odds
+All Features,RDI @ 30,18,Someone in Bed,0.037,0.021440802,Increases odds
+All Features,RDI @ 30,19,Sleep Asthma,0.037,0.05526269,Decreases odds
+All Features,RDI @ 30,20,Nap,0.037,0.012746668,Decreases odds
+All Features,RDI @ 30,21,Before Bed Sleep Aid,0.036,0.02583595,Decreases odds
+All Features,RDI @ 30,22,Diabetes,0.036,0.015456721,Decreases odds
+All Features,RDI @ 30,23,Difficulty Going Back to Sleep,0.035,0.01520413,Decreases odds
+All Features,RDI @ 30,24,Falling Asleep Thought,0.031,0.02803731,Decreases odds
+All Features,RDI @ 30,25,Time in Bed (Weekday),0.03,0.02672619,Decreases odds
+All Features,RDI @ 30,26,Feeling Tired,0.03,0.026105823,Decreases odds
+All Features,RDI @ 30,27,Sleep Parasthesia,0.029,0.029001132,Decreases odds
+All Features,RDI @ 30,28,Sleep Restless,0.028,0.022383401,Decreases odds
+All Features,RDI @ 30,29,Ep. Talking,0.027,0.017617019,Decreases odds
+All Features,RDI @ 30,30,Sleep Thirst,0.027,0.023181617,Decreases odds
+All Features,RDI @ 30,31,Breathing Difficulty,0.026,0.015759135,Increases odds
+All Features,RDI @ 30,32,Wake During Night,0.025,0.027777348,Decreases odds
+All Features,RDI @ 30,33,Obese,0.024,0.035529077,Decreases odds
+All Features,RDI @ 30,34,More Than One Pillow,0.024,0.010815871,Decreases odds
+All Features,RDI @ 30,35,Someone in Room,0.024,0.017226504,Decreases odds
+All Features,RDI @ 30,36,Ep. Watching TV,0.024,0.009722621,Decreases odds
+All Features,RDI @ 30,37,Female Age >50,0.023,0.027842246,Decreases odds
+All Features,RDI @ 30,38,Feel Sleepy Now,0.023,0.025885466,Increases odds
+All Features,RDI @ 30,39,Ep. Score,0.023,0.022789346,Decreases odds
+All Features,RDI @ 30,40,Weight Gain,0.023,0.007730581,Decreases odds
+All Features,RDI @ 30,41,Naps Today,0.022,0.016673755,Decreases odds
+All Features,RDI @ 30,42,Normal Weight,0.021,0.0313701,Decreases odds
+All Features,RDI @ 30,43,Memory Loss,0.02,0.020612068,Decreases odds
+All Features,RDI @ 30,44,Leg Jerk,0.019,0.009613998,Decreases odds
+All Features,RDI @ 30,45,Sleep Get Going,0.019,0.024455717,Decreases odds
+All Features,RDI @ 30,46,Gasping Episodes,0.018,0.021077402,Decreases odds
+All Features,RDI @ 30,47,Grind Teeth,0.018,0.020078931,Decreases odds
+All Features,RDI @ 30,48,Feel Alert Now,0.018,0.009554797,Decreases odds
+All Features,RDI @ 30,49,Problem Not Feeling Rested,0.017,0.012698967,Decreases odds
+All Features,RDI @ 30,50,Falling Asleep Depressed,0.016,0.014937857,Increases odds
+All Features,RDI @ 30,51,Dentures,0.016,0.017913343,Increases odds
+All Features,RDI @ 30,52,Nasal Discharge,0.016,0.022080267,Decreases odds
+All Features,RDI @ 30,53,Falling Asleep Discomfort,0.016,0.013860606,Decreases odds
+All Features,RDI @ 30,54,Slept Longer,0.016,0.0064437976,Decreases odds
+All Features,RDI @ 30,55,Problem with Tiredness,0.016,0.011424102,Decreases odds
+All Features,RDI @ 30,56,Falling Asleep Afraid,0.015,0.024019143,Decreases odds
+All Features,RDI @ 30,57,Ep. Reading,0.015,0.014955158,Increases odds
+All Features,RDI @ 30,58,Sleep Nasal Congestion,0.014,0.021638533,Increases odds
+All Features,RDI @ 30,59,Falling Asleep Muscular Tension,0.014,0.014879072,Decreases odds
+All Features,RDI @ 30,60,Sleep Choke,0.014,0.014410546,Decreases odds
+All Features,RDI @ 30,61,Physical Complaints Today,0.013,0.011517318,Decreases odds
+All Features,RDI @ 30,62,Sleep Other Movements,0.013,0.017364914,Decreases odds
+All Features,RDI @ 30,63,Leg Pain While Falling Asleep,0.013,0.0056602294,Decreases odds
+All Features,RDI @ 30,64,Hernia,0.013,0.01743168,Decreases odds
+All Features,RDI @ 30,65,Awake Feeling,0.012,0.006012126,Decreases odds
+All Features,RDI @ 30,66,Sleep Sweat,0.012,0.0147887245,Decreases odds
+All Features,RDI @ 30,67,Ep. In Car,0.012,0.008239489,Increases odds
+All Features,RDI @ 30,68,First Awaken Part,0.011,0.009401074,Decreases odds
+All Features,RDI @ 30,69,Weight Loss,0.011,0.020015925,Decreases odds
+All Features,RDI @ 30,70,Sleep Stomach Pain,0.011,0.011514971,Decreases odds
+All Features,RDI @ 30,71,Sleep Leg Cramps,0.011,0.01446112,Decreases odds
+All Features,RDI @ 30,72,Dreaming Last Night,0.011,0.006772532,Decreases odds
+All Features,RDI @ 30,73,Ep. Lying Down,0.011,0.008901224,Decreases odds
+All Features,RDI @ 30,74,Feeling Alert,0.01,0.009570565,Decreases odds
+All Features,RDI @ 30,75,Alcohol,0.01,0.0056874696,Decreases odds
+All Features,RDI @ 30,76,Cancer,0.01,0.0110412305,Decreases odds
+All Features,RDI @ 30,77,Ep. Car Passenger,0.01,0.006117235,Decreases odds
+All Features,RDI @ 30,78,Other Heart Disease,0.009,0.008979177,Decreases odds
+All Features,RDI @ 30,79,Sleep Disturb Partner,0.009,0.0057059005,Decreases odds
+All Features,RDI @ 30,80,Problem Waking Up During Night,0.009,0.0059488574,Decreases odds
+All Features,RDI @ 30,81,Out of Ordinary Happen Today,0.009,0.018339658,Decreases odds
+All Features,RDI @ 30,82,Kidney Disease,0.009,0.015767526,Increases odds
+All Features,RDI @ 30,83,Falling Asleep Jerk,0.009,0.009090217,Decreases odds
+All Features,RDI @ 30,84,Sleep Urinate,0.009,0.0072214403,Decreases odds
+All Features,RDI @ 30,85,Ep. Sitting Quietly After Lunch,0.008,0.0057288706,Decreases odds
+All Features,RDI @ 30,86,Sleep Eat,0.008,0.007500273,Increases odds
+All Features,RDI @ 30,87,Irregular Heart Beat,0.008,0.00985569,Decreases odds
+All Features,RDI @ 30,88,Arthritis,0.008,0.0045487243,Increases odds
+All Features,RDI @ 30,89,Personality Changes,0.008,0.012685869,Decreases odds
+All Features,RDI @ 30,90,Ep. Sitting Quietly,0.008,0.0055482606,Decreases odds
+All Features,RDI @ 30,91,Sleep Itch,0.008,0.010300487,Decreases odds
+All Features,RDI @ 30,92,Stomach Disease,0.007,0.014493782,Decreases odds
+All Features,RDI @ 30,93,Body Shaking,0.007,0.00906949,Decreases odds
+All Features,RDI @ 30,94,Falling Asleep Worry,0.007,0.009523229,Decreases odds
+All Features,RDI @ 30,95,Nasal Medication,0.007,0.00488867,Increases odds
+All Features,RDI @ 30,96,Second Awaken Part,0.007,0.003193909,Decreases odds
+All Features,RDI @ 30,97,Swallowing Difficulty,0.007,0.010522629,Increases odds
+All Features,RDI @ 30,98,Feeling Sick,0.006,0.008859782,Decreases odds
+All Features,RDI @ 30,99,Sleep Alert,0.006,0.007021751,Decreases odds
+All Features,RDI @ 30,100,Allergy,0.006,0.004608965,Decreases odds
+All Features,RDI @ 30,101,Liver Disease,0.006,0.016528672,Decreases odds
+All Features,RDI @ 30,102,Alcohol Beverage Today,0.005,0.012200699,Decreases odds
+All Features,RDI @ 30,103,Sleep Special Surface,0.005,0.003692967,Increases odds
+All Features,RDI @ 30,104,Sleep Difficulty,0.005,0.0032433986,Increases odds
+All Features,RDI @ 30,105,Problem Going to Sleep at Night,0.005,0.0045458768,Increases odds
+All Features,RDI @ 30,106,Feeling Sleepy,0.005,0.0061063464,Decreases odds
+All Features,RDI @ 30,107,Work Sleep Fatigue,0.005,0.013170814,Decreases odds
+All Features,RDI @ 30,108,Sleep Indigestion,0.004,0.003542328,Decreases odds
+All Features,RDI @ 30,109,Falling Asleep Dream,0.004,0.006216731,Increases odds
+All Features,RDI @ 30,110,Enlarged Heart,0.004,0.008961632,Increases odds
+All Features,RDI @ 30,111,Frequent Cough,0.004,0.0021225538,Decreases odds
+All Features,RDI @ 30,112,Sleep Hunger,0.004,0.004002579,Decreases odds
+All Features,RDI @ 30,113,Seizures,0.004,0.012865149,Decreases odds
+All Features,RDI @ 30,114,Swollen Legs,0.004,0.002949938,Increases odds
+All Features,RDI @ 30,115,Depression,0.004,0.004199605,Increases odds
+All Features,RDI @ 30,116,Sleep Provide Assistance,0.004,0.0032355334,Decreases odds
+All Features,RDI @ 30,117,Heart Attack,0.004,0.0066672713,Decreases odds
+All Features,RDI @ 30,118,Falling Asleep Paralyzed,0.004,0.0065632667,Decreases odds
+All Features,RDI @ 30,119,Caffeinated Beverage Today,0.004,0.0026729205,Increases odds
+All Features,RDI @ 30,120,Watch TV Before Bed,0.004,0.0023661894,Decreases odds
+All Features,RDI @ 30,121,Sleep Heart Pain,0.004,0.0067958147,Decreases odds
+All Features,RDI @ 30,122,Third Awaken Part,0.004,0.0027517553,Decreases odds
+All Features,RDI @ 30,123,Sleep Breath Problem,0.003,0.0042362385,Decreases odds
+All Features,RDI @ 30,124,Problem with Sleepiness,0.003,0.0026195254,Decreases odds
+All Features,RDI @ 30,125,Sleep Talk,0.003,0.004147774,Increases odds
+All Features,RDI @ 30,126,Sleep Cough,0.003,0.003803998,Decreases odds
+All Features,RDI @ 30,127,Sleep Short of Breath,0.003,0.0029128438,Decreases odds
+All Features,RDI @ 30,128,Thyroid Disease,0.003,0.0048474716,Decreases odds
+All Features,RDI @ 30,129,Joint Pain,0.003,0.0019055494,Decreases odds
+All Features,RDI @ 30,130,Tobacco Habit,0.003,0.0014211861,Decreases odds
+All Features,RDI @ 30,131,mh_tobacco_history,0.003,0.0020376178,Decreases odds
+All Features,RDI @ 30,132,Physical Strenuous Day,0.003,0.004787709,Decreases odds
+All Features,RDI @ 30,133,Muscular Pain,0.002,0.0029387577,Decreases odds
+All Features,RDI @ 30,134,Medication Past Month,0.002,0.003599878,Decreases odds
+All Features,RDI @ 30,135,Paralysis Attacks,0.002,0.006232639,Decreases odds
+All Features,RDI @ 30,136,Chest Pain,0.002,0.0032929133,Decreases odds
+All Features,RDI @ 30,137,Voice Changes,0.002,0.0015311033,Decreases odds
+All Features,RDI @ 30,138,Heartburn,0.002,0.0017621473,Decreases odds
+All Features,RDI @ 30,139,Muscle Weakness,0.002,0.00230899,Decreases odds
+All Features,RDI @ 30,140,Shortness of Breath,0.002,0.0020356488,Increases odds
+All Features,RDI @ 30,141,Alcohol Quit,0.002,0.0029681062,Decreases odds
+All Features,RDI @ 30,142,Speaking Difficulty,0.002,0.00472803,Decreases odds
+All Features,RDI @ 30,143,Sleep Walk,0.002,0.0053711683,Decreases odds
+All Features,RDI @ 30,144,Sleep Chest Pain,0.002,0.003497706,Increases odds
+All Features,RDI @ 30,145,Peptic Ulcer,0.001,0.001819679,Decreases odds
+All Features,RDI @ 30,146,Body Control Difficulty,0.001,0.0017955569,Decreases odds
+All Features,RDI @ 30,147,Feel Sleepy Today,0.001,0.0009971919,Decreases odds
+All Features,RDI @ 30,148,Anemia,0.001,0.0019761676,Decreases odds
+All Features,RDI @ 30,149,Sleep Related Misses,0.001,0.002092189,Decreases odds
+All Features,RDI @ 30,150,Painful Sinus,0.001,0.0019636615,Decreases odds
+All Features,RDI @ 30,151,Low Blood Sugar,0.001,0.0015617568,Decreases odds
+All Features,RDI @ 30,152,Too Much Sleep,0.001,0.0020239663,Decreases odds
+All Features,RDI @ 30,153,Enlarged Thyroid,0.001,0.0014180242,Increases odds
+All Features,RDI @ 30,154,Intestinal Disease,0.001,0.00052994536,Increases odds
+All Features,RDI @ 30,155,Caffeinated Beverage,0.001,0.0012802046,Decreases odds
+All Features,RDI @ 30,156,Stroke History,0.001,0.0013222746,Decreases odds
+All Features,RDI @ 30,157,Sleep Accident Fatigue,0.001,0.0007730668,Decreases odds
+All Features,RDI @ 30,158,Smothering Spells at Night,0.0,0.0009869712,Decreases odds
+All Features,RDI @ 30,159,Low Blood Pressure,0.0,0.0011733897,Decreases odds
+All Features,RDI @ 30,160,Too Little Sleep,0.0,0.0010139849,Decreases odds
+All Features,RDI @ 30,161,Shift 2nd,0.0,0.0010917224,Increases odds
+All Features,RDI @ 30,162,HIV,0.0,0.00079829985,Decreases odds
+All Features,RDI @ 30,163,Shift 3rd,0.0,0.000243582,Increases odds
+All Features,RDI @ 30,164,Abnormal Glucose,0.0,0.0,Decreases odds
+All Features,RDI @ 30,165,Sleep Related Accidents,0.0,0.0,Decreases odds
+All Features,RDI @ 30,166,Shift Swing,0.0,0.0,Decreases odds
+All Features,RDI @ 30,167,Sleep Accident Mistakes,0.0,0.0,Decreases odds
+All Features,RDI @ 30,168,Tuberculosis,0.0,0.0,Decreases odds
+All Features,RDI @ 30,169,Underweight,0.0,0.0,Decreases odds
+Questionnaire Only,AHI @ 5,1,High Blood Pressure,0.229,0.079766236,Increases odds
+Questionnaire Only,AHI @ 5,2,Snoring,0.169,0.14587882,Decreases odds
+Questionnaire Only,AHI @ 5,3,Witnessed Apneas,0.129,0.12523516,Increases odds
+Questionnaire Only,AHI @ 5,4,Diabetes,0.085,0.07133446,Increases odds
+Questionnaire Only,AHI @ 5,5,Headache,0.08,0.054454546,Decreases odds
+Questionnaire Only,AHI @ 5,6,Arthritis,0.067,0.02919324,Increases odds
+Questionnaire Only,AHI @ 5,7,Swollen Legs,0.059,0.056883443,Increases odds
+Questionnaire Only,AHI @ 5,8,Feeling Sleepy,0.052,0.030683352,Increases odds
+Questionnaire Only,AHI @ 5,9,Problem Not Feeling Rested,0.049,0.04362357,Increases odds
+Questionnaire Only,AHI @ 5,10,Ep. Car Passenger,0.047,0.035984293,Increases odds
+Questionnaire Only,AHI @ 5,11,Sleepiness Affect Performance,0.046,0.03839057,Increases odds
+Questionnaire Only,AHI @ 5,12,Weight Gain,0.042,0.027570525,Increases odds
+Questionnaire Only,AHI @ 5,13,Sleep Urinate,0.041,0.031145163,Decreases odds
+Questionnaire Only,AHI @ 5,14,Falling Asleep Worry,0.041,0.029150834,Increases odds
+Questionnaire Only,AHI @ 5,15,Caffeinated Beverage Today,0.038,0.014209679,Increases odds
+Questionnaire Only,AHI @ 5,16,Joint Pain,0.037,0.018766921,Increases odds
+Questionnaire Only,AHI @ 5,17,Feeling Alert,0.037,0.0166106,Increases odds
+Questionnaire Only,AHI @ 5,18,Sleep Throat Burn,0.035,0.02920915,Decreases odds
+Questionnaire Only,AHI @ 5,19,Grind Teeth,0.034,0.032387093,Increases odds
+Questionnaire Only,AHI @ 5,20,Feeling Tired,0.031,0.030308655,Increases odds
+Questionnaire Only,AHI @ 5,21,Ep. Sitting Quietly,0.031,0.01459364,Decreases odds
+Questionnaire Only,AHI @ 5,22,Sleep Sweat,0.029,0.020648971,Decreases odds
+Questionnaire Only,AHI @ 5,23,Before Bed Sleep Aid,0.029,0.017480323,Increases odds
+Questionnaire Only,AHI @ 5,24,Sleep Talk,0.028,0.028058607,Increases odds
+Questionnaire Only,AHI @ 5,25,Someone in Room,0.027,0.017472452,Increases odds
+Questionnaire Only,AHI @ 5,26,Medications Today,0.027,0.007763198,Increases odds
+Questionnaire Only,AHI @ 5,27,Feel Tired Now,0.026,0.015186994,Decreases odds
+Questionnaire Only,AHI @ 5,28,Depression,0.026,0.015647149,Decreases odds
+Questionnaire Only,AHI @ 5,29,Wake During Night,0.025,0.024802836,Increases odds
+Questionnaire Only,AHI @ 5,30,Nap,0.025,0.011175185,Increases odds
+Questionnaire Only,AHI @ 5,31,Physical Complaints Today,0.025,0.01939377,Increases odds
+Questionnaire Only,AHI @ 5,32,Feel Sleepy Today,0.025,0.013364485,Increases odds
+Questionnaire Only,AHI @ 5,33,Ep. Talking,0.025,0.021226874,Increases odds
+Questionnaire Only,AHI @ 5,34,Other Heart Disease,0.025,0.03340585,Increases odds
+Questionnaire Only,AHI @ 5,35,Falling Asleep Jerk,0.024,0.022809299,Increases odds
+Questionnaire Only,AHI @ 5,36,Awake Feeling,0.024,0.012745615,Decreases odds
+Questionnaire Only,AHI @ 5,37,Sleep Get Going,0.023,0.018087924,Increases odds
+Questionnaire Only,AHI @ 5,38,Ep. Watching TV,0.022,0.008613221,Increases odds
+Questionnaire Only,AHI @ 5,39,Feel Sleepy Now,0.021,0.015214976,Decreases odds
+Questionnaire Only,AHI @ 5,40,Have Difficulty Falling Asleep,0.021,0.00868502,Increases odds
+Questionnaire Only,AHI @ 5,41,Sleep Other Movements,0.021,0.024547407,Decreases odds
+Questionnaire Only,AHI @ 5,42,Sleep Leg Cramps,0.02,0.013796538,Increases odds
+Questionnaire Only,AHI @ 5,43,Sleep Quality Last Night,0.02,0.010941161,Increases odds
+Questionnaire Only,AHI @ 5,44,Cancer,0.018,0.023543404,Increases odds
+Questionnaire Only,AHI @ 5,45,Falling Asleep Thought,0.017,0.013712528,Increases odds
+Questionnaire Only,AHI @ 5,46,Sleep Asthma,0.016,0.02267722,Increases odds
+Questionnaire Only,AHI @ 5,47,Ep. Sitting Quietly After Lunch,0.016,0.007837573,Increases odds
+Questionnaire Only,AHI @ 5,48,Problem Going to Sleep at Night,0.016,0.011636321,Increases odds
+Questionnaire Only,AHI @ 5,49,Heart Attack,0.016,0.026274918,Increases odds
+Questionnaire Only,AHI @ 5,50,Naps Today,0.015,0.0136444075,Decreases odds
+Questionnaire Only,AHI @ 5,51,Slept Longer,0.015,0.007918931,Increases odds
+Questionnaire Only,AHI @ 5,52,Problem with Tiredness,0.014,0.012872997,Increases odds
+Questionnaire Only,AHI @ 5,53,Problem with Sleepiness,0.014,0.009210638,Increases odds
+Questionnaire Only,AHI @ 5,54,Leg Pain While Falling Asleep,0.014,0.009759309,Decreases odds
+Questionnaire Only,AHI @ 5,55,Falling Asleep Muscular Tension,0.014,0.01632056,Increases odds
+Questionnaire Only,AHI @ 5,56,Leg Jerk,0.013,0.011446016,Decreases odds
+Questionnaire Only,AHI @ 5,57,Dreaming Last Night,0.013,0.008270718,Increases odds
+Questionnaire Only,AHI @ 5,58,Anemia,0.013,0.02293056,Decreases odds
+Questionnaire Only,AHI @ 5,59,Weight Loss,0.012,0.020570159,Decreases odds
+Questionnaire Only,AHI @ 5,60,Time in Bed (Weekend),0.012,0.010476122,Increases odds
+Questionnaire Only,AHI @ 5,61,First Awaken Part,0.011,0.010717075,Decreases odds
+Questionnaire Only,AHI @ 5,62,Time in Bed (Weekday),0.011,0.00717608,Increases odds
+Questionnaire Only,AHI @ 5,63,Ep. Score,0.011,0.013910492,Increases odds
+Questionnaire Only,AHI @ 5,64,Falling Asleep Afraid,0.011,0.012275814,Increases odds
+Questionnaire Only,AHI @ 5,65,Sleep Chest Pain,0.011,0.017485758,Decreases odds
+Questionnaire Only,AHI @ 5,66,Low Blood Pressure,0.011,0.027640615,Decreases odds
+Questionnaire Only,AHI @ 5,67,Allergy,0.011,0.0063190283,Decreases odds
+Questionnaire Only,AHI @ 5,68,Someone in Bed,0.011,0.008790013,Increases odds
+Questionnaire Only,AHI @ 5,69,Chest Pain,0.011,0.014541727,Decreases odds
+Questionnaire Only,AHI @ 5,70,Ep. Reading,0.011,0.010269904,Increases odds
+Questionnaire Only,AHI @ 5,71,Memory Loss,0.011,0.008592008,Decreases odds
+Questionnaire Only,AHI @ 5,72,Watch TV Before Bed,0.011,0.0061642453,Decreases odds
+Questionnaire Only,AHI @ 5,73,Shift 1st,0.01,0.0058252774,Decreases odds
+Questionnaire Only,AHI @ 5,74,Sleep Itch,0.01,0.009663538,Increases odds
+Questionnaire Only,AHI @ 5,75,Sleep Provide Assistance,0.01,0.0056715393,Decreases odds
+Questionnaire Only,AHI @ 5,76,Alcohol,0.01,0.00471161,Increases odds
+Questionnaire Only,AHI @ 5,77,Sleep Restless,0.01,0.007962259,Decreases odds
+Questionnaire Only,AHI @ 5,78,Irregular Heart Beat,0.009,0.010612642,Decreases odds
+Questionnaire Only,AHI @ 5,79,Alcohol Quit,0.009,0.013782152,Increases odds
+Questionnaire Only,AHI @ 5,80,Falling Asleep Depressed,0.009,0.0060506244,Increases odds
+Questionnaire Only,AHI @ 5,81,Sleep Hunger,0.008,0.011420111,Decreases odds
+Questionnaire Only,AHI @ 5,82,Ep. Lying Down,0.008,0.005448352,Increases odds
+Questionnaire Only,AHI @ 5,83,Shortness of Breath,0.008,0.0061625876,Increases odds
+Questionnaire Only,AHI @ 5,84,Sleep Special Surface,0.008,0.008953861,Increases odds
+Questionnaire Only,AHI @ 5,85,Sleep Alert,0.008,0.005579165,Increases odds
+Questionnaire Only,AHI @ 5,86,Frequent Cough,0.008,0.0073739323,Increases odds
+Questionnaire Only,AHI @ 5,87,Sleep Stomach Pain,0.007,0.0044425423,Increases odds
+Questionnaire Only,AHI @ 5,88,Nasal Medication,0.007,0.005408644,Increases odds
+Questionnaire Only,AHI @ 5,89,Problem Waking Up During Night,0.007,0.007092323,Decreases odds
+Questionnaire Only,AHI @ 5,90,Feel Alert Now,0.007,0.0047143134,Decreases odds
+Questionnaire Only,AHI @ 5,91,Sleep Disturb Partner,0.007,0.0051843543,Increases odds
+Questionnaire Only,AHI @ 5,92,More Than One Pillow,0.007,0.004545186,Decreases odds
+Questionnaire Only,AHI @ 5,93,Difficulty Going Back to Sleep,0.006,0.003885803,Increases odds
+Questionnaire Only,AHI @ 5,94,Sleep Short of Breath,0.006,0.0059343567,Increases odds
+Questionnaire Only,AHI @ 5,95,Tobacco Habit,0.006,0.0057988362,Increases odds
+Questionnaire Only,AHI @ 5,96,Gasping Episodes,0.006,0.005597749,Increases odds
+Questionnaire Only,AHI @ 5,97,Medication Past Month,0.006,0.00803311,Increases odds
+Questionnaire Only,AHI @ 5,98,Feeling Refreshing,0.006,0.0041761287,Increases odds
+Questionnaire Only,AHI @ 5,99,Sleep Cough,0.005,0.011742777,Decreases odds
+Questionnaire Only,AHI @ 5,100,Enlarged Heart,0.005,0.01533138,Increases odds
+Questionnaire Only,AHI @ 5,101,Seizures,0.005,0.011499808,Decreases odds
+Questionnaire Only,AHI @ 5,102,Falling Asleep Dream,0.005,0.0069518965,Increases odds
+Questionnaire Only,AHI @ 5,103,Dentures,0.004,0.005085107,Increases odds
+Questionnaire Only,AHI @ 5,104,Sleep Nasal Congestion,0.004,0.005948091,Increases odds
+Questionnaire Only,AHI @ 5,105,Sleep Difficulty,0.004,0.0031331638,Increases odds
+Questionnaire Only,AHI @ 5,106,Sleep Breath Problem,0.004,0.0042456207,Increases odds
+Questionnaire Only,AHI @ 5,107,mh_tobacco_history,0.004,0.0028369122,Increases odds
+Questionnaire Only,AHI @ 5,108,Sleep Thirst,0.004,0.0041994425,Increases odds
+Questionnaire Only,AHI @ 5,109,Third Awaken Part,0.004,0.0033206458,Increases odds
+Questionnaire Only,AHI @ 5,110,Heartburn,0.004,0.0032145935,Increases odds
+Questionnaire Only,AHI @ 5,111,Body Control Difficulty,0.004,0.004749889,Increases odds
+Questionnaire Only,AHI @ 5,112,Painful Sinus,0.003,0.0034931712,Decreases odds
+Questionnaire Only,AHI @ 5,113,Smothering Spells at Night,0.003,0.002275696,Decreases odds
+Questionnaire Only,AHI @ 5,114,Shift 2nd,0.003,0.0076926393,Decreases odds
+Questionnaire Only,AHI @ 5,115,Body Shaking,0.003,0.00369465,Decreases odds
+Questionnaire Only,AHI @ 5,116,Feeling Sick,0.003,0.004318318,Increases odds
+Questionnaire Only,AHI @ 5,117,Muscular Pain,0.003,0.0023579667,Decreases odds
+Questionnaire Only,AHI @ 5,118,Ep. In Car,0.003,0.0054740226,Increases odds
+Questionnaire Only,AHI @ 5,119,Breathing Difficulty,0.003,0.0021554201,Increases odds
+Questionnaire Only,AHI @ 5,120,Sleep Parasthesia,0.003,0.0030888019,Increases odds
+Questionnaire Only,AHI @ 5,121,Sleep Choke,0.003,0.0037126679,Increases odds
+Questionnaire Only,AHI @ 5,122,Falling Asleep Discomfort,0.003,0.0029763444,Increases odds
+Questionnaire Only,AHI @ 5,123,Speaking Difficulty,0.003,0.004911269,Decreases odds
+Questionnaire Only,AHI @ 5,124,Hernia,0.003,0.0037121358,Increases odds
+Questionnaire Only,AHI @ 5,125,Sleep Indigestion,0.003,0.0026378161,Decreases odds
+Questionnaire Only,AHI @ 5,126,Swallowing Difficulty,0.002,0.0027565656,Decreases odds
+Questionnaire Only,AHI @ 5,127,Sleep Eat,0.002,0.0020087273,Increases odds
+Questionnaire Only,AHI @ 5,128,Falling Asleep Paralyzed,0.002,0.0040947916,Decreases odds
+Questionnaire Only,AHI @ 5,129,Caffeinated Beverage,0.002,0.003522449,Decreases odds
+Questionnaire Only,AHI @ 5,130,Paralysis Attacks,0.002,0.007371238,Decreases odds
+Questionnaire Only,AHI @ 5,131,Sleep Heart Pain,0.002,0.0023931647,Increases odds
+Questionnaire Only,AHI @ 5,132,Kidney Disease,0.002,0.004012388,Increases odds
+Questionnaire Only,AHI @ 5,133,Abnormal Glucose,0.002,0.0030259523,Decreases odds
+Questionnaire Only,AHI @ 5,134,Nasal Discharge,0.002,0.0024293694,Increases odds
+Questionnaire Only,AHI @ 5,135,Stroke History,0.001,0.0023595223,Increases odds
+Questionnaire Only,AHI @ 5,136,Stomach Disease,0.001,0.0021408608,Decreases odds
+Questionnaire Only,AHI @ 5,137,Peptic Ulcer,0.001,0.0039645894,Decreases odds
+Questionnaire Only,AHI @ 5,138,Physical Strenuous Day,0.001,0.0025832288,Increases odds
+Questionnaire Only,AHI @ 5,139,Muscle Weakness,0.001,0.0014096369,Decreases odds
+Questionnaire Only,AHI @ 5,140,Sleep Walk,0.001,0.0015252847,Increases odds
+Questionnaire Only,AHI @ 5,141,Too Little Sleep,0.001,0.0013967892,Decreases odds
+Questionnaire Only,AHI @ 5,142,Liver Disease,0.001,0.0021026405,Decreases odds
+Questionnaire Only,AHI @ 5,143,Thyroid Disease,0.001,0.0017362479,Increases odds
+Questionnaire Only,AHI @ 5,144,Voice Changes,0.001,0.0019075023,Decreases odds
+Questionnaire Only,AHI @ 5,145,Alcohol Beverage Today,0.001,0.0029310847,Increases odds
+Questionnaire Only,AHI @ 5,146,Low Blood Sugar,0.001,0.0037235264,Decreases odds
+Questionnaire Only,AHI @ 5,147,Second Awaken Part,0.001,0.000912012,Increases odds
+Questionnaire Only,AHI @ 5,148,Personality Changes,0.001,0.0010744816,Decreases odds
+Questionnaire Only,AHI @ 5,149,Too Much Sleep,0.001,0.0023756265,Increases odds
+Questionnaire Only,AHI @ 5,150,Work Sleep Fatigue,0.001,0.0015595088,Decreases odds
+Questionnaire Only,AHI @ 5,151,Sleep Related Misses,0.001,0.0014752715,Increases odds
+Questionnaire Only,AHI @ 5,152,Enlarged Thyroid,0.001,0.0016621357,Decreases odds
+Questionnaire Only,AHI @ 5,153,Intestinal Disease,0.001,0.0015949659,Increases odds
+Questionnaire Only,AHI @ 5,154,Sleep Accident Mistakes,0.0,0.0003980866,Increases odds
+Questionnaire Only,AHI @ 5,155,Out of Ordinary Happen Today,0.0,0.0005353041,Increases odds
+Questionnaire Only,AHI @ 5,156,Shift 3rd,0.0,0.00035794722,Increases odds
+Questionnaire Only,AHI @ 5,157,HIV,0.0,0.0,Decreases odds
+Questionnaire Only,AHI @ 5,158,Shift Swing,0.0,0.0,Decreases odds
+Questionnaire Only,AHI @ 5,159,Sleep Related Accidents,0.0,0.0,Decreases odds
+Questionnaire Only,AHI @ 5,160,Sleep Accident Fatigue,0.0,0.0,Decreases odds
+Questionnaire Only,AHI @ 5,161,Tuberculosis,0.0,0.0,Decreases odds
+Questionnaire Only,AHI @ 15,1,High Blood Pressure,0.191,0.09221317,Decreases odds
+Questionnaire Only,AHI @ 15,2,Snoring,0.17,0.10324437,Decreases odds
+Questionnaire Only,AHI @ 15,3,Witnessed Apneas,0.139,0.13026185,Decreases odds
+Questionnaire Only,AHI @ 15,4,Have Difficulty Falling Asleep,0.107,0.021312369,Decreases odds
+Questionnaire Only,AHI @ 15,5,Headache,0.095,0.06521735,Decreases odds
+Questionnaire Only,AHI @ 15,6,Diabetes,0.074,0.056060612,Decreases odds
+Questionnaire Only,AHI @ 15,7,Sleep Quality Last Night,0.062,0.029207237,Increases odds
+Questionnaire Only,AHI @ 15,8,Shift 1st,0.055,0.03242123,Decreases odds
+Questionnaire Only,AHI @ 15,9,Nap,0.054,0.018486258,Decreases odds
+Questionnaire Only,AHI @ 15,10,Problem Not Feeling Rested,0.049,0.039013755,Decreases odds
+Questionnaire Only,AHI @ 15,11,Sleep Throat Burn,0.047,0.03849464,Decreases odds
+Questionnaire Only,AHI @ 15,12,Swollen Legs,0.047,0.043319717,Increases odds
+Questionnaire Only,AHI @ 15,13,Feel Tired Now,0.044,0.024592828,Decreases odds
+Questionnaire Only,AHI @ 15,14,Weight Gain,0.042,0.034100473,Increases odds
+Questionnaire Only,AHI @ 15,15,Arthritis,0.042,0.021553835,Decreases odds
+Questionnaire Only,AHI @ 15,16,Before Bed Sleep Aid,0.041,0.029501017,Decreases odds
+Questionnaire Only,AHI @ 15,17,Ep. Car Passenger,0.041,0.027894491,Decreases odds
+Questionnaire Only,AHI @ 15,18,Sleep Urinate,0.04,0.029266361,Decreases odds
+Questionnaire Only,AHI @ 15,19,Falling Asleep Thought,0.038,0.030035984,Increases odds
+Questionnaire Only,AHI @ 15,20,Grind Teeth,0.038,0.038564406,Decreases odds
+Questionnaire Only,AHI @ 15,21,Sleepiness Affect Performance,0.037,0.03156056,Increases odds
+Questionnaire Only,AHI @ 15,22,Feeling Sleepy,0.037,0.028621316,Decreases odds
+Questionnaire Only,AHI @ 15,23,Feeling Tired,0.036,0.028162614,Decreases odds
+Questionnaire Only,AHI @ 15,24,Naps Today,0.032,0.025710506,Decreases odds
+Questionnaire Only,AHI @ 15,25,Ep. Sitting Quietly,0.03,0.013748642,Increases odds
+Questionnaire Only,AHI @ 15,26,Ep. Talking,0.03,0.023645665,Decreases odds
+Questionnaire Only,AHI @ 15,27,First Awaken Part,0.028,0.027109863,Increases odds
+Questionnaire Only,AHI @ 15,28,Falling Asleep Worry,0.027,0.024603272,Decreases odds
+Questionnaire Only,AHI @ 15,29,Slept Longer,0.027,0.0137021225,Decreases odds
+Questionnaire Only,AHI @ 15,30,Wake During Night,0.027,0.02808,Increases odds
+Questionnaire Only,AHI @ 15,31,Feeling Alert,0.027,0.014041416,Decreases odds
+Questionnaire Only,AHI @ 15,32,Physical Complaints Today,0.025,0.021663956,Decreases odds
+Questionnaire Only,AHI @ 15,33,Someone in Room,0.024,0.019315558,Increases odds
+Questionnaire Only,AHI @ 15,34,Watch TV Before Bed,0.024,0.009198493,Decreases odds
+Questionnaire Only,AHI @ 15,35,Sleep Asthma,0.023,0.03832289,Decreases odds
+Questionnaire Only,AHI @ 15,36,Sleep Talk,0.021,0.017476821,Decreases odds
+Questionnaire Only,AHI @ 15,37,Ep. Sitting Quietly After Lunch,0.02,0.010237801,Decreases odds
+Questionnaire Only,AHI @ 15,38,Weight Loss,0.02,0.03091136,Decreases odds
+Questionnaire Only,AHI @ 15,39,Feel Sleepy Today,0.02,0.007946081,Decreases odds
+Questionnaire Only,AHI @ 15,40,Sleep Nasal Congestion,0.02,0.022744013,Increases odds
+Questionnaire Only,AHI @ 15,41,Time in Bed (Weekday),0.02,0.013968118,Increases odds
+Questionnaire Only,AHI @ 15,42,Ep. Watching TV,0.019,0.009250634,Increases odds
+Questionnaire Only,AHI @ 15,43,Feeling Refreshing,0.019,0.015237693,Decreases odds
+Questionnaire Only,AHI @ 15,44,Someone in Bed,0.019,0.014753392,Decreases odds
+Questionnaire Only,AHI @ 15,45,Joint Pain,0.018,0.010894201,Decreases odds
+Questionnaire Only,AHI @ 15,46,Allergy,0.018,0.01196316,Decreases odds
+Questionnaire Only,AHI @ 15,47,Sleep Alert,0.018,0.011145213,Increases odds
+Questionnaire Only,AHI @ 15,48,Falling Asleep Jerk,0.017,0.016266158,Decreases odds
+Questionnaire Only,AHI @ 15,49,Other Heart Disease,0.017,0.018677555,Increases odds
+Questionnaire Only,AHI @ 15,50,Medications Today,0.017,0.0051692827,Decreases odds
+Questionnaire Only,AHI @ 15,51,Sleep Leg Cramps,0.017,0.01591268,Decreases odds
+Questionnaire Only,AHI @ 15,52,Alcohol,0.017,0.00834244,Increases odds
+Questionnaire Only,AHI @ 15,53,Ep. Score,0.016,0.02009088,Decreases odds
+Questionnaire Only,AHI @ 15,54,Heart Attack,0.016,0.024693627,Increases odds
+Questionnaire Only,AHI @ 15,55,Irregular Heart Beat,0.016,0.017788583,Decreases odds
+Questionnaire Only,AHI @ 15,56,Sleep Stomach Pain,0.016,0.010025727,Decreases odds
+Questionnaire Only,AHI @ 15,57,Falling Asleep Muscular Tension,0.016,0.01951406,Decreases odds
+Questionnaire Only,AHI @ 15,58,Memory Loss,0.015,0.0151546905,Decreases odds
+Questionnaire Only,AHI @ 15,59,Problem Going to Sleep at Night,0.015,0.008644554,Decreases odds
+Questionnaire Only,AHI @ 15,60,Sleep Parasthesia,0.015,0.012167116,Increases odds
+Questionnaire Only,AHI @ 15,61,Time in Bed (Weekend),0.014,0.01334577,Increases odds
+Questionnaire Only,AHI @ 15,62,Voice Changes,0.014,0.016084857,Decreases odds
+Questionnaire Only,AHI @ 15,63,Depression,0.014,0.0085901655,Decreases odds
+Questionnaire Only,AHI @ 15,64,Caffeinated Beverage Today,0.014,0.005919918,Increases odds
+Questionnaire Only,AHI @ 15,65,Feel Sleepy Now,0.013,0.028422397,Decreases odds
+Questionnaire Only,AHI @ 15,66,Difficulty Going Back to Sleep,0.013,0.0056896885,Decreases odds
+Questionnaire Only,AHI @ 15,67,Sleep Other Movements,0.013,0.01735185,Decreases odds
+Questionnaire Only,AHI @ 15,68,Dreaming Last Night,0.013,0.008594406,Decreases odds
+Questionnaire Only,AHI @ 15,69,Sleep Get Going,0.013,0.013994319,Decreases odds
+Questionnaire Only,AHI @ 15,70,Anemia,0.013,0.024559319,Decreases odds
+Questionnaire Only,AHI @ 15,71,Sleep Restless,0.012,0.0083617065,Decreases odds
+Questionnaire Only,AHI @ 15,72,Problem Waking Up During Night,0.012,0.017067296,Decreases odds
+Questionnaire Only,AHI @ 15,73,Breathing Difficulty,0.012,0.009374083,Increases odds
+Questionnaire Only,AHI @ 15,74,Problem with Tiredness,0.012,0.010975409,Decreases odds
+Questionnaire Only,AHI @ 15,75,Leg Jerk,0.012,0.0139795365,Decreases odds
+Questionnaire Only,AHI @ 15,76,Sleep Chest Pain,0.012,0.01915367,Decreases odds
+Questionnaire Only,AHI @ 15,77,Problem with Sleepiness,0.012,0.012283492,Decreases odds
+Questionnaire Only,AHI @ 15,78,Too Little Sleep,0.012,0.0035807067,Increases odds
+Questionnaire Only,AHI @ 15,79,Sleep Thirst,0.011,0.011582221,Increases odds
+Questionnaire Only,AHI @ 15,80,Sleep Sweat,0.011,0.010816867,Decreases odds
+Questionnaire Only,AHI @ 15,81,Sleep Provide Assistance,0.01,0.008484526,Decreases odds
+Questionnaire Only,AHI @ 15,82,Nasal Medication,0.01,0.006109767,Increases odds
+Questionnaire Only,AHI @ 15,83,Ep. In Car,0.01,0.008596809,Decreases odds
+Questionnaire Only,AHI @ 15,84,Awake Feeling,0.009,0.0047673164,Decreases odds
+Questionnaire Only,AHI @ 15,85,Enlarged Heart,0.009,0.021709006,Increases odds
+Questionnaire Only,AHI @ 15,86,Gasping Episodes,0.009,0.014078082,Decreases odds
+Questionnaire Only,AHI @ 15,87,Falling Asleep Paralyzed,0.009,0.012683498,Decreases odds
+Questionnaire Only,AHI @ 15,88,Seizures,0.009,0.02202919,Decreases odds
+Questionnaire Only,AHI @ 15,89,Sleep Choke,0.009,0.012563678,Decreases odds
+Questionnaire Only,AHI @ 15,90,Dentures,0.009,0.009692556,Decreases odds
+Questionnaire Only,AHI @ 15,91,Feel Alert Now,0.008,0.004168976,Decreases odds
+Questionnaire Only,AHI @ 15,92,Cancer,0.008,0.012160582,Increases odds
+Questionnaire Only,AHI @ 15,93,Falling Asleep Afraid,0.008,0.0088652605,Increases odds
+Questionnaire Only,AHI @ 15,94,Leg Pain While Falling Asleep,0.008,0.006293668,Decreases odds
+Questionnaire Only,AHI @ 15,95,Falling Asleep Discomfort,0.007,0.00979729,Decreases odds
+Questionnaire Only,AHI @ 15,96,Hernia,0.007,0.01107237,Decreases odds
+Questionnaire Only,AHI @ 15,97,Thyroid Disease,0.007,0.007575005,Decreases odds
+Questionnaire Only,AHI @ 15,98,Sleep Hunger,0.007,0.007496185,Decreases odds
+Questionnaire Only,AHI @ 15,99,Low Blood Pressure,0.006,0.0171731,Decreases odds
+Questionnaire Only,AHI @ 15,100,Nasal Discharge,0.006,0.01003502,Decreases odds
+Questionnaire Only,AHI @ 15,101,Enlarged Thyroid,0.006,0.01790745,Decreases odds
+Questionnaire Only,AHI @ 15,102,Falling Asleep Depressed,0.006,0.005552504,Decreases odds
+Questionnaire Only,AHI @ 15,103,Falling Asleep Dream,0.006,0.008342581,Increases odds
+Questionnaire Only,AHI @ 15,104,Tobacco Habit,0.006,0.0044110804,Decreases odds
+Questionnaire Only,AHI @ 15,105,Sleep Disturb Partner,0.005,0.0074896016,Decreases odds
+Questionnaire Only,AHI @ 15,106,Sleep Eat,0.005,0.00481162,Increases odds
+Questionnaire Only,AHI @ 15,107,Sleep Short of Breath,0.005,0.0049258703,Increases odds
+Questionnaire Only,AHI @ 15,108,Frequent Cough,0.005,0.005468303,Increases odds
+Questionnaire Only,AHI @ 15,109,Kidney Disease,0.005,0.010802259,Increases odds
+Questionnaire Only,AHI @ 15,110,Stomach Disease,0.005,0.007857625,Decreases odds
+Questionnaire Only,AHI @ 15,111,More Than One Pillow,0.005,0.003654107,Decreases odds
+Questionnaire Only,AHI @ 15,112,mh_tobacco_history,0.005,0.0039963853,Decreases odds
+Questionnaire Only,AHI @ 15,113,Heartburn,0.005,0.0035040227,Decreases odds
+Questionnaire Only,AHI @ 15,114,Painful Sinus,0.004,0.0051709753,Decreases odds
+Questionnaire Only,AHI @ 15,115,Sleep Difficulty,0.004,0.002984358,Increases odds
+Questionnaire Only,AHI @ 15,116,Sleep Indigestion,0.004,0.0045273784,Decreases odds
+Questionnaire Only,AHI @ 15,117,Sleep Itch,0.004,0.006425368,Increases odds
+Questionnaire Only,AHI @ 15,118,Ep. Reading,0.004,0.0034866123,Increases odds
+Questionnaire Only,AHI @ 15,119,Medication Past Month,0.004,0.0057154177,Decreases odds
+Questionnaire Only,AHI @ 15,120,Work Sleep Fatigue,0.004,0.0109333815,Decreases odds
+Questionnaire Only,AHI @ 15,121,Body Control Difficulty,0.004,0.0051719006,Increases odds
+Questionnaire Only,AHI @ 15,122,Sleep Breath Problem,0.003,0.003459311,Increases odds
+Questionnaire Only,AHI @ 15,123,Sleep Cough,0.003,0.0068494813,Decreases odds
+Questionnaire Only,AHI @ 15,124,Muscular Pain,0.003,0.0038673657,Decreases odds
+Questionnaire Only,AHI @ 15,125,Sleep Special Surface,0.003,0.004380871,Decreases odds
+Questionnaire Only,AHI @ 15,126,Alcohol Beverage Today,0.003,0.0074171205,Decreases odds
+Questionnaire Only,AHI @ 15,127,Muscle Weakness,0.003,0.003115184,Increases odds
+Questionnaire Only,AHI @ 15,128,Stroke History,0.003,0.00644736,Increases odds
+Questionnaire Only,AHI @ 15,129,Ep. Lying Down,0.003,0.0028986575,Increases odds
+Questionnaire Only,AHI @ 15,130,Caffeinated Beverage,0.003,0.004030138,Increases odds
+Questionnaire Only,AHI @ 15,131,Shift 2nd,0.003,0.0074007018,Decreases odds
+Questionnaire Only,AHI @ 15,132,Low Blood Sugar,0.003,0.0048671933,Decreases odds
+Questionnaire Only,AHI @ 15,133,Chest Pain,0.003,0.0051178047,Decreases odds
+Questionnaire Only,AHI @ 15,134,Alcohol Quit,0.003,0.0050787353,Increases odds
+Questionnaire Only,AHI @ 15,135,Sleep Heart Pain,0.003,0.004712162,Decreases odds
+Questionnaire Only,AHI @ 15,136,Intestinal Disease,0.003,0.0059213126,Decreases odds
+Questionnaire Only,AHI @ 15,137,Smothering Spells at Night,0.002,0.0023146453,Decreases odds
+Questionnaire Only,AHI @ 15,138,Sleep Walk,0.002,0.0033550942,Decreases odds
+Questionnaire Only,AHI @ 15,139,Feeling Sick,0.002,0.003186467,Decreases odds
+Questionnaire Only,AHI @ 15,140,Shift 3rd,0.002,0.006497547,Decreases odds
+Questionnaire Only,AHI @ 15,141,Body Shaking,0.002,0.002406895,Decreases odds
+Questionnaire Only,AHI @ 15,142,Personality Changes,0.002,0.002722961,Decreases odds
+Questionnaire Only,AHI @ 15,143,Peptic Ulcer,0.002,0.003604568,Decreases odds
+Questionnaire Only,AHI @ 15,144,Shortness of Breath,0.001,0.0017696396,Increases odds
+Questionnaire Only,AHI @ 15,145,Paralysis Attacks,0.001,0.004403084,Decreases odds
+Questionnaire Only,AHI @ 15,146,Second Awaken Part,0.001,0.0014854099,Increases odds
+Questionnaire Only,AHI @ 15,147,Third Awaken Part,0.001,0.0017084997,Decreases odds
+Questionnaire Only,AHI @ 15,148,Physical Strenuous Day,0.001,0.0023740218,Increases odds
+Questionnaire Only,AHI @ 15,149,Liver Disease,0.001,0.002491094,Decreases odds
+Questionnaire Only,AHI @ 15,150,Swallowing Difficulty,0.001,0.0013658571,Decreases odds
+Questionnaire Only,AHI @ 15,151,Too Much Sleep,0.001,0.0025183242,Decreases odds
+Questionnaire Only,AHI @ 15,152,Speaking Difficulty,0.001,0.0017226817,Decreases odds
+Questionnaire Only,AHI @ 15,153,Out of Ordinary Happen Today,0.001,0.0012960194,Decreases odds
+Questionnaire Only,AHI @ 15,154,Sleep Related Misses,0.0,0.0011486046,Increases odds
+Questionnaire Only,AHI @ 15,155,Shift Swing,0.0,0.0019704658,Decreases odds
+Questionnaire Only,AHI @ 15,156,Abnormal Glucose,0.0,0.0009731058,Decreases odds
+Questionnaire Only,AHI @ 15,157,Sleep Accident Mistakes,0.0,0.0019247899,Decreases odds
+Questionnaire Only,AHI @ 15,158,Tuberculosis,0.0,0.00094659126,Decreases odds
+Questionnaire Only,AHI @ 15,159,Sleep Related Accidents,0.0,0.0030790293,Increases odds
+Questionnaire Only,AHI @ 15,160,HIV,0.0,0.0,Decreases odds
+Questionnaire Only,AHI @ 15,161,Sleep Accident Fatigue,0.0,0.0,Decreases odds
+Questionnaire Only,AHI @ 30,1,High Blood Pressure,0.228,0.10397455,Decreases odds
+Questionnaire Only,AHI @ 30,2,Witnessed Apneas,0.162,0.14145195,Decreases odds
+Questionnaire Only,AHI @ 30,3,Snoring,0.153,0.11485581,Decreases odds
+Questionnaire Only,AHI @ 30,4,Have Difficulty Falling Asleep,0.15,0.02375819,Decreases odds
+Questionnaire Only,AHI @ 30,5,Sleep Quality Last Night,0.104,0.036338482,Decreases odds
+Questionnaire Only,AHI @ 30,6,Headache,0.099,0.08106656,Decreases odds
+Questionnaire Only,AHI @ 30,7,Diabetes,0.085,0.047996704,Decreases odds
+Questionnaire Only,AHI @ 30,8,Shift 1st,0.083,0.041389965,Decreases odds
+Questionnaire Only,AHI @ 30,9,Feel Tired Now,0.072,0.041054755,Decreases odds
+Questionnaire Only,AHI @ 30,10,Swollen Legs,0.065,0.056306347,Increases odds
+Questionnaire Only,AHI @ 30,11,Nap,0.058,0.019828547,Decreases odds
+Questionnaire Only,AHI @ 30,12,Sleepiness Affect Performance,0.05,0.03274419,Decreases odds
+Questionnaire Only,AHI @ 30,13,Feeling Refreshing,0.047,0.0435512,Decreases odds
+Questionnaire Only,AHI @ 30,14,Sleep Urinate,0.047,0.028469242,Decreases odds
+Questionnaire Only,AHI @ 30,15,Slept Longer,0.045,0.018640237,Decreases odds
+Questionnaire Only,AHI @ 30,16,Falling Asleep Thought,0.045,0.036239773,Decreases odds
+Questionnaire Only,AHI @ 30,17,Feeling Tired,0.044,0.029467344,Decreases odds
+Questionnaire Only,AHI @ 30,18,Weight Gain,0.044,0.032908253,Increases odds
+Questionnaire Only,AHI @ 30,19,Sleep Throat Burn,0.043,0.035648677,Decreases odds
+Questionnaire Only,AHI @ 30,20,Naps Today,0.043,0.031635497,Decreases odds
+Questionnaire Only,AHI @ 30,21,Ep. Watching TV,0.042,0.01737846,Decreases odds
+Questionnaire Only,AHI @ 30,22,Problem Not Feeling Rested,0.04,0.03736981,Decreases odds
+Questionnaire Only,AHI @ 30,23,Before Bed Sleep Aid,0.04,0.030992411,Decreases odds
+Questionnaire Only,AHI @ 30,24,Difficulty Going Back to Sleep,0.038,0.013518072,Decreases odds
+Questionnaire Only,AHI @ 30,25,Feeling Sleepy,0.037,0.031597253,Decreases odds
+Questionnaire Only,AHI @ 30,26,Grind Teeth,0.036,0.0398657,Decreases odds
+Questionnaire Only,AHI @ 30,27,Feeling Alert,0.034,0.013251818,Decreases odds
+Questionnaire Only,AHI @ 30,28,Time in Bed (Weekday),0.033,0.023786698,Decreases odds
+Questionnaire Only,AHI @ 30,29,Wake During Night,0.031,0.035325266,Decreases odds
+Questionnaire Only,AHI @ 30,30,Falling Asleep Muscular Tension,0.03,0.022012992,Decreases odds
+Questionnaire Only,AHI @ 30,31,Sleep Parasthesia,0.029,0.031684563,Decreases odds
+Questionnaire Only,AHI @ 30,32,Someone in Room,0.029,0.01728645,Decreases odds
+Questionnaire Only,AHI @ 30,33,Ep. Car Passenger,0.028,0.025659775,Decreases odds
+Questionnaire Only,AHI @ 30,34,Someone in Bed,0.028,0.020273946,Decreases odds
+Questionnaire Only,AHI @ 30,35,Sleep Asthma,0.028,0.048785627,Decreases odds
+Questionnaire Only,AHI @ 30,36,Ep. Sitting Quietly After Lunch,0.027,0.013370596,Decreases odds
+Questionnaire Only,AHI @ 30,37,Ep. Sitting Quietly,0.027,0.01626274,Decreases odds
+Questionnaire Only,AHI @ 30,38,Awake Feeling,0.027,0.0110929655,Decreases odds
+Questionnaire Only,AHI @ 30,39,Ep. Talking,0.026,0.021979388,Decreases odds
+Questionnaire Only,AHI @ 30,40,Physical Complaints Today,0.026,0.023243284,Decreases odds
+Questionnaire Only,AHI @ 30,41,First Awaken Part,0.025,0.026460955,Increases odds
+Questionnaire Only,AHI @ 30,42,Falling Asleep Worry,0.025,0.02266525,Decreases odds
+Questionnaire Only,AHI @ 30,43,Other Heart Disease,0.025,0.025163181,Decreases odds
+Questionnaire Only,AHI @ 30,44,Weight Loss,0.025,0.03984045,Decreases odds
+Questionnaire Only,AHI @ 30,45,Shortness of Breath,0.023,0.012845785,Decreases odds
+Questionnaire Only,AHI @ 30,46,Problem with Tiredness,0.021,0.018337019,Decreases odds
+Questionnaire Only,AHI @ 30,47,Memory Loss,0.018,0.020795953,Decreases odds
+Questionnaire Only,AHI @ 30,48,Time in Bed (Weekend),0.018,0.007360716,Increases odds
+Questionnaire Only,AHI @ 30,49,Arthritis,0.018,0.007537132,Decreases odds
+Questionnaire Only,AHI @ 30,50,Breathing Difficulty,0.017,0.015418128,Increases odds
+Questionnaire Only,AHI @ 30,51,Problem Going to Sleep at Night,0.017,0.0138966525,Decreases odds
+Questionnaire Only,AHI @ 30,52,Sleep Stomach Pain,0.016,0.015470532,Decreases odds
+Questionnaire Only,AHI @ 30,53,Ep. Score,0.016,0.02094455,Decreases odds
+Questionnaire Only,AHI @ 30,54,Sleep Get Going,0.015,0.017019711,Decreases odds
+Questionnaire Only,AHI @ 30,55,Sleep Restless,0.015,0.0128556,Decreases odds
+Questionnaire Only,AHI @ 30,56,Irregular Heart Beat,0.014,0.015460034,Decreases odds
+Questionnaire Only,AHI @ 30,57,Sleep Leg Cramps,0.013,0.024368081,Decreases odds
+Questionnaire Only,AHI @ 30,58,Sleep Sweat,0.013,0.013051127,Decreases odds
+Questionnaire Only,AHI @ 30,59,Feel Sleepy Now,0.012,0.02217397,Decreases odds
+Questionnaire Only,AHI @ 30,60,Tobacco Habit,0.012,0.0056353216,Decreases odds
+Questionnaire Only,AHI @ 30,61,Heart Attack,0.012,0.020071113,Increases odds
+Questionnaire Only,AHI @ 30,62,Dreaming Last Night,0.012,0.00882906,Decreases odds
+Questionnaire Only,AHI @ 30,63,Sleep Nasal Congestion,0.012,0.011827497,Increases odds
+Questionnaire Only,AHI @ 30,64,Falling Asleep Discomfort,0.011,0.008429248,Increases odds
+Questionnaire Only,AHI @ 30,65,Falling Asleep Afraid,0.011,0.012533101,Decreases odds
+Questionnaire Only,AHI @ 30,66,Falling Asleep Jerk,0.011,0.013685674,Decreases odds
+Questionnaire Only,AHI @ 30,67,Work Sleep Fatigue,0.01,0.020979568,Decreases odds
+Questionnaire Only,AHI @ 30,68,Falling Asleep Paralyzed,0.01,0.017399698,Decreases odds
+Questionnaire Only,AHI @ 30,69,Sleep Chest Pain,0.009,0.011610246,Decreases odds
+Questionnaire Only,AHI @ 30,70,Dentures,0.009,0.011851363,Decreases odds
+Questionnaire Only,AHI @ 30,71,Allergy,0.009,0.00606165,Decreases odds
+Questionnaire Only,AHI @ 30,72,Sleep Alert,0.009,0.0064193225,Increases odds
+Questionnaire Only,AHI @ 30,73,Feeling Sick,0.009,0.01208047,Decreases odds
+Questionnaire Only,AHI @ 30,74,Kidney Disease,0.009,0.017950695,Increases odds
+Questionnaire Only,AHI @ 30,75,Cancer,0.009,0.013144605,Increases odds
+Questionnaire Only,AHI @ 30,76,Gasping Episodes,0.009,0.008571867,Decreases odds
+Questionnaire Only,AHI @ 30,77,Thyroid Disease,0.009,0.012726756,Decreases odds
+Questionnaire Only,AHI @ 30,78,Sleep Thirst,0.009,0.006933732,Decreases odds
+Questionnaire Only,AHI @ 30,79,Anemia,0.009,0.017432442,Decreases odds
+Questionnaire Only,AHI @ 30,80,Hernia,0.008,0.010549378,Decreases odds
+Questionnaire Only,AHI @ 30,81,Enlarged Heart,0.008,0.014158236,Increases odds
+Questionnaire Only,AHI @ 30,82,Leg Pain While Falling Asleep,0.008,0.004903334,Decreases odds
+Questionnaire Only,AHI @ 30,83,Feel Sleepy Today,0.007,0.0036609494,Decreases odds
+Questionnaire Only,AHI @ 30,84,Stomach Disease,0.007,0.014150822,Decreases odds
+Questionnaire Only,AHI @ 30,85,Leg Jerk,0.007,0.0047745397,Decreases odds
+Questionnaire Only,AHI @ 30,86,Sleep Itch,0.007,0.0072325147,Decreases odds
+Questionnaire Only,AHI @ 30,87,mh_tobacco_history,0.007,0.003570393,Decreases odds
+Questionnaire Only,AHI @ 30,88,Sleep Short of Breath,0.007,0.004749907,Decreases odds
+Questionnaire Only,AHI @ 30,89,Seizures,0.006,0.018225426,Decreases odds
+Questionnaire Only,AHI @ 30,90,Paralysis Attacks,0.006,0.014665086,Decreases odds
+Questionnaire Only,AHI @ 30,91,Sleep Other Movements,0.006,0.013275549,Decreases odds
+Questionnaire Only,AHI @ 30,92,Voice Changes,0.006,0.0055651474,Decreases odds
+Questionnaire Only,AHI @ 30,93,Out of Ordinary Happen Today,0.006,0.012709309,Decreases odds
+Questionnaire Only,AHI @ 30,94,Medication Past Month,0.006,0.008456298,Decreases odds
+Questionnaire Only,AHI @ 30,95,Painful Sinus,0.006,0.0052681435,Decreases odds
+Questionnaire Only,AHI @ 30,96,Physical Strenuous Day,0.006,0.010599971,Decreases odds
+Questionnaire Only,AHI @ 30,97,Falling Asleep Depressed,0.006,0.0063800598,Increases odds
+Questionnaire Only,AHI @ 30,98,Sleep Heart Pain,0.006,0.0118713,Decreases odds
+Questionnaire Only,AHI @ 30,99,Sleep Eat,0.005,0.0063069086,Decreases odds
+Questionnaire Only,AHI @ 30,100,Nasal Medication,0.005,0.003188757,Increases odds
+Questionnaire Only,AHI @ 30,101,Joint Pain,0.005,0.0028739665,Decreases odds
+Questionnaire Only,AHI @ 30,102,Problem Waking Up During Night,0.005,0.005186071,Decreases odds
+Questionnaire Only,AHI @ 30,103,Ep. Lying Down,0.005,0.0042779413,Decreases odds
+Questionnaire Only,AHI @ 30,104,Sleep Hunger,0.005,0.005186887,Decreases odds
+Questionnaire Only,AHI @ 30,105,Low Blood Pressure,0.005,0.008684202,Decreases odds
+Questionnaire Only,AHI @ 30,106,Sleep Provide Assistance,0.004,0.004767199,Decreases odds
+Questionnaire Only,AHI @ 30,107,Feel Alert Now,0.004,0.0072722523,Decreases odds
+Questionnaire Only,AHI @ 30,108,Heartburn,0.004,0.0034892603,Decreases odds
+Questionnaire Only,AHI @ 30,109,Watch TV Before Bed,0.004,0.0027917742,Decreases odds
+Questionnaire Only,AHI @ 30,110,Too Little Sleep,0.004,0.0014690722,Increases odds
+Questionnaire Only,AHI @ 30,111,Liver Disease,0.004,0.009512823,Decreases odds
+Questionnaire Only,AHI @ 30,112,Second Awaken Part,0.004,0.002410888,Decreases odds
+Questionnaire Only,AHI @ 30,113,Problem with Sleepiness,0.004,0.0050552823,Decreases odds
+Questionnaire Only,AHI @ 30,114,Ep. In Car,0.004,0.0031770815,Decreases odds
+Questionnaire Only,AHI @ 30,115,Sleep Cough,0.004,0.004659918,Decreases odds
+Questionnaire Only,AHI @ 30,116,Tuberculosis,0.004,0.008500964,Decreases odds
+Questionnaire Only,AHI @ 30,117,Falling Asleep Dream,0.004,0.006574837,Decreases odds
+Questionnaire Only,AHI @ 30,118,Sleep Walk,0.003,0.0054125777,Decreases odds
+Questionnaire Only,AHI @ 30,119,Medications Today,0.003,0.0015841254,Decreases odds
+Questionnaire Only,AHI @ 30,120,Sleep Choke,0.003,0.0032937885,Decreases odds
+Questionnaire Only,AHI @ 30,121,Ep. Reading,0.003,0.0030425831,Decreases odds
+Questionnaire Only,AHI @ 30,122,Sleep Special Surface,0.003,0.003981807,Decreases odds
+Questionnaire Only,AHI @ 30,123,Enlarged Thyroid,0.003,0.0076632495,Decreases odds
+Questionnaire Only,AHI @ 30,124,Sleep Disturb Partner,0.003,0.003540193,Decreases odds
+Questionnaire Only,AHI @ 30,125,Caffeinated Beverage Today,0.003,0.002830418,Decreases odds
+Questionnaire Only,AHI @ 30,126,Depression,0.003,0.002370636,Decreases odds
+Questionnaire Only,AHI @ 30,127,Personality Changes,0.003,0.0043105674,Decreases odds
+Questionnaire Only,AHI @ 30,128,Sleep Breath Problem,0.002,0.0027633887,Decreases odds
+Questionnaire Only,AHI @ 30,129,More Than One Pillow,0.002,0.0016121677,Decreases odds
+Questionnaire Only,AHI @ 30,130,Body Control Difficulty,0.002,0.00273128,Increases odds
+Questionnaire Only,AHI @ 30,131,Swallowing Difficulty,0.002,0.0032923669,Increases odds
+Questionnaire Only,AHI @ 30,132,Sleep Talk,0.002,0.0047830143,Decreases odds
+Questionnaire Only,AHI @ 30,133,Nasal Discharge,0.002,0.0034096916,Decreases odds
+Questionnaire Only,AHI @ 30,134,Sleep Accident Fatigue,0.002,0.003399729,Decreases odds
+Questionnaire Only,AHI @ 30,135,Alcohol,0.002,0.0017176352,Increases odds
+Questionnaire Only,AHI @ 30,136,Speaking Difficulty,0.002,0.0049112546,Decreases odds
+Questionnaire Only,AHI @ 30,137,Sleep Indigestion,0.002,0.001919785,Decreases odds
+Questionnaire Only,AHI @ 30,138,Intestinal Disease,0.002,0.0050294567,Decreases odds
+Questionnaire Only,AHI @ 30,139,Alcohol Quit,0.002,0.0022235042,Decreases odds
+Questionnaire Only,AHI @ 30,140,Sleep Difficulty,0.001,0.0011426256,Decreases odds
+Questionnaire Only,AHI @ 30,141,Smothering Spells at Night,0.001,0.0017289487,Decreases odds
+Questionnaire Only,AHI @ 30,142,Sleep Accident Mistakes,0.001,0.0028422305,Decreases odds
+Questionnaire Only,AHI @ 30,143,Muscular Pain,0.001,0.001231762,Decreases odds
+Questionnaire Only,AHI @ 30,144,Muscle Weakness,0.001,0.0014622742,Decreases odds
+Questionnaire Only,AHI @ 30,145,Shift 2nd,0.001,0.0037093621,Decreases odds
+Questionnaire Only,AHI @ 30,146,Stroke History,0.001,0.0018054709,Increases odds
+Questionnaire Only,AHI @ 30,147,Third Awaken Part,0.001,0.001102922,Decreases odds
+Questionnaire Only,AHI @ 30,148,Sleep Related Misses,0.001,0.0021688156,Decreases odds
+Questionnaire Only,AHI @ 30,149,Too Much Sleep,0.001,0.0028953517,Decreases odds
+Questionnaire Only,AHI @ 30,150,Frequent Cough,0.001,0.0009296105,Increases odds
+Questionnaire Only,AHI @ 30,151,Shift 3rd,0.001,0.003047067,Decreases odds
+Questionnaire Only,AHI @ 30,152,Chest Pain,0.001,0.0011262167,Decreases odds
+Questionnaire Only,AHI @ 30,153,Caffeinated Beverage,0.0,0.000892916,Decreases odds
+Questionnaire Only,AHI @ 30,154,Low Blood Sugar,0.0,0.0012992223,Decreases odds
+Questionnaire Only,AHI @ 30,155,Body Shaking,0.0,0.0010215546,Decreases odds
+Questionnaire Only,AHI @ 30,156,Abnormal Glucose,0.0,0.0011818529,Increases odds
+Questionnaire Only,AHI @ 30,157,Peptic Ulcer,0.0,0.0009233515,Decreases odds
+Questionnaire Only,AHI @ 30,158,Sleep Related Accidents,0.0,0.0010930978,Decreases odds
+Questionnaire Only,AHI @ 30,159,Alcohol Beverage Today,0.0,0.0008294828,Decreases odds
+Questionnaire Only,AHI @ 30,160,Shift Swing,0.0,0.0007093181,Decreases odds
+Questionnaire Only,AHI @ 30,161,HIV,0.0,0.0004990907,Decreases odds
+Questionnaire Only,RDI @ 5,1,High Blood Pressure,0.231,0.07983161,Increases odds
+Questionnaire Only,RDI @ 5,2,Snoring,0.17,0.13639493,Increases odds
+Questionnaire Only,RDI @ 5,3,Witnessed Apneas,0.128,0.12917319,Increases odds
+Questionnaire Only,RDI @ 5,4,Headache,0.095,0.06338916,Decreases odds
+Questionnaire Only,RDI @ 5,5,Diabetes,0.08,0.07105344,Increases odds
+Questionnaire Only,RDI @ 5,6,Swollen Legs,0.059,0.06079857,Increases odds
+Questionnaire Only,RDI @ 5,7,Ep. Car Passenger,0.057,0.03605773,Increases odds
+Questionnaire Only,RDI @ 5,8,Arthritis,0.057,0.03402246,Increases odds
+Questionnaire Only,RDI @ 5,9,Sleep Throat Burn,0.054,0.043232277,Increases odds
+Questionnaire Only,RDI @ 5,10,Feeling Sleepy,0.048,0.025892505,Increases odds
+Questionnaire Only,RDI @ 5,11,Problem Not Feeling Rested,0.046,0.03913712,Increases odds
+Questionnaire Only,RDI @ 5,12,Falling Asleep Worry,0.046,0.034044255,Increases odds
+Questionnaire Only,RDI @ 5,13,Wake During Night,0.045,0.038873333,Increases odds
+Questionnaire Only,RDI @ 5,14,Before Bed Sleep Aid,0.04,0.023842696,Increases odds
+Questionnaire Only,RDI @ 5,15,Weight Gain,0.037,0.018996304,Increases odds
+Questionnaire Only,RDI @ 5,16,Caffeinated Beverage Today,0.037,0.011997083,Increases odds
+Questionnaire Only,RDI @ 5,17,Sleep Quality Last Night,0.037,0.019288948,Increases odds
+Questionnaire Only,RDI @ 5,18,Feel Tired Now,0.036,0.017677868,Increases odds
+Questionnaire Only,RDI @ 5,19,Sleepiness Affect Performance,0.036,0.02954219,Increases odds
+Questionnaire Only,RDI @ 5,20,Other Heart Disease,0.035,0.04559623,Increases odds
+Questionnaire Only,RDI @ 5,21,Physical Complaints Today,0.034,0.023816738,Increases odds
+Questionnaire Only,RDI @ 5,22,Sleep Urinate,0.033,0.022069145,Increases odds
+Questionnaire Only,RDI @ 5,23,Feeling Alert,0.033,0.023192555,Increases odds
+Questionnaire Only,RDI @ 5,24,Alcohol,0.033,0.015039675,Increases odds
+Questionnaire Only,RDI @ 5,25,Sleep Get Going,0.03,0.023519231,Increases odds
+Questionnaire Only,RDI @ 5,26,Sleep Talk,0.029,0.02410854,Increases odds
+Questionnaire Only,RDI @ 5,27,Joint Pain,0.029,0.011291567,Increases odds
+Questionnaire Only,RDI @ 5,28,Someone in Room,0.027,0.021681704,Increases odds
+Questionnaire Only,RDI @ 5,29,Depression,0.027,0.019865459,Decreases odds
+Questionnaire Only,RDI @ 5,30,Ep. Watching TV,0.026,0.02195982,Increases odds
+Questionnaire Only,RDI @ 5,31,Feeling Tired,0.025,0.01512871,Increases odds
+Questionnaire Only,RDI @ 5,32,Problem with Sleepiness,0.025,0.017118307,Increases odds
+Questionnaire Only,RDI @ 5,33,Watch TV Before Bed,0.024,0.011092908,Decreases odds
+Questionnaire Only,RDI @ 5,34,Falling Asleep Jerk,0.024,0.02324947,Increases odds
+Questionnaire Only,RDI @ 5,35,Sleep Provide Assistance,0.022,0.01394603,Increases odds
+Questionnaire Only,RDI @ 5,36,Weight Loss,0.022,0.032335684,Decreases odds
+Questionnaire Only,RDI @ 5,37,Dreaming Last Night,0.022,0.011540848,Increases odds
+Questionnaire Only,RDI @ 5,38,Nap,0.021,0.008378933,Increases odds
+Questionnaire Only,RDI @ 5,39,Ep. Talking,0.021,0.026451314,Increases odds
+Questionnaire Only,RDI @ 5,40,Grind Teeth,0.02,0.01826533,Increases odds
+Questionnaire Only,RDI @ 5,41,Sleep Sweat,0.02,0.01196238,Increases odds
+Questionnaire Only,RDI @ 5,42,Cancer,0.019,0.023310853,Increases odds
+Questionnaire Only,RDI @ 5,43,More Than One Pillow,0.019,0.010345974,Decreases odds
+Questionnaire Only,RDI @ 5,44,Leg Jerk,0.019,0.019478206,Increases odds
+Questionnaire Only,RDI @ 5,45,Sleep Leg Cramps,0.019,0.013792751,Increases odds
+Questionnaire Only,RDI @ 5,46,Ep. Sitting Quietly,0.017,0.011040775,Increases odds
+Questionnaire Only,RDI @ 5,47,Feel Sleepy Today,0.017,0.009325717,Increases odds
+Questionnaire Only,RDI @ 5,48,Naps Today,0.016,0.015037132,Increases odds
+Questionnaire Only,RDI @ 5,49,Ep. Score,0.016,0.021734921,Increases odds
+Questionnaire Only,RDI @ 5,50,Ep. Sitting Quietly After Lunch,0.016,0.007344511,Increases odds
+Questionnaire Only,RDI @ 5,51,Sleep Asthma,0.016,0.020463781,Increases odds
+Questionnaire Only,RDI @ 5,52,Anemia,0.016,0.025718898,Decreases odds
+Questionnaire Only,RDI @ 5,53,Problem with Tiredness,0.015,0.011630816,Increases odds
+Questionnaire Only,RDI @ 5,54,Leg Pain While Falling Asleep,0.015,0.0071992017,Decreases odds
+Questionnaire Only,RDI @ 5,55,Falling Asleep Dream,0.015,0.018396894,Increases odds
+Questionnaire Only,RDI @ 5,56,Problem Going to Sleep at Night,0.014,0.009319426,Increases odds
+Questionnaire Only,RDI @ 5,57,Nasal Medication,0.014,0.0077098836,Increases odds
+Questionnaire Only,RDI @ 5,58,Have Difficulty Falling Asleep,0.014,0.0036680899,Increases odds
+Questionnaire Only,RDI @ 5,59,Allergy,0.014,0.008139591,Decreases odds
+Questionnaire Only,RDI @ 5,60,Difficulty Going Back to Sleep,0.014,0.007195353,Increases odds
+Questionnaire Only,RDI @ 5,61,Chest Pain,0.013,0.018081097,Decreases odds
+Questionnaire Only,RDI @ 5,62,Sleep Disturb Partner,0.013,0.01083135,Increases odds
+Questionnaire Only,RDI @ 5,63,Sleep Restless,0.013,0.010522711,Increases odds
+Questionnaire Only,RDI @ 5,64,Memory Loss,0.012,0.009959368,Increases odds
+Questionnaire Only,RDI @ 5,65,Ep. Reading,0.012,0.008125561,Increases odds
+Questionnaire Only,RDI @ 5,66,Time in Bed (Weekday),0.011,0.009934032,Increases odds
+Questionnaire Only,RDI @ 5,67,Time in Bed (Weekend),0.011,0.013068275,Increases odds
+Questionnaire Only,RDI @ 5,68,Feel Alert Now,0.011,0.006381195,Increases odds
+Questionnaire Only,RDI @ 5,69,Slept Longer,0.011,0.0064257733,Increases odds
+Questionnaire Only,RDI @ 5,70,Awake Feeling,0.011,0.0076271873,Increases odds
+Questionnaire Only,RDI @ 5,71,Problem Waking Up During Night,0.011,0.0070966636,Increases odds
+Questionnaire Only,RDI @ 5,72,Feel Sleepy Now,0.01,0.008951809,Increases odds
+Questionnaire Only,RDI @ 5,73,Sleep Difficulty,0.01,0.0056157564,Increases odds
+Questionnaire Only,RDI @ 5,74,Sleep Stomach Pain,0.01,0.00881971,Increases odds
+Questionnaire Only,RDI @ 5,75,Falling Asleep Thought,0.01,0.010653194,Increases odds
+Questionnaire Only,RDI @ 5,76,Third Awaken Part,0.01,0.0069716997,Increases odds
+Questionnaire Only,RDI @ 5,77,Sleep Itch,0.009,0.008707854,Increases odds
+Questionnaire Only,RDI @ 5,78,Sleep Other Movements,0.009,0.0067335707,Increases odds
+Questionnaire Only,RDI @ 5,79,Sleep Nasal Congestion,0.009,0.008536042,Increases odds
+Questionnaire Only,RDI @ 5,80,Falling Asleep Depressed,0.009,0.007886357,Increases odds
+Questionnaire Only,RDI @ 5,81,Caffeinated Beverage,0.009,0.011289927,Increases odds
+Questionnaire Only,RDI @ 5,82,Falling Asleep Muscular Tension,0.009,0.0074146157,Increases odds
+Questionnaire Only,RDI @ 5,83,Sleep Hunger,0.008,0.009738915,Increases odds
+Questionnaire Only,RDI @ 5,84,Heart Attack,0.008,0.014626998,Increases odds
+Questionnaire Only,RDI @ 5,85,Feeling Refreshing,0.008,0.0059434916,Increases odds
+Questionnaire Only,RDI @ 5,86,Falling Asleep Afraid,0.008,0.009383042,Increases odds
+Questionnaire Only,RDI @ 5,87,Someone in Bed,0.008,0.007892786,Increases odds
+Questionnaire Only,RDI @ 5,88,Dentures,0.008,0.009644211,Increases odds
+Questionnaire Only,RDI @ 5,89,Seizures,0.008,0.014356212,Decreases odds
+Questionnaire Only,RDI @ 5,90,Sleep Cough,0.008,0.012627244,Increases odds
+Questionnaire Only,RDI @ 5,91,Sleep Alert,0.007,0.0055564484,Increases odds
+Questionnaire Only,RDI @ 5,92,mh_tobacco_history,0.007,0.005670716,Increases odds
+Questionnaire Only,RDI @ 5,93,Sleep Indigestion,0.007,0.004780667,Increases odds
+Questionnaire Only,RDI @ 5,94,Shift 1st,0.006,0.0035166396,Increases odds
+Questionnaire Only,RDI @ 5,95,Shortness of Breath,0.006,0.003500145,Increases odds
+Questionnaire Only,RDI @ 5,96,Gasping Episodes,0.006,0.0046874103,Decreases odds
+Questionnaire Only,RDI @ 5,97,Irregular Heart Beat,0.006,0.0062171486,Increases odds
+Questionnaire Only,RDI @ 5,98,Falling Asleep Paralyzed,0.006,0.008026319,Decreases odds
+Questionnaire Only,RDI @ 5,99,Tobacco Habit,0.006,0.005808251,Increases odds
+Questionnaire Only,RDI @ 5,100,Low Blood Pressure,0.006,0.01051399,Decreases odds
+Questionnaire Only,RDI @ 5,101,First Awaken Part,0.006,0.0058137756,Increases odds
+Questionnaire Only,RDI @ 5,102,Sleep Chest Pain,0.006,0.008716505,Increases odds
+Questionnaire Only,RDI @ 5,103,Swallowing Difficulty,0.005,0.0056852773,Decreases odds
+Questionnaire Only,RDI @ 5,104,Breathing Difficulty,0.005,0.004085409,Increases odds
+Questionnaire Only,RDI @ 5,105,Ep. Lying Down,0.005,0.0038707203,Increases odds
+Questionnaire Only,RDI @ 5,106,Falling Asleep Discomfort,0.005,0.0042592855,Increases odds
+Questionnaire Only,RDI @ 5,107,Thyroid Disease,0.004,0.005577186,Increases odds
+Questionnaire Only,RDI @ 5,108,Painful Sinus,0.004,0.0038966418,Increases odds
+Questionnaire Only,RDI @ 5,109,Shift 2nd,0.004,0.007924285,Increases odds
+Questionnaire Only,RDI @ 5,110,Body Shaking,0.004,0.0041081677,Decreases odds
+Questionnaire Only,RDI @ 5,111,Enlarged Heart,0.004,0.010142628,Increases odds
+Questionnaire Only,RDI @ 5,112,Personality Changes,0.004,0.003959613,Decreases odds
+Questionnaire Only,RDI @ 5,113,Sleep Eat,0.003,0.004396489,Increases odds
+Questionnaire Only,RDI @ 5,114,Alcohol Beverage Today,0.003,0.008295477,Increases odds
+Questionnaire Only,RDI @ 5,115,Sleep Breath Problem,0.003,0.0027316771,Increases odds
+Questionnaire Only,RDI @ 5,116,Frequent Cough,0.003,0.0036883492,Increases odds
+Questionnaire Only,RDI @ 5,117,Speaking Difficulty,0.003,0.0049097086,Decreases odds
+Questionnaire Only,RDI @ 5,118,Sleep Short of Breath,0.003,0.003927312,Increases odds
+Questionnaire Only,RDI @ 5,119,Muscle Weakness,0.003,0.0025750627,Decreases odds
+Questionnaire Only,RDI @ 5,120,Sleep Choke,0.003,0.0074104234,Increases odds
+Questionnaire Only,RDI @ 5,121,Muscular Pain,0.003,0.0026800986,Increases odds
+Questionnaire Only,RDI @ 5,122,Ep. In Car,0.003,0.002727446,Increases odds
+Questionnaire Only,RDI @ 5,123,Sleep Special Surface,0.003,0.0035278026,Increases odds
+Questionnaire Only,RDI @ 5,124,Paralysis Attacks,0.003,0.0074637514,Decreases odds
+Questionnaire Only,RDI @ 5,125,Hernia,0.003,0.004570998,Increases odds
+Questionnaire Only,RDI @ 5,126,Nasal Discharge,0.003,0.0036405392,Increases odds
+Questionnaire Only,RDI @ 5,127,Heartburn,0.003,0.002220828,Increases odds
+Questionnaire Only,RDI @ 5,128,Sleep Parasthesia,0.002,0.0026272556,Increases odds
+Questionnaire Only,RDI @ 5,129,Stomach Disease,0.002,0.0032573624,Decreases odds
+Questionnaire Only,RDI @ 5,130,Medications Today,0.002,0.0017870887,Increases odds
+Questionnaire Only,RDI @ 5,131,Sleep Thirst,0.002,0.0021404533,Increases odds
+Questionnaire Only,RDI @ 5,132,Feeling Sick,0.002,0.0030078213,Increases odds
+Questionnaire Only,RDI @ 5,133,Physical Strenuous Day,0.002,0.0037490698,Increases odds
+Questionnaire Only,RDI @ 5,134,Enlarged Thyroid,0.002,0.0035058253,Decreases odds
+Questionnaire Only,RDI @ 5,135,Peptic Ulcer,0.002,0.0043005515,Decreases odds
+Questionnaire Only,RDI @ 5,136,Too Much Sleep,0.002,0.0033583723,Increases odds
+Questionnaire Only,RDI @ 5,137,Second Awaken Part,0.002,0.0013165567,Increases odds
+Questionnaire Only,RDI @ 5,138,Medication Past Month,0.001,0.002509283,Increases odds
+Questionnaire Only,RDI @ 5,139,Voice Changes,0.001,0.0015047585,Decreases odds
+Questionnaire Only,RDI @ 5,140,Work Sleep Fatigue,0.001,0.001315165,Increases odds
+Questionnaire Only,RDI @ 5,141,Stroke History,0.001,0.0019906147,Increases odds
+Questionnaire Only,RDI @ 5,142,Sleep Walk,0.001,0.0016046971,Increases odds
+Questionnaire Only,RDI @ 5,143,Sleep Related Misses,0.001,0.001918614,Increases odds
+Questionnaire Only,RDI @ 5,144,Alcohol Quit,0.001,0.0017666913,Increases odds
+Questionnaire Only,RDI @ 5,145,Too Little Sleep,0.001,0.0011346361,Increases odds
+Questionnaire Only,RDI @ 5,146,Sleep Heart Pain,0.001,0.0015803206,Decreases odds
+Questionnaire Only,RDI @ 5,147,Body Control Difficulty,0.001,0.0017698323,Increases odds
+Questionnaire Only,RDI @ 5,148,Smothering Spells at Night,0.001,0.0013424609,Increases odds
+Questionnaire Only,RDI @ 5,149,Kidney Disease,0.001,0.0014423153,Increases odds
+Questionnaire Only,RDI @ 5,150,Low Blood Sugar,0.001,0.0010579872,Decreases odds
+Questionnaire Only,RDI @ 5,151,Abnormal Glucose,0.0,0.0007259834,Decreases odds
+Questionnaire Only,RDI @ 5,152,Out of Ordinary Happen Today,0.0,0.0010063548,Increases odds
+Questionnaire Only,RDI @ 5,153,Liver Disease,0.0,0.000712711,Decreases odds
+Questionnaire Only,RDI @ 5,154,Intestinal Disease,0.0,0.00069868774,Decreases odds
+Questionnaire Only,RDI @ 5,155,Shift 3rd,0.0,0.000379379,Increases odds
+Questionnaire Only,RDI @ 5,156,Shift Swing,0.0,0.0003312976,Increases odds
+Questionnaire Only,RDI @ 5,157,HIV,0.0,0.0,Decreases odds
+Questionnaire Only,RDI @ 5,158,Sleep Related Accidents,0.0,0.0,Decreases odds
+Questionnaire Only,RDI @ 5,159,Sleep Accident Fatigue,0.0,0.0,Decreases odds
+Questionnaire Only,RDI @ 5,160,Sleep Accident Mistakes,0.0,0.0,Decreases odds
+Questionnaire Only,RDI @ 5,161,Tuberculosis,0.0,0.0,Decreases odds
+Questionnaire Only,RDI @ 15,1,High Blood Pressure,0.172,0.0827527,Decreases odds
+Questionnaire Only,RDI @ 15,2,Snoring,0.156,0.122502916,Decreases odds
+Questionnaire Only,RDI @ 15,3,Witnessed Apneas,0.118,0.11883362,Decreases odds
+Questionnaire Only,RDI @ 15,4,Have Difficulty Falling Asleep,0.102,0.023303373,Increases odds
+Questionnaire Only,RDI @ 15,5,Diabetes,0.084,0.06328028,Decreases odds
+Questionnaire Only,RDI @ 15,6,Headache,0.083,0.062490407,Decreases odds
+Questionnaire Only,RDI @ 15,7,Sleep Quality Last Night,0.074,0.034984633,Increases odds
+Questionnaire Only,RDI @ 15,8,Feel Tired Now,0.056,0.033196308,Decreases odds
+Questionnaire Only,RDI @ 15,9,Arthritis,0.056,0.026495231,Decreases odds
+Questionnaire Only,RDI @ 15,10,Nap,0.051,0.018567307,Decreases odds
+Questionnaire Only,RDI @ 15,11,Ep. Car Passenger,0.044,0.032828312,Decreases odds
+Questionnaire Only,RDI @ 15,12,Sleepiness Affect Performance,0.042,0.034283236,Decreases odds
+Questionnaire Only,RDI @ 15,13,Sleep Throat Burn,0.04,0.033519622,Increases odds
+Questionnaire Only,RDI @ 15,14,Before Bed Sleep Aid,0.04,0.02599137,Increases odds
+Questionnaire Only,RDI @ 15,15,Slept Longer,0.039,0.019710543,Decreases odds
+Questionnaire Only,RDI @ 15,16,Problem Not Feeling Rested,0.038,0.03171053,Decreases odds
+Questionnaire Only,RDI @ 15,17,Feeling Sleepy,0.036,0.027714012,Decreases odds
+Questionnaire Only,RDI @ 15,18,Feeling Alert,0.035,0.019361664,Increases odds
+Questionnaire Only,RDI @ 15,19,Feeling Tired,0.034,0.022933843,Decreases odds
+Questionnaire Only,RDI @ 15,20,Grind Teeth,0.033,0.025712041,Decreases odds
+Questionnaire Only,RDI @ 15,21,Weight Gain,0.033,0.02366603,Increases odds
+Questionnaire Only,RDI @ 15,22,Sleep Urinate,0.032,0.02364185,Decreases odds
+Questionnaire Only,RDI @ 15,23,Swollen Legs,0.032,0.033150665,Increases odds
+Questionnaire Only,RDI @ 15,24,Falling Asleep Thought,0.03,0.026646558,Increases odds
+Questionnaire Only,RDI @ 15,25,Wake During Night,0.03,0.030685166,Increases odds
+Questionnaire Only,RDI @ 15,26,Naps Today,0.028,0.02424831,Decreases odds
+Questionnaire Only,RDI @ 15,27,Other Heart Disease,0.026,0.028577875,Increases odds
+Questionnaire Only,RDI @ 15,28,Alcohol,0.026,0.012943834,Increases odds
+Questionnaire Only,RDI @ 15,29,Sleep Asthma,0.026,0.038939778,Decreases odds
+Questionnaire Only,RDI @ 15,30,Shift 1st,0.025,0.016183987,Decreases odds
+Questionnaire Only,RDI @ 15,31,Sleep Talk,0.025,0.018806659,Decreases odds
+Questionnaire Only,RDI @ 15,32,Falling Asleep Worry,0.024,0.024002884,Decreases odds
+Questionnaire Only,RDI @ 15,33,Time in Bed (Weekday),0.024,0.013474006,Increases odds
+Questionnaire Only,RDI @ 15,34,Someone in Room,0.023,0.018704737,Increases odds
+Questionnaire Only,RDI @ 15,35,Difficulty Going Back to Sleep,0.023,0.009312191,Decreases odds
+Questionnaire Only,RDI @ 15,36,Sleep Get Going,0.022,0.015577448,Decreases odds
+Questionnaire Only,RDI @ 15,37,Depression,0.022,0.012288948,Decreases odds
+Questionnaire Only,RDI @ 15,38,Ep. Talking,0.021,0.018724287,Decreases odds
+Questionnaire Only,RDI @ 15,39,Falling Asleep Muscular Tension,0.021,0.025372215,Decreases odds
+Questionnaire Only,RDI @ 15,40,Someone in Bed,0.02,0.013046174,Increases odds
+Questionnaire Only,RDI @ 15,41,Ep. Watching TV,0.02,0.012720624,Increases odds
+Questionnaire Only,RDI @ 15,42,Physical Complaints Today,0.02,0.01765331,Decreases odds
+Questionnaire Only,RDI @ 15,43,Ep. Sitting Quietly,0.02,0.011919016,Decreases odds
+Questionnaire Only,RDI @ 15,44,Watch TV Before Bed,0.02,0.008283402,Decreases odds
+Questionnaire Only,RDI @ 15,45,Feeling Refreshing,0.02,0.016922187,Decreases odds
+Questionnaire Only,RDI @ 15,46,First Awaken Part,0.019,0.019468164,Increases odds
+Questionnaire Only,RDI @ 15,47,Awake Feeling,0.019,0.0094598355,Decreases odds
+Questionnaire Only,RDI @ 15,48,Time in Bed (Weekend),0.018,0.015040752,Increases odds
+Questionnaire Only,RDI @ 15,49,Caffeinated Beverage Today,0.018,0.008795232,Increases odds
+Questionnaire Only,RDI @ 15,50,Feel Sleepy Today,0.018,0.007438702,Decreases odds
+Questionnaire Only,RDI @ 15,51,Ep. Sitting Quietly After Lunch,0.017,0.009583777,Increases odds
+Questionnaire Only,RDI @ 15,52,Heart Attack,0.017,0.025753517,Increases odds
+Questionnaire Only,RDI @ 15,53,Memory Loss,0.017,0.014715579,Decreases odds
+Questionnaire Only,RDI @ 15,54,Sleep Sweat,0.017,0.012337645,Decreases odds
+Questionnaire Only,RDI @ 15,55,Weight Loss,0.017,0.023690265,Decreases odds
+Questionnaire Only,RDI @ 15,56,Problem with Tiredness,0.017,0.013775249,Decreases odds
+Questionnaire Only,RDI @ 15,57,Sleep Provide Assistance,0.017,0.016036142,Decreases odds
+Questionnaire Only,RDI @ 15,58,Voice Changes,0.016,0.017443722,Decreases odds
+Questionnaire Only,RDI @ 15,59,Sleep Nasal Congestion,0.016,0.012971773,Increases odds
+Questionnaire Only,RDI @ 15,60,Anemia,0.015,0.027698832,Decreases odds
+Questionnaire Only,RDI @ 15,61,Sleep Leg Cramps,0.015,0.014496371,Decreases odds
+Questionnaire Only,RDI @ 15,62,Ep. Score,0.015,0.017895857,Increases odds
+Questionnaire Only,RDI @ 15,63,Allergy,0.015,0.007972301,Decreases odds
+Questionnaire Only,RDI @ 15,64,Problem Waking Up During Night,0.015,0.015080224,Decreases odds
+Questionnaire Only,RDI @ 15,65,Joint Pain,0.014,0.0058597177,Increases odds
+Questionnaire Only,RDI @ 15,66,Chest Pain,0.014,0.020803688,Decreases odds
+Questionnaire Only,RDI @ 15,67,Leg Pain While Falling Asleep,0.014,0.011138004,Decreases odds
+Questionnaire Only,RDI @ 15,68,Dreaming Last Night,0.013,0.009597631,Decreases odds
+Questionnaire Only,RDI @ 15,69,Falling Asleep Jerk,0.013,0.013770866,Increases odds
+Questionnaire Only,RDI @ 15,70,Leg Jerk,0.012,0.008697489,Decreases odds
+Questionnaire Only,RDI @ 15,71,Sleep Choke,0.012,0.011862139,Increases odds
+Questionnaire Only,RDI @ 15,72,Sleep Indigestion,0.012,0.009184754,Decreases odds
+Questionnaire Only,RDI @ 15,73,Falling Asleep Depressed,0.012,0.012976576,Increases odds
+Questionnaire Only,RDI @ 15,74,Sleep Restless,0.012,0.010820359,Decreases odds
+Questionnaire Only,RDI @ 15,75,Cancer,0.012,0.015339378,Increases odds
+Questionnaire Only,RDI @ 15,76,Sleep Other Movements,0.012,0.009873569,Decreases odds
+Questionnaire Only,RDI @ 15,77,Gasping Episodes,0.011,0.011886396,Decreases odds
+Questionnaire Only,RDI @ 15,78,Sleep Stomach Pain,0.011,0.010513521,Decreases odds
+Questionnaire Only,RDI @ 15,79,Nasal Medication,0.011,0.009509396,Decreases odds
+Questionnaire Only,RDI @ 15,80,Problem Going to Sleep at Night,0.011,0.008083193,Increases odds
+Questionnaire Only,RDI @ 15,81,Irregular Heart Beat,0.011,0.011367138,Decreases odds
+Questionnaire Only,RDI @ 15,82,Sleep Chest Pain,0.01,0.016979476,Decreases odds
+Questionnaire Only,RDI @ 15,83,Too Little Sleep,0.01,0.004105753,Decreases odds
+Questionnaire Only,RDI @ 15,84,More Than One Pillow,0.01,0.0066324673,Decreases odds
+Questionnaire Only,RDI @ 15,85,Feel Alert Now,0.01,0.011324951,Increases odds
+Questionnaire Only,RDI @ 15,86,Problem with Sleepiness,0.01,0.010770052,Decreases odds
+Questionnaire Only,RDI @ 15,87,Sleep Itch,0.01,0.008075174,Decreases odds
+Questionnaire Only,RDI @ 15,88,Sleep Disturb Partner,0.009,0.0058849957,Increases odds
+Questionnaire Only,RDI @ 15,89,Ep. Lying Down,0.009,0.006812599,Decreases odds
+Questionnaire Only,RDI @ 15,90,Enlarged Heart,0.009,0.024880351,Increases odds
+Questionnaire Only,RDI @ 15,91,Feel Sleepy Now,0.009,0.009176269,Increases odds
+Questionnaire Only,RDI @ 15,92,Sleep Thirst,0.008,0.007972696,Increases odds
+Questionnaire Only,RDI @ 15,93,Falling Asleep Afraid,0.008,0.0072947037,Increases odds
+Questionnaire Only,RDI @ 15,94,Swallowing Difficulty,0.007,0.008416887,Decreases odds
+Questionnaire Only,RDI @ 15,95,Sleep Alert,0.007,0.004790177,Increases odds
+Questionnaire Only,RDI @ 15,96,Breathing Difficulty,0.007,0.0048151286,Increases odds
+Questionnaire Only,RDI @ 15,97,Ep. In Car,0.007,0.0061609563,Decreases odds
+Questionnaire Only,RDI @ 15,98,Falling Asleep Dream,0.007,0.009466025,Increases odds
+Questionnaire Only,RDI @ 15,99,Dentures,0.007,0.0074426406,Decreases odds
+Questionnaire Only,RDI @ 15,100,Seizures,0.007,0.014429639,Decreases odds
+Questionnaire Only,RDI @ 15,101,Low Blood Pressure,0.007,0.01577459,Decreases odds
+Questionnaire Only,RDI @ 15,102,Ep. Reading,0.006,0.005097668,Increases odds
+Questionnaire Only,RDI @ 15,103,Muscular Pain,0.006,0.0055060065,Decreases odds
+Questionnaire Only,RDI @ 15,104,Stroke History,0.006,0.010557369,Increases odds
+Questionnaire Only,RDI @ 15,105,Body Control Difficulty,0.006,0.00815906,Increases odds
+Questionnaire Only,RDI @ 15,106,Second Awaken Part,0.006,0.0030331216,Decreases odds
+Questionnaire Only,RDI @ 15,107,Kidney Disease,0.006,0.011202699,Increases odds
+Questionnaire Only,RDI @ 15,108,mh_tobacco_history,0.006,0.0040230183,Decreases odds
+Questionnaire Only,RDI @ 15,109,Sleep Hunger,0.005,0.0057443846,Decreases odds
+Questionnaire Only,RDI @ 15,110,Alcohol Beverage Today,0.005,0.012651444,Decreases odds
+Questionnaire Only,RDI @ 15,111,Sleep Short of Breath,0.005,0.0057042683,Increases odds
+Questionnaire Only,RDI @ 15,112,Work Sleep Fatigue,0.005,0.009668371,Decreases odds
+Questionnaire Only,RDI @ 15,113,Frequent Cough,0.005,0.007081553,Increases odds
+Questionnaire Only,RDI @ 15,114,Sleep Breath Problem,0.005,0.007060563,Increases odds
+Questionnaire Only,RDI @ 15,115,Falling Asleep Paralyzed,0.005,0.010137007,Decreases odds
+Questionnaire Only,RDI @ 15,116,Shortness of Breath,0.004,0.003924689,Increases odds
+Questionnaire Only,RDI @ 15,117,Sleep Parasthesia,0.004,0.005172972,Decreases odds
+Questionnaire Only,RDI @ 15,118,Sleep Difficulty,0.004,0.0028552774,Increases odds
+Questionnaire Only,RDI @ 15,119,Sleep Cough,0.004,0.009123978,Decreases odds
+Questionnaire Only,RDI @ 15,120,Personality Changes,0.004,0.00484776,Decreases odds
+Questionnaire Only,RDI @ 15,121,Sleep Special Surface,0.004,0.0045052296,Increases odds
+Questionnaire Only,RDI @ 15,122,Thyroid Disease,0.004,0.0050293077,Decreases odds
+Questionnaire Only,RDI @ 15,123,Muscle Weakness,0.004,0.0045127207,Increases odds
+Questionnaire Only,RDI @ 15,124,Tobacco Habit,0.004,0.003376584,Increases odds
+Questionnaire Only,RDI @ 15,125,Enlarged Thyroid,0.003,0.008870431,Decreases odds
+Questionnaire Only,RDI @ 15,126,Falling Asleep Discomfort,0.003,0.0040086815,Increases odds
+Questionnaire Only,RDI @ 15,127,Medication Past Month,0.003,0.0048157037,Decreases odds
+Questionnaire Only,RDI @ 15,128,Sleep Eat,0.003,0.0040190443,Decreases odds
+Questionnaire Only,RDI @ 15,129,Caffeinated Beverage,0.003,0.0047148345,Decreases odds
+Questionnaire Only,RDI @ 15,130,Heartburn,0.003,0.0027150782,Increases odds
+Questionnaire Only,RDI @ 15,131,Stomach Disease,0.003,0.0043302784,Decreases odds
+Questionnaire Only,RDI @ 15,132,Feeling Sick,0.003,0.004570656,Decreases odds
+Questionnaire Only,RDI @ 15,133,Third Awaken Part,0.003,0.0028965154,Decreases odds
+Questionnaire Only,RDI @ 15,134,Sleep Walk,0.003,0.004662934,Decreases odds
+Questionnaire Only,RDI @ 15,135,Sleep Related Misses,0.003,0.0051470497,Decreases odds
+Questionnaire Only,RDI @ 15,136,Medications Today,0.002,0.0019330271,Decreases odds
+Questionnaire Only,RDI @ 15,137,Paralysis Attacks,0.002,0.0061531863,Decreases odds
+Questionnaire Only,RDI @ 15,138,Sleep Heart Pain,0.002,0.0030728688,Increases odds
+Questionnaire Only,RDI @ 15,139,Body Shaking,0.002,0.0026980527,Decreases odds
+Questionnaire Only,RDI @ 15,140,Alcohol Quit,0.002,0.0026663002,Increases odds
+Questionnaire Only,RDI @ 15,141,Physical Strenuous Day,0.002,0.0031127536,Increases odds
+Questionnaire Only,RDI @ 15,142,Shift 2nd,0.001,0.0033596088,Decreases odds
+Questionnaire Only,RDI @ 15,143,Hernia,0.001,0.0025123418,Increases odds
+Questionnaire Only,RDI @ 15,144,Painful Sinus,0.001,0.0013792776,Decreases odds
+Questionnaire Only,RDI @ 15,145,Smothering Spells at Night,0.001,0.0014859634,Decreases odds
+Questionnaire Only,RDI @ 15,146,Intestinal Disease,0.001,0.002226182,Decreases odds
+Questionnaire Only,RDI @ 15,147,Nasal Discharge,0.001,0.0017195673,Increases odds
+Questionnaire Only,RDI @ 15,148,Liver Disease,0.001,0.0026329004,Decreases odds
+Questionnaire Only,RDI @ 15,149,Too Much Sleep,0.001,0.0027013435,Increases odds
+Questionnaire Only,RDI @ 15,150,Low Blood Sugar,0.001,0.0017276608,Decreases odds
+Questionnaire Only,RDI @ 15,151,Abnormal Glucose,0.001,0.0012697475,Increases odds
+Questionnaire Only,RDI @ 15,152,Out of Ordinary Happen Today,0.0,0.0012268747,Decreases odds
+Questionnaire Only,RDI @ 15,153,Sleep Accident Mistakes,0.0,0.00042469814,Increases odds
+Questionnaire Only,RDI @ 15,154,Speaking Difficulty,0.0,0.00056422886,Decreases odds
+Questionnaire Only,RDI @ 15,155,Sleep Related Accidents,0.0,0.0004815292,Increases odds
+Questionnaire Only,RDI @ 15,156,Peptic Ulcer,0.0,0.00076430483,Decreases odds
+Questionnaire Only,RDI @ 15,157,Tuberculosis,0.0,0.0007716486,Decreases odds
+Questionnaire Only,RDI @ 15,158,Sleep Accident Fatigue,0.0,0.00041291246,Increases odds
+Questionnaire Only,RDI @ 15,159,Shift 3rd,0.0,0.0007388312,Increases odds
+Questionnaire Only,RDI @ 15,160,Shift Swing,0.0,0.00047697208,Increases odds
+Questionnaire Only,RDI @ 15,161,HIV,0.0,0.0,Decreases odds
+Questionnaire Only,RDI @ 30,1,High Blood Pressure,0.218,0.09094077,Decreases odds
+Questionnaire Only,RDI @ 30,2,Have Difficulty Falling Asleep,0.16,0.02425516,Decreases odds
+Questionnaire Only,RDI @ 30,3,Snoring,0.159,0.109146,Decreases odds
+Questionnaire Only,RDI @ 30,4,Witnessed Apneas,0.155,0.13473935,Decreases odds
+Questionnaire Only,RDI @ 30,5,Headache,0.118,0.077098615,Decreases odds
+Questionnaire Only,RDI @ 30,6,Sleep Quality Last Night,0.096,0.036063407,Decreases odds
+Questionnaire Only,RDI @ 30,7,Feel Tired Now,0.083,0.04635812,Decreases odds
+Questionnaire Only,RDI @ 30,8,Shift 1st,0.082,0.042907204,Decreases odds
+Questionnaire Only,RDI @ 30,9,Diabetes,0.076,0.05596549,Decreases odds
+Questionnaire Only,RDI @ 30,10,Nap,0.064,0.021898018,Decreases odds
+Questionnaire Only,RDI @ 30,11,Feeling Refreshing,0.064,0.0542619,Decreases odds
+Questionnaire Only,RDI @ 30,12,Sleepiness Affect Performance,0.06,0.04086095,Decreases odds
+Questionnaire Only,RDI @ 30,13,Sleep Throat Burn,0.056,0.047572024,Decreases odds
+Questionnaire Only,RDI @ 30,14,Slept Longer,0.055,0.02292512,Decreases odds
+Questionnaire Only,RDI @ 30,15,Swollen Legs,0.051,0.04575983,Decreases odds
+Questionnaire Only,RDI @ 30,16,Difficulty Going Back to Sleep,0.049,0.018380543,Decreases odds
+Questionnaire Only,RDI @ 30,17,Weight Gain,0.046,0.028074993,Increases odds
+Questionnaire Only,RDI @ 30,18,Feeling Sleepy,0.045,0.03703563,Decreases odds
+Questionnaire Only,RDI @ 30,19,Feeling Tired,0.045,0.04050862,Decreases odds
+Questionnaire Only,RDI @ 30,20,Before Bed Sleep Aid,0.043,0.030989064,Decreases odds
+Questionnaire Only,RDI @ 30,21,Problem Not Feeling Rested,0.043,0.033148907,Decreases odds
+Questionnaire Only,RDI @ 30,22,Ep. Car Passenger,0.042,0.031681478,Decreases odds
+Questionnaire Only,RDI @ 30,23,Sleep Urinate,0.041,0.03360107,Decreases odds
+Questionnaire Only,RDI @ 30,24,Ep. Watching TV,0.041,0.016581083,Decreases odds
+Questionnaire Only,RDI @ 30,25,Wake During Night,0.04,0.041564267,Decreases odds
+Questionnaire Only,RDI @ 30,26,Naps Today,0.039,0.030836018,Decreases odds
+Questionnaire Only,RDI @ 30,27,Falling Asleep Thought,0.039,0.03540557,Decreases odds
+Questionnaire Only,RDI @ 30,28,Ep. Talking,0.036,0.024885701,Decreases odds
+Questionnaire Only,RDI @ 30,29,Grind Teeth,0.035,0.037129465,Decreases odds
+Questionnaire Only,RDI @ 30,30,Sleep Asthma,0.035,0.0516243,Decreases odds
+Questionnaire Only,RDI @ 30,31,Time in Bed (Weekday),0.033,0.032618336,Decreases odds
+Questionnaire Only,RDI @ 30,32,Feeling Alert,0.03,0.015695017,Decreases odds
+Questionnaire Only,RDI @ 30,33,Ep. Sitting Quietly,0.029,0.01368666,Decreases odds
+Questionnaire Only,RDI @ 30,34,Someone in Room,0.029,0.021763446,Decreases odds
+Questionnaire Only,RDI @ 30,35,Sleep Parasthesia,0.027,0.024849942,Decreases odds
+Questionnaire Only,RDI @ 30,36,First Awaken Part,0.027,0.026760684,Increases odds
+Questionnaire Only,RDI @ 30,37,Dreaming Last Night,0.026,0.01669905,Decreases odds
+Questionnaire Only,RDI @ 30,38,Someone in Bed,0.026,0.01771876,Decreases odds
+Questionnaire Only,RDI @ 30,39,Time in Bed (Weekend),0.026,0.015648251,Increases odds
+Questionnaire Only,RDI @ 30,40,Physical Complaints Today,0.025,0.022758458,Decreases odds
+Questionnaire Only,RDI @ 30,41,Other Heart Disease,0.025,0.026565317,Increases odds
+Questionnaire Only,RDI @ 30,42,Falling Asleep Worry,0.025,0.030897187,Decreases odds
+Questionnaire Only,RDI @ 30,43,Watch TV Before Bed,0.024,0.008925268,Decreases odds
+Questionnaire Only,RDI @ 30,44,Ep. Sitting Quietly After Lunch,0.023,0.011992187,Decreases odds
+Questionnaire Only,RDI @ 30,45,Awake Feeling,0.023,0.010782427,Decreases odds
+Questionnaire Only,RDI @ 30,46,Weight Loss,0.023,0.035378803,Decreases odds
+Questionnaire Only,RDI @ 30,47,Arthritis,0.023,0.010926137,Decreases odds
+Questionnaire Only,RDI @ 30,48,Feel Sleepy Now,0.022,0.022987526,Increases odds
+Questionnaire Only,RDI @ 30,49,Memory Loss,0.022,0.022578256,Decreases odds
+Questionnaire Only,RDI @ 30,50,Sleep Get Going,0.022,0.023348527,Decreases odds
+Questionnaire Only,RDI @ 30,51,Sleep Sweat,0.021,0.020279257,Decreases odds
+Questionnaire Only,RDI @ 30,52,Sleep Leg Cramps,0.021,0.018698454,Decreases odds
+Questionnaire Only,RDI @ 30,53,Sleep Restless,0.021,0.017344266,Decreases odds
+Questionnaire Only,RDI @ 30,54,Medications Today,0.021,0.006794784,Decreases odds
+Questionnaire Only,RDI @ 30,55,Falling Asleep Muscular Tension,0.021,0.026204083,Decreases odds
+Questionnaire Only,RDI @ 30,56,Falling Asleep Depressed,0.02,0.019844903,Increases odds
+Questionnaire Only,RDI @ 30,57,Breathing Difficulty,0.02,0.015272143,Increases odds
+Questionnaire Only,RDI @ 30,58,Leg Pain While Falling Asleep,0.018,0.009172673,Decreases odds
+Questionnaire Only,RDI @ 30,59,Ep. Score,0.018,0.020922465,Decreases odds
+Questionnaire Only,RDI @ 30,60,Sleep Stomach Pain,0.018,0.019040735,Decreases odds
+Questionnaire Only,RDI @ 30,61,Irregular Heart Beat,0.018,0.019252805,Decreases odds
+Questionnaire Only,RDI @ 30,62,Cancer,0.018,0.0207062,Increases odds
+Questionnaire Only,RDI @ 30,63,Voice Changes,0.018,0.017743595,Decreases odds
+Questionnaire Only,RDI @ 30,64,Allergy,0.017,0.010873964,Decreases odds
+Questionnaire Only,RDI @ 30,65,Shortness of Breath,0.017,0.008336297,Decreases odds
+Questionnaire Only,RDI @ 30,66,Feel Sleepy Today,0.017,0.0068941168,Decreases odds
+Questionnaire Only,RDI @ 30,67,Sleep Nasal Congestion,0.016,0.019061385,Increases odds
+Questionnaire Only,RDI @ 30,68,Problem Going to Sleep at Night,0.016,0.011058535,Decreases odds
+Questionnaire Only,RDI @ 30,69,Alcohol,0.016,0.008761426,Decreases odds
+Questionnaire Only,RDI @ 30,70,Problem with Tiredness,0.016,0.014360977,Decreases odds
+Questionnaire Only,RDI @ 30,71,More Than One Pillow,0.015,0.008004576,Decreases odds
+Questionnaire Only,RDI @ 30,72,Sleep Provide Assistance,0.015,0.010531998,Decreases odds
+Questionnaire Only,RDI @ 30,73,Falling Asleep Jerk,0.015,0.015359639,Increases odds
+Questionnaire Only,RDI @ 30,74,Sleep Eat,0.015,0.012599893,Increases odds
+Questionnaire Only,RDI @ 30,75,Heart Attack,0.015,0.025419433,Increases odds
+Questionnaire Only,RDI @ 30,76,Sleep Thirst,0.015,0.01513883,Decreases odds
+Questionnaire Only,RDI @ 30,77,Falling Asleep Afraid,0.015,0.022248095,Decreases odds
+Questionnaire Only,RDI @ 30,78,Falling Asleep Discomfort,0.015,0.016815651,Increases odds
+Questionnaire Only,RDI @ 30,79,Leg Jerk,0.014,0.008763604,Decreases odds
+Questionnaire Only,RDI @ 30,80,Anemia,0.013,0.02765117,Decreases odds
+Questionnaire Only,RDI @ 30,81,Ep. Reading,0.013,0.011672151,Decreases odds
+Questionnaire Only,RDI @ 30,82,Feel Alert Now,0.013,0.009063805,Decreases odds
+Questionnaire Only,RDI @ 30,83,Enlarged Heart,0.012,0.028607499,Increases odds
+Questionnaire Only,RDI @ 30,84,Sleep Other Movements,0.012,0.01827129,Decreases odds
+Questionnaire Only,RDI @ 30,85,Gasping Episodes,0.012,0.012997846,Decreases odds
+Questionnaire Only,RDI @ 30,86,Sleep Alert,0.012,0.009893172,Increases odds
+Questionnaire Only,RDI @ 30,87,Seizures,0.012,0.030626962,Decreases odds
+Questionnaire Only,RDI @ 30,88,Dentures,0.012,0.012091145,Decreases odds
+Questionnaire Only,RDI @ 30,89,Nasal Discharge,0.011,0.017156657,Decreases odds
+Questionnaire Only,RDI @ 30,90,Caffeinated Beverage Today,0.011,0.0067955903,Decreases odds
+Questionnaire Only,RDI @ 30,91,Nasal Medication,0.011,0.0055688675,Decreases odds
+Questionnaire Only,RDI @ 30,92,Ep. Lying Down,0.011,0.00955337,Decreases odds
+Questionnaire Only,RDI @ 30,93,Second Awaken Part,0.01,0.0038756935,Decreases odds
+Questionnaire Only,RDI @ 30,94,Personality Changes,0.01,0.01669187,Decreases odds
+Questionnaire Only,RDI @ 30,95,Joint Pain,0.01,0.0053391834,Decreases odds
+Questionnaire Only,RDI @ 30,96,Feeling Sick,0.01,0.012819324,Decreases odds
+Questionnaire Only,RDI @ 30,97,Tobacco Habit,0.01,0.0062787016,Decreases odds
+Questionnaire Only,RDI @ 30,98,Sleep Choke,0.01,0.010751182,Decreases odds
+Questionnaire Only,RDI @ 30,99,Heartburn,0.01,0.008368741,Decreases odds
+Questionnaire Only,RDI @ 30,100,Sleep Itch,0.009,0.012671446,Increases odds
+Questionnaire Only,RDI @ 30,101,Sleep Short of Breath,0.009,0.005270887,Decreases odds
+Questionnaire Only,RDI @ 30,102,Out of Ordinary Happen Today,0.008,0.016924081,Decreases odds
+Questionnaire Only,RDI @ 30,103,Sleep Disturb Partner,0.008,0.0076249917,Increases odds
+Questionnaire Only,RDI @ 30,104,mh_tobacco_history,0.008,0.0058950745,Decreases odds
+Questionnaire Only,RDI @ 30,105,Thyroid Disease,0.008,0.013793862,Decreases odds
+Questionnaire Only,RDI @ 30,106,Work Sleep Fatigue,0.008,0.019973863,Decreases odds
+Questionnaire Only,RDI @ 30,107,Falling Asleep Paralyzed,0.008,0.01160334,Decreases odds
+Questionnaire Only,RDI @ 30,108,Sleep Talk,0.007,0.0072283084,Decreases odds
+Questionnaire Only,RDI @ 30,109,Kidney Disease,0.007,0.017679298,Decreases odds
+Questionnaire Only,RDI @ 30,110,Hernia,0.007,0.009373704,Decreases odds
+Questionnaire Only,RDI @ 30,111,Stomach Disease,0.007,0.014375728,Decreases odds
+Questionnaire Only,RDI @ 30,112,Problem with Sleepiness,0.007,0.007732869,Decreases odds
+Questionnaire Only,RDI @ 30,113,Sleep Indigestion,0.006,0.005032992,Decreases odds
+Questionnaire Only,RDI @ 30,114,Sleep Heart Pain,0.006,0.009718778,Decreases odds
+Questionnaire Only,RDI @ 30,115,Ep. In Car,0.006,0.0051441723,Decreases odds
+Questionnaire Only,RDI @ 30,116,Sleep Chest Pain,0.006,0.0086682,Decreases odds
+Questionnaire Only,RDI @ 30,117,Sleep Breath Problem,0.005,0.004776007,Decreases odds
+Questionnaire Only,RDI @ 30,118,Problem Waking Up During Night,0.005,0.0053904033,Decreases odds
+Questionnaire Only,RDI @ 30,119,Depression,0.005,0.0040925234,Decreases odds
+Questionnaire Only,RDI @ 30,120,Too Little Sleep,0.005,0.002257273,Decreases odds
+Questionnaire Only,RDI @ 30,121,Painful Sinus,0.005,0.0053029372,Decreases odds
+Questionnaire Only,RDI @ 30,122,Body Control Difficulty,0.005,0.008633278,Increases odds
+Questionnaire Only,RDI @ 30,123,Sleep Hunger,0.005,0.0045145396,Decreases odds
+Questionnaire Only,RDI @ 30,124,Body Shaking,0.004,0.005773273,Decreases odds
+Questionnaire Only,RDI @ 30,125,Liver Disease,0.004,0.011982182,Decreases odds
+Questionnaire Only,RDI @ 30,126,Chest Pain,0.004,0.007647241,Decreases odds
+Questionnaire Only,RDI @ 30,127,Alcohol Beverage Today,0.004,0.009970178,Decreases odds
+Questionnaire Only,RDI @ 30,128,Enlarged Thyroid,0.004,0.014587086,Decreases odds
+Questionnaire Only,RDI @ 30,129,Physical Strenuous Day,0.004,0.008147324,Decreases odds
+Questionnaire Only,RDI @ 30,130,Falling Asleep Dream,0.004,0.008095635,Increases odds
+Questionnaire Only,RDI @ 30,131,Alcohol Quit,0.004,0.004708383,Decreases odds
+Questionnaire Only,RDI @ 30,132,Low Blood Pressure,0.004,0.010533396,Decreases odds
+Questionnaire Only,RDI @ 30,133,Sleep Special Surface,0.004,0.003943459,Decreases odds
+Questionnaire Only,RDI @ 30,134,Sleep Cough,0.004,0.007401372,Decreases odds
+Questionnaire Only,RDI @ 30,135,Muscle Weakness,0.004,0.0044221063,Increases odds
+Questionnaire Only,RDI @ 30,136,Speaking Difficulty,0.004,0.008399228,Decreases odds
+Questionnaire Only,RDI @ 30,137,Muscular Pain,0.003,0.0036808092,Decreases odds
+Questionnaire Only,RDI @ 30,138,Sleep Walk,0.003,0.0045747757,Increases odds
+Questionnaire Only,RDI @ 30,139,Frequent Cough,0.003,0.0033289366,Decreases odds
+Questionnaire Only,RDI @ 30,140,Sleep Difficulty,0.003,0.0019549513,Decreases odds
+Questionnaire Only,RDI @ 30,141,Paralysis Attacks,0.003,0.008978847,Decreases odds
+Questionnaire Only,RDI @ 30,142,Swallowing Difficulty,0.003,0.004004047,Increases odds
+Questionnaire Only,RDI @ 30,143,Caffeinated Beverage,0.002,0.0024734957,Increases odds
+Questionnaire Only,RDI @ 30,144,Abnormal Glucose,0.002,0.003220396,Decreases odds
+Questionnaire Only,RDI @ 30,145,Intestinal Disease,0.002,0.0050822967,Decreases odds
+Questionnaire Only,RDI @ 30,146,Third Awaken Part,0.002,0.0018693293,Decreases odds
+Questionnaire Only,RDI @ 30,147,Peptic Ulcer,0.001,0.002873453,Decreases odds
+Questionnaire Only,RDI @ 30,148,Smothering Spells at Night,0.001,0.0014085297,Decreases odds
+Questionnaire Only,RDI @ 30,149,Low Blood Sugar,0.001,0.0017733439,Decreases odds
+Questionnaire Only,RDI @ 30,150,Sleep Related Misses,0.001,0.0017301408,Decreases odds
+Questionnaire Only,RDI @ 30,151,Medication Past Month,0.001,0.001375816,Decreases odds
+Questionnaire Only,RDI @ 30,152,Stroke History,0.001,0.0014463055,Decreases odds
+Questionnaire Only,RDI @ 30,153,Shift 2nd,0.001,0.0018918738,Decreases odds
+Questionnaire Only,RDI @ 30,154,Too Much Sleep,0.0,0.0014694937,Decreases odds
+Questionnaire Only,RDI @ 30,155,Shift 3rd,0.0,0.0010860374,Decreases odds
+Questionnaire Only,RDI @ 30,156,Sleep Accident Mistakes,0.0,0.00036828037,Decreases odds
+Questionnaire Only,RDI @ 30,157,HIV,0.0,0.0010324372,Decreases odds
+Questionnaire Only,RDI @ 30,158,Shift Swing,0.0,0.0,Decreases odds
+Questionnaire Only,RDI @ 30,159,Sleep Related Accidents,0.0,0.0,Decreases odds
+Questionnaire Only,RDI @ 30,160,Sleep Accident Fatigue,0.0,0.0,Decreases odds
+Questionnaire Only,RDI @ 30,161,Tuberculosis,0.0,0.0,Decreases odds
+Demographics Only,AHI @ 5,1,Age,0.567,0.3826679,Increases odds
+Demographics Only,AHI @ 5,2,BMI,0.554,0.3889725,Increases odds
+Demographics Only,AHI @ 5,3,Gender,0.415,0.09362393,Increases odds
+Demographics Only,AHI @ 5,4,Race,0.018,0.037434384,Increases odds
+Demographics Only,AHI @ 15,1,BMI,0.508,0.3566167,Decreases odds
+Demographics Only,AHI @ 15,2,Age,0.489,0.36363956,Decreases odds
+Demographics Only,AHI @ 15,3,Gender,0.464,0.060725387,Decreases odds
+Demographics Only,AHI @ 15,4,Race,0.028,0.030006947,Decreases odds
+Demographics Only,AHI @ 30,1,BMI,0.604,0.42142746,Decreases odds
+Demographics Only,AHI @ 30,2,Gender,0.542,0.09009742,Decreases odds
+Demographics Only,AHI @ 30,3,Age,0.515,0.38296974,Decreases odds
+Demographics Only,AHI @ 30,4,Race,0.051,0.044594094,Decreases odds
+Demographics Only,RDI @ 5,1,Age,0.555,0.35180652,Increases odds
+Demographics Only,RDI @ 5,2,BMI,0.499,0.35681504,Increases odds
+Demographics Only,RDI @ 5,3,Gender,0.433,0.09769503,Increases odds
+Demographics Only,RDI @ 5,4,Race,0.019,0.030559089,Increases odds
+Demographics Only,RDI @ 15,1,Age,0.512,0.37906376,Decreases odds
+Demographics Only,RDI @ 15,2,BMI,0.487,0.35597292,Decreases odds
+Demographics Only,RDI @ 15,3,Gender,0.46,0.075477704,Decreases odds
+Demographics Only,RDI @ 15,4,Race,0.029,0.031473402,Decreases odds
+Demographics Only,RDI @ 30,1,BMI,0.555,0.38810685,Decreases odds
+Demographics Only,RDI @ 30,2,Gender,0.511,0.06376848,Decreases odds
+Demographics Only,RDI @ 30,3,Age,0.51,0.36750057,Decreases odds
+Demographics Only,RDI @ 30,4,Race,0.052,0.036451116,Increases odds

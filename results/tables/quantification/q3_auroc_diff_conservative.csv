@@ -1,0 +1,13 @@
+comparison,target,delta,ci_low_conservative,ci_high_conservative
+All Features minus Demographics Only,AHI @ 5,0.02,0.004,0.036
+All Features minus Demographics Only,AHI @ 15,0.033,0.014,0.052
+All Features minus Demographics Only,AHI @ 30,0.032,0.006,0.058
+All Features minus Demographics Only,RDI @ 5,0.018,0.001,0.035
+All Features minus Demographics Only,RDI @ 15,0.027,0.01,0.044
+All Features minus Demographics Only,RDI @ 30,0.032,0.01,0.054
+All Features minus Questionnaire Only,AHI @ 5,0.067,0.051,0.083
+All Features minus Questionnaire Only,AHI @ 15,0.064,0.045,0.083
+All Features minus Questionnaire Only,AHI @ 30,0.076,0.05,0.102
+All Features minus Questionnaire Only,RDI @ 5,0.058,0.041,0.075
+All Features minus Questionnaire Only,RDI @ 15,0.063,0.046,0.08
+All Features minus Questionnaire Only,RDI @ 30,0.073,0.05,0.096

@@ -1,0 +1,19 @@
+feature_set,target,n_features,total_mean_abs_shap,top3,top3_sum,top3_share_pct,top1_share_pct,age_bmi_gender_share_pct
+All Features,AHI @ 15,169,3.166,Age / BMI / Gender,1.281,40.5,14.4,40.5
+All Features,AHI @ 30,169,3.841,BMI / Age / Gender,1.5,39.1,14.1,39.1
+All Features,AHI @ 5,169,2.689,Age / BMI / Gender,1.375,51.1,19.6,51.1
+All Features,RDI @ 15,169,3.005,Age / BMI / Gender,1.27,42.3,15.7,42.3
+All Features,RDI @ 30,169,4.023,BMI / Age / Gender,1.369,34.0,12.1,34.0
+All Features,RDI @ 5,169,2.789,Age / BMI / Gender,1.256,45.0,17.0,45.0
+Demographics Only,AHI @ 15,4,1.489,BMI / Age / Gender,1.461,98.1,34.1,98.1
+Demographics Only,AHI @ 30,4,1.712,BMI / Gender / Age,1.661,97.0,35.3,97.0
+Demographics Only,AHI @ 5,4,1.554,Age / BMI / Gender,1.536,98.8,36.5,98.8
+Demographics Only,RDI @ 15,4,1.488,Age / BMI / Gender,1.459,98.1,34.4,98.1
+Demographics Only,RDI @ 30,4,1.628,BMI / Gender / Age,1.576,96.8,34.1,96.8
+Demographics Only,RDI @ 5,4,1.506,Age / BMI / Gender,1.487,98.7,36.9,98.7
+Questionnaire Only,AHI @ 15,161,2.879,High Blood Pressure / Snoring / Witnessed Apneas,0.5,17.4,6.6,
+Questionnaire Only,AHI @ 30,161,3.125,High Blood Pressure / Witnessed Apneas / Snoring,0.543,17.4,7.3,
+Questionnaire Only,AHI @ 5,161,2.635,High Blood Pressure / Snoring / Witnessed Apneas,0.527,20.0,8.7,
+Questionnaire Only,RDI @ 15,161,2.807,High Blood Pressure / Snoring / Witnessed Apneas,0.446,15.9,6.1,
+Questionnaire Only,RDI @ 30,161,3.598,High Blood Pressure / Have Difficulty Falling Asleep / Snoring,0.537,14.9,6.1,
+Questionnaire Only,RDI @ 5,161,2.72,High Blood Pressure / Snoring / Witnessed Apneas,0.529,19.4,8.5,

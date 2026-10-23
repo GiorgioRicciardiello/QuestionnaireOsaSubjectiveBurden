@@ -16,21 +16,37 @@ venv/
 *.swp
 .DS_Store
 
+# Local-only scratch / archive — never published, never deleted
+_local/
+.agents/
+.codex/
+.claude/
+grep.exe.stackdump
+*.stackdump
+
 # Notebooks
 .ipynb_checkpoints/
 
-# Pipeline artefacts (regenerable)
-results/*.pkl
-results/*.pkl.backup_*
-figures/**/*.png
-figures/**/*.pdf
-tables/*.csv
+# Pipeline artefacts (regenerable) — raw training outputs only.
+# The curated, manuscript-numbered figures/tables under results/figures/<task>/
+# and results/tables/<task>/ ARE tracked.
+results/training/*.pkl
+results/training/*.pkl.backup_*
 
 # Tooling caches
 .mypy_cache/
 .ruff_cache/
 .pytest_cache/
+.coverage
 
 # Large input data — committed via Git LFS or downloaded out-of-band
 dataset/sleep_research_cleaned.db
 dataset/*.csv
+
+# Patient-level de-identified export — requires a credentialed-access
+# deposit (PhysioNet) with IRB/DUA sign-off before any external release;
+# never belongs on a public, uncredentialed host like GitHub.
+data/shared_data/
+
+# Leftover tool-scratch state (locked files from an interrupted move)
+results/final_version/osverify_run/

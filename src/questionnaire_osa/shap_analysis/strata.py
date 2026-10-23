@@ -14,8 +14,12 @@ import matplotlib.pyplot as plt
 import numpy as np
 import pandas as pd
 import shap
+from matplotlib.ticker import MultipleLocator
 
-from ..plots.style import add_panel_labels
+from .annotate import (
+    FIG_W, PT_PANEL, PT_SUPTITLE, add_note, finish_beeswarm, label_mean_abs,
+)
+from ..plots.style import SHAP_CMAP, add_panel_labels
 from .compute import exclude_feature_from_shap
 
 
@@ -33,6 +37,20 @@ def _build_group_mask(
     if group_name.startswith(">="):
         return values > low
     return (values > low) & (values <= high)
+
+
+def display_group_label(group_name: str) -> str:
+    """Typeset a config group key exactly as ``_build_group_mask`` selects it.
+
+    ``"<=36"`` -> ``≤ 36``; ``">=58"`` -> ``> 58`` (open lower bound);
+    ``"36-46"`` -> ``> 36 to ≤ 46`` (right-closed).
+    """
+    if group_name.startswith("<="):
+        return f"≤ {group_name[2:]}"
+    if group_name.startswith(">="):
+        return f"> {group_name[2:]}"
+    low, high = group_name.split("-")
+    return f"> {low} to ≤ {high}"
 
 
 def shap_by_strata(
@@ -64,7 +82,7 @@ def plot_shap_strata_beeswarm(
     max_display: int = 10,
 ) -> None:
     """2×2 beeswarm grid — one panel per stratum group."""
-    fig, axes = plt.subplots(2, 2, figsize=(20, 16))
+    fig, axes = plt.subplots(2, 2, figsize=(FIG_W, 6.0))
 
     for idx, (group_name, data) in enumerate(group_shap.items()):
         plt.sca(axes.flatten()[idx])
@@ -72,12 +90,13 @@ def plot_shap_strata_beeswarm(
         shap.summary_plot(
             sv, xs,
             max_display=max_display, show=False, plot_size=None,
-            cmap="coolwarm",
+            cmap=SHAP_CMAP,
             color_bar=(idx % 2 == 1),
         )
         axes.flatten()[idx].set_title(
-            f"{group_name} (n = {data['n_samples']:,})", fontsize=10,
+            f"{display_group_label(group_name)} (n = {data['n_samples']:,})",
         )
+        label_mean_abs(axes.flatten()[idx], sv, xs)
 
     # Harmonise x-limits and tidy axis labels
     x_limits = [ax.get_xlim() for ax in axes.flatten()]
@@ -85,14 +104,17 @@ def plot_shap_strata_beeswarm(
     xmax = max(hi for _, hi in x_limits)
     for idx, ax in enumerate(axes.flatten()):
         ax.set_xlim(xmin, xmax)
+        ax.xaxis.set_major_locator(MultipleLocator(1))
         ax.grid(axis="x", alpha=0.7)
         if idx < 2:
             ax.set_xlabel("")
         else:
-            ax.set_xlabel("SHAP Value", fontsize=9)
+            ax.set_xlabel("SHAP Value")
 
-    plt.suptitle(suptitle, fontsize=12, fontweight="bold")
-    add_panel_labels(axes)
-    plt.tight_layout(rect=[0, 0, 1, 0.97], h_pad=3)
+    plt.suptitle(suptitle, fontsize=PT_SUPTITLE, fontweight="bold")
+    finish_beeswarm(fig, axes)
+    add_panel_labels(axes, x=-0.02, y=1.0, fontsize=PT_PANEL, va="bottom")
+    plt.tight_layout(rect=[0, 0.02, 1, 0.96], h_pad=1.2, w_pad=0.6)
+    add_note(fig)
     plt.savefig(save_path, dpi=300, bbox_inches="tight")
     plt.close(fig)

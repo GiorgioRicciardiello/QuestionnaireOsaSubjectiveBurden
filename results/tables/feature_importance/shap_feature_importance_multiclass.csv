@@ -1,0 +1,669 @@
+Feature_Set,Target,Rank,Feature,Mean_|SHAP|
+All Features,AHI 4-class,1,BMI,0.271
+All Features,AHI 4-class,2,Age,0.266
+All Features,AHI 4-class,3,Gender,0.211
+All Features,AHI 4-class,4,Snoring,0.106
+All Features,AHI 4-class,5,Witnessed Apneas,0.081
+All Features,AHI 4-class,6,High Blood Pressure,0.059
+All Features,AHI 4-class,7,Have Difficulty Falling Asleep,0.054
+All Features,AHI 4-class,8,Race,0.035
+All Features,AHI 4-class,9,Feeling Refreshing,0.034
+All Features,AHI 4-class,10,Time in Bed (Weekday),0.034
+All Features,AHI 4-class,11,Sleepiness Affect Performance,0.033
+All Features,AHI 4-class,12,Ep. Score,0.033
+All Features,AHI 4-class,13,Sleep Get Going,0.033
+All Features,AHI 4-class,14,Time in Bed (Weekend),0.033
+All Features,AHI 4-class,15,Sleep Throat Burn,0.032
+All Features,AHI 4-class,16,Problem with Tiredness,0.029
+All Features,AHI 4-class,17,Falling Asleep Thought,0.028
+All Features,AHI 4-class,18,Sleep Alert,0.028
+All Features,AHI 4-class,19,Feel Sleepy Now,0.028
+All Features,AHI 4-class,20,Sleep Thirst,0.027
+All Features,AHI 4-class,21,Female Age >50,0.027
+All Features,AHI 4-class,22,Falling Asleep Discomfort,0.026
+All Features,AHI 4-class,23,Sleep Nasal Congestion,0.026
+All Features,AHI 4-class,24,Sleep Restless,0.026
+All Features,AHI 4-class,25,Problem Going to Sleep at Night,0.026
+All Features,AHI 4-class,26,Feel Tired Now,0.026
+All Features,AHI 4-class,27,Sleep Quality Last Night,0.025
+All Features,AHI 4-class,28,Shift 1st,0.025
+All Features,AHI 4-class,29,Sleep Asthma,0.025
+All Features,AHI 4-class,30,Before Bed Sleep Aid,0.025
+All Features,AHI 4-class,31,Someone in Room,0.025
+All Features,AHI 4-class,32,Gasping Episodes,0.025
+All Features,AHI 4-class,33,Feeling Tired,0.024
+All Features,AHI 4-class,34,Grind Teeth,0.024
+All Features,AHI 4-class,35,Weight Gain,0.024
+All Features,AHI 4-class,36,Leg Pain While Falling Asleep,0.024
+All Features,AHI 4-class,37,Sleep Leg Cramps,0.023
+All Features,AHI 4-class,38,Problem Waking Up During Night,0.023
+All Features,AHI 4-class,39,Falling Asleep Worry,0.023
+All Features,AHI 4-class,40,Problem with Sleepiness,0.022
+All Features,AHI 4-class,41,Diabetes,0.022
+All Features,AHI 4-class,42,Nasal Medication,0.022
+All Features,AHI 4-class,43,Falling Asleep Depressed,0.022
+All Features,AHI 4-class,44,Sleep Parasthesia,0.022
+All Features,AHI 4-class,45,Leg Jerk,0.021
+All Features,AHI 4-class,46,Someone in Bed,0.021
+All Features,AHI 4-class,47,Sleep Sweat,0.021
+All Features,AHI 4-class,48,Nap,0.02
+All Features,AHI 4-class,49,Sleep Other Movements,0.02
+All Features,AHI 4-class,50,Sleep Disturb Partner,0.02
+All Features,AHI 4-class,51,Problem Not Feeling Rested,0.02
+All Features,AHI 4-class,52,Falling Asleep Muscular Tension,0.02
+All Features,AHI 4-class,53,Feeling Sleepy,0.02
+All Features,AHI 4-class,54,Falling Asleep Jerk,0.019
+All Features,AHI 4-class,55,Sleep Urinate,0.019
+All Features,AHI 4-class,56,Sleep Talk,0.019
+All Features,AHI 4-class,57,Sleep Special Surface,0.019
+All Features,AHI 4-class,58,Ep. Talking,0.018
+All Features,AHI 4-class,59,More Than One Pillow,0.018
+All Features,AHI 4-class,60,Sleep Short of Breath,0.018
+All Features,AHI 4-class,61,Alcohol,0.018
+All Features,AHI 4-class,62,Feeling Alert,0.018
+All Features,AHI 4-class,63,Falling Asleep Dream,0.017
+All Features,AHI 4-class,64,Sleep Provide Assistance,0.017
+All Features,AHI 4-class,65,Ep. Sitting Quietly After Lunch,0.017
+All Features,AHI 4-class,66,Sleep Eat,0.017
+All Features,AHI 4-class,67,Sleep Breath Problem,0.017
+All Features,AHI 4-class,68,Ep. Sitting Quietly,0.017
+All Features,AHI 4-class,69,Sleep Choke,0.017
+All Features,AHI 4-class,70,Ep. In Car,0.017
+All Features,AHI 4-class,71,Caffeinated Beverage Today,0.017
+All Features,AHI 4-class,72,Ep. Reading,0.017
+All Features,AHI 4-class,73,Falling Asleep Afraid,0.016
+All Features,AHI 4-class,74,Sleep Indigestion,0.016
+All Features,AHI 4-class,75,Sleep Hunger,0.016
+All Features,AHI 4-class,76,Shortness of Breath,0.016
+All Features,AHI 4-class,77,Feel Alert Now,0.016
+All Features,AHI 4-class,78,Medications Today,0.016
+All Features,AHI 4-class,79,Dentures,0.016
+All Features,AHI 4-class,80,Watch TV Before Bed,0.015
+All Features,AHI 4-class,81,Ep. Lying Down,0.015
+All Features,AHI 4-class,82,Ep. Car Passenger,0.015
+All Features,AHI 4-class,83,Memory Loss,0.015
+All Features,AHI 4-class,84,Sleep Itch,0.015
+All Features,AHI 4-class,85,Hernia,0.015
+All Features,AHI 4-class,86,Obese,0.015
+All Features,AHI 4-class,87,Sleep Stomach Pain,0.014
+All Features,AHI 4-class,88,Ep. Watching TV,0.014
+All Features,AHI 4-class,89,Wake During Night,0.014
+All Features,AHI 4-class,90,Naps Today,0.014
+All Features,AHI 4-class,91,Physical Complaints Today,0.014
+All Features,AHI 4-class,92,Headache,0.014
+All Features,AHI 4-class,93,Difficulty Going Back to Sleep,0.014
+All Features,AHI 4-class,94,Sleep Chest Pain,0.013
+All Features,AHI 4-class,95,Frequent Cough,0.013
+All Features,AHI 4-class,96,Depression,0.013
+All Features,AHI 4-class,97,Sleep Cough,0.013
+All Features,AHI 4-class,98,Second Awaken Part,0.013
+All Features,AHI 4-class,99,Breathing Difficulty,0.013
+All Features,AHI 4-class,100,Swollen Legs,0.013
+All Features,AHI 4-class,101,Sleep Heart Pain,0.013
+All Features,AHI 4-class,102,First Awaken Part,0.013
+All Features,AHI 4-class,103,Awake Feeling,0.013
+All Features,AHI 4-class,104,Joint Pain,0.012
+All Features,AHI 4-class,105,Nasal Discharge,0.012
+All Features,AHI 4-class,106,Tobacco Habit,0.012
+All Features,AHI 4-class,107,Irregular Heart Beat,0.012
+All Features,AHI 4-class,108,Other Heart Disease,0.011
+All Features,AHI 4-class,109,Slept Longer,0.011
+All Features,AHI 4-class,110,Falling Asleep Paralyzed,0.011
+All Features,AHI 4-class,111,Cancer,0.01
+All Features,AHI 4-class,112,Work Sleep Fatigue,0.01
+All Features,AHI 4-class,113,Weight Loss,0.01
+All Features,AHI 4-class,114,Too Little Sleep,0.01
+All Features,AHI 4-class,115,Heartburn,0.01
+All Features,AHI 4-class,116,Feeling Sick,0.01
+All Features,AHI 4-class,117,Allergy,0.01
+All Features,AHI 4-class,118,Feel Sleepy Today,0.01
+All Features,AHI 4-class,119,Voice Changes,0.01
+All Features,AHI 4-class,120,mh_tobacco_history,0.01
+All Features,AHI 4-class,121,Dreaming Last Night,0.009
+All Features,AHI 4-class,122,Arthritis,0.009
+All Features,AHI 4-class,123,Body Shaking,0.009
+All Features,AHI 4-class,124,Sleep Walk,0.009
+All Features,AHI 4-class,125,Muscular Pain,0.009
+All Features,AHI 4-class,126,Swallowing Difficulty,0.008
+All Features,AHI 4-class,127,Caffeinated Beverage,0.008
+All Features,AHI 4-class,128,Alcohol Quit,0.008
+All Features,AHI 4-class,129,Kidney Disease,0.008
+All Features,AHI 4-class,130,Third Awaken Part,0.007
+All Features,AHI 4-class,131,Chest Pain,0.007
+All Features,AHI 4-class,132,Thyroid Disease,0.007
+All Features,AHI 4-class,133,Sleep Difficulty,0.007
+All Features,AHI 4-class,134,Stroke History,0.006
+All Features,AHI 4-class,135,Enlarged Heart,0.006
+All Features,AHI 4-class,136,Muscle Weakness,0.006
+All Features,AHI 4-class,137,Painful Sinus,0.006
+All Features,AHI 4-class,138,Stomach Disease,0.006
+All Features,AHI 4-class,139,Heart Attack,0.006
+All Features,AHI 4-class,140,Medication Past Month,0.005
+All Features,AHI 4-class,141,Peptic Ulcer,0.005
+All Features,AHI 4-class,142,Smothering Spells at Night,0.005
+All Features,AHI 4-class,143,Personality Changes,0.005
+All Features,AHI 4-class,144,Anemia,0.005
+All Features,AHI 4-class,145,Physical Strenuous Day,0.005
+All Features,AHI 4-class,146,Out of Ordinary Happen Today,0.004
+All Features,AHI 4-class,147,Body Control Difficulty,0.004
+All Features,AHI 4-class,148,Low Blood Pressure,0.004
+All Features,AHI 4-class,149,Enlarged Thyroid,0.004
+All Features,AHI 4-class,150,Seizures,0.004
+All Features,AHI 4-class,151,Liver Disease,0.004
+All Features,AHI 4-class,152,Too Much Sleep,0.004
+All Features,AHI 4-class,153,Sleep Related Misses,0.004
+All Features,AHI 4-class,154,Paralysis Attacks,0.004
+All Features,AHI 4-class,155,Speaking Difficulty,0.004
+All Features,AHI 4-class,156,Alcohol Beverage Today,0.004
+All Features,AHI 4-class,157,Tuberculosis,0.003
+All Features,AHI 4-class,158,Abnormal Glucose,0.003
+All Features,AHI 4-class,159,Low Blood Sugar,0.003
+All Features,AHI 4-class,160,Normal Weight,0.003
+All Features,AHI 4-class,161,Shift 3rd,0.003
+All Features,AHI 4-class,162,Shift 2nd,0.003
+All Features,AHI 4-class,163,Intestinal Disease,0.003
+All Features,AHI 4-class,164,Sleep Related Accidents,0.003
+All Features,AHI 4-class,165,Sleep Accident Fatigue,0.003
+All Features,AHI 4-class,166,HIV,0.003
+All Features,AHI 4-class,167,Sleep Accident Mistakes,0.002
+All Features,AHI 4-class,168,Shift Swing,0.001
+All Features,AHI 4-class,169,Underweight,0.0
+All Features,RDI 4-class,1,Age,0.265
+All Features,RDI 4-class,2,BMI,0.239
+All Features,RDI 4-class,3,Gender,0.203
+All Features,RDI 4-class,4,Snoring,0.091
+All Features,RDI 4-class,5,Witnessed Apneas,0.065
+All Features,RDI 4-class,6,High Blood Pressure,0.053
+All Features,RDI 4-class,7,Have Difficulty Falling Asleep,0.051
+All Features,RDI 4-class,8,Race,0.029
+All Features,RDI 4-class,9,Sleep Quality Last Night,0.028
+All Features,RDI 4-class,10,Sleep Throat Burn,0.025
+All Features,RDI 4-class,11,Feeling Refreshing,0.024
+All Features,RDI 4-class,12,Before Bed Sleep Aid,0.024
+All Features,RDI 4-class,13,Feel Tired Now,0.024
+All Features,RDI 4-class,14,Sleepiness Affect Performance,0.022
+All Features,RDI 4-class,15,Female Age >50,0.022
+All Features,RDI 4-class,16,Shift 1st,0.021
+All Features,RDI 4-class,17,Time in Bed (Weekday),0.021
+All Features,RDI 4-class,18,Diabetes,0.02
+All Features,RDI 4-class,19,Time in Bed (Weekend),0.019
+All Features,RDI 4-class,20,Sleep Get Going,0.019
+All Features,RDI 4-class,21,Sleep Asthma,0.019
+All Features,RDI 4-class,22,Sleep Thirst,0.018
+All Features,RDI 4-class,23,Medications Today,0.017
+All Features,RDI 4-class,24,Falling Asleep Thought,0.017
+All Features,RDI 4-class,25,Headache,0.016
+All Features,RDI 4-class,26,Sleep Restless,0.016
+All Features,RDI 4-class,27,Wake During Night,0.015
+All Features,RDI 4-class,28,Someone in Bed,0.015
+All Features,RDI 4-class,29,Sleep Nasal Congestion,0.015
+All Features,RDI 4-class,30,Sleep Indigestion,0.015
+All Features,RDI 4-class,31,Normal Weight,0.015
+All Features,RDI 4-class,32,Alcohol,0.015
+All Features,RDI 4-class,33,Obese,0.015
+All Features,RDI 4-class,34,Feel Sleepy Now,0.015
+All Features,RDI 4-class,35,Ep. Score,0.014
+All Features,RDI 4-class,36,Falling Asleep Worry,0.014
+All Features,RDI 4-class,37,Someone in Room,0.014
+All Features,RDI 4-class,38,Leg Jerk,0.014
+All Features,RDI 4-class,39,More Than One Pillow,0.013
+All Features,RDI 4-class,40,Leg Pain While Falling Asleep,0.013
+All Features,RDI 4-class,41,Nap,0.013
+All Features,RDI 4-class,42,Sleep Parasthesia,0.013
+All Features,RDI 4-class,43,Sleep Disturb Partner,0.012
+All Features,RDI 4-class,44,Dentures,0.012
+All Features,RDI 4-class,45,Problem with Sleepiness,0.012
+All Features,RDI 4-class,46,Problem with Tiredness,0.012
+All Features,RDI 4-class,47,Problem Waking Up During Night,0.012
+All Features,RDI 4-class,48,Feel Alert Now,0.012
+All Features,RDI 4-class,49,Feeling Tired,0.012
+All Features,RDI 4-class,50,Ep. Talking,0.012
+All Features,RDI 4-class,51,Sleep Leg Cramps,0.012
+All Features,RDI 4-class,52,Sleep Choke,0.011
+All Features,RDI 4-class,53,Gasping Episodes,0.011
+All Features,RDI 4-class,54,Falling Asleep Discomfort,0.011
+All Features,RDI 4-class,55,Sleep Other Movements,0.011
+All Features,RDI 4-class,56,Falling Asleep Depressed,0.011
+All Features,RDI 4-class,57,Depression,0.011
+All Features,RDI 4-class,58,Difficulty Going Back to Sleep,0.011
+All Features,RDI 4-class,59,Grind Teeth,0.011
+All Features,RDI 4-class,60,Feeling Sleepy,0.011
+All Features,RDI 4-class,61,Sleep Talk,0.01
+All Features,RDI 4-class,62,Problem Not Feeling Rested,0.01
+All Features,RDI 4-class,63,Slept Longer,0.01
+All Features,RDI 4-class,64,Ep. Watching TV,0.01
+All Features,RDI 4-class,65,Problem Going to Sleep at Night,0.01
+All Features,RDI 4-class,66,Ep. In Car,0.01
+All Features,RDI 4-class,67,Falling Asleep Muscular Tension,0.009
+All Features,RDI 4-class,68,Sleep Special Surface,0.009
+All Features,RDI 4-class,69,Sleep Urinate,0.009
+All Features,RDI 4-class,70,Sleep Short of Breath,0.009
+All Features,RDI 4-class,71,Feeling Alert,0.009
+All Features,RDI 4-class,72,Memory Loss,0.009
+All Features,RDI 4-class,73,Physical Complaints Today,0.009
+All Features,RDI 4-class,74,Falling Asleep Dream,0.009
+All Features,RDI 4-class,75,Falling Asleep Afraid,0.009
+All Features,RDI 4-class,76,Naps Today,0.009
+All Features,RDI 4-class,77,Weight Gain,0.008
+All Features,RDI 4-class,78,Sleep Alert,0.008
+All Features,RDI 4-class,79,Sleep Itch,0.008
+All Features,RDI 4-class,80,Nasal Medication,0.008
+All Features,RDI 4-class,81,Ep. Reading,0.008
+All Features,RDI 4-class,82,Sleep Stomach Pain,0.008
+All Features,RDI 4-class,83,Breathing Difficulty,0.008
+All Features,RDI 4-class,84,Sleep Sweat,0.008
+All Features,RDI 4-class,85,Falling Asleep Jerk,0.008
+All Features,RDI 4-class,86,Nasal Discharge,0.008
+All Features,RDI 4-class,87,Sleep Cough,0.007
+All Features,RDI 4-class,88,Dreaming Last Night,0.007
+All Features,RDI 4-class,89,Swollen Legs,0.007
+All Features,RDI 4-class,90,Arthritis,0.007
+All Features,RDI 4-class,91,Sleep Provide Assistance,0.007
+All Features,RDI 4-class,92,Awake Feeling,0.007
+All Features,RDI 4-class,93,Shortness of Breath,0.006
+All Features,RDI 4-class,94,Ep. Lying Down,0.006
+All Features,RDI 4-class,95,Sleep Hunger,0.006
+All Features,RDI 4-class,96,Swallowing Difficulty,0.006
+All Features,RDI 4-class,97,Sleep Breath Problem,0.006
+All Features,RDI 4-class,98,Ep. Sitting Quietly,0.006
+All Features,RDI 4-class,99,First Awaken Part,0.006
+All Features,RDI 4-class,100,Sleep Eat,0.006
+All Features,RDI 4-class,101,Ep. Car Passenger,0.006
+All Features,RDI 4-class,102,Hernia,0.006
+All Features,RDI 4-class,103,Other Heart Disease,0.005
+All Features,RDI 4-class,104,Work Sleep Fatigue,0.005
+All Features,RDI 4-class,105,Caffeinated Beverage Today,0.005
+All Features,RDI 4-class,106,Ep. Sitting Quietly After Lunch,0.005
+All Features,RDI 4-class,107,Weight Loss,0.005
+All Features,RDI 4-class,108,Voice Changes,0.005
+All Features,RDI 4-class,109,Heartburn,0.005
+All Features,RDI 4-class,110,Feeling Sick,0.005
+All Features,RDI 4-class,111,Sleep Chest Pain,0.005
+All Features,RDI 4-class,112,Cancer,0.005
+All Features,RDI 4-class,113,Second Awaken Part,0.005
+All Features,RDI 4-class,114,Joint Pain,0.005
+All Features,RDI 4-class,115,Sleep Walk,0.005
+All Features,RDI 4-class,116,Frequent Cough,0.005
+All Features,RDI 4-class,117,Medication Past Month,0.005
+All Features,RDI 4-class,118,Third Awaken Part,0.005
+All Features,RDI 4-class,119,Too Little Sleep,0.004
+All Features,RDI 4-class,120,Sleep Heart Pain,0.004
+All Features,RDI 4-class,121,Alcohol Beverage Today,0.004
+All Features,RDI 4-class,122,Muscle Weakness,0.004
+All Features,RDI 4-class,123,Caffeinated Beverage,0.004
+All Features,RDI 4-class,124,Painful Sinus,0.004
+All Features,RDI 4-class,125,Chest Pain,0.004
+All Features,RDI 4-class,126,Sleep Difficulty,0.004
+All Features,RDI 4-class,127,Alcohol Quit,0.004
+All Features,RDI 4-class,128,Irregular Heart Beat,0.004
+All Features,RDI 4-class,129,Watch TV Before Bed,0.004
+All Features,RDI 4-class,130,Tobacco Habit,0.004
+All Features,RDI 4-class,131,Falling Asleep Paralyzed,0.004
+All Features,RDI 4-class,132,Stomach Disease,0.004
+All Features,RDI 4-class,133,Kidney Disease,0.004
+All Features,RDI 4-class,134,Body Shaking,0.004
+All Features,RDI 4-class,135,Personality Changes,0.004
+All Features,RDI 4-class,136,Out of Ordinary Happen Today,0.003
+All Features,RDI 4-class,137,Muscular Pain,0.003
+All Features,RDI 4-class,138,Enlarged Heart,0.003
+All Features,RDI 4-class,139,mh_tobacco_history,0.003
+All Features,RDI 4-class,140,Allergy,0.003
+All Features,RDI 4-class,141,Stroke History,0.003
+All Features,RDI 4-class,142,Feel Sleepy Today,0.003
+All Features,RDI 4-class,143,Liver Disease,0.003
+All Features,RDI 4-class,144,Heart Attack,0.003
+All Features,RDI 4-class,145,Speaking Difficulty,0.003
+All Features,RDI 4-class,146,Thyroid Disease,0.003
+All Features,RDI 4-class,147,Seizures,0.003
+All Features,RDI 4-class,148,Intestinal Disease,0.003
+All Features,RDI 4-class,149,Physical Strenuous Day,0.002
+All Features,RDI 4-class,150,Anemia,0.002
+All Features,RDI 4-class,151,Sleep Related Misses,0.002
+All Features,RDI 4-class,152,Tuberculosis,0.002
+All Features,RDI 4-class,153,Sleep Related Accidents,0.002
+All Features,RDI 4-class,154,Low Blood Sugar,0.002
+All Features,RDI 4-class,155,Smothering Spells at Night,0.002
+All Features,RDI 4-class,156,Low Blood Pressure,0.002
+All Features,RDI 4-class,157,Too Much Sleep,0.002
+All Features,RDI 4-class,158,Abnormal Glucose,0.002
+All Features,RDI 4-class,159,Peptic Ulcer,0.002
+All Features,RDI 4-class,160,Paralysis Attacks,0.002
+All Features,RDI 4-class,161,Enlarged Thyroid,0.002
+All Features,RDI 4-class,162,Shift 2nd,0.001
+All Features,RDI 4-class,163,Body Control Difficulty,0.001
+All Features,RDI 4-class,164,Sleep Accident Fatigue,0.001
+All Features,RDI 4-class,165,HIV,0.001
+All Features,RDI 4-class,166,Shift 3rd,0.001
+All Features,RDI 4-class,167,Sleep Accident Mistakes,0.001
+All Features,RDI 4-class,168,Shift Swing,0.001
+All Features,RDI 4-class,169,Underweight,0.0
+Questionnaire Only,AHI 4-class,1,High Blood Pressure,0.113
+Questionnaire Only,AHI 4-class,2,Snoring,0.11
+Questionnaire Only,AHI 4-class,3,Witnessed Apneas,0.092
+Questionnaire Only,AHI 4-class,4,Have Difficulty Falling Asleep,0.064
+Questionnaire Only,AHI 4-class,5,Diabetes,0.05
+Questionnaire Only,AHI 4-class,6,Headache,0.048
+Questionnaire Only,AHI 4-class,7,Sleepiness Affect Performance,0.045
+Questionnaire Only,AHI 4-class,8,Time in Bed (Weekday),0.044
+Questionnaire Only,AHI 4-class,9,Ep. Score,0.04
+Questionnaire Only,AHI 4-class,10,Feeling Refreshing,0.04
+Questionnaire Only,AHI 4-class,11,Problem with Tiredness,0.039
+Questionnaire Only,AHI 4-class,12,Sleep Urinate,0.039
+Questionnaire Only,AHI 4-class,13,Falling Asleep Thought,0.039
+Questionnaire Only,AHI 4-class,14,Time in Bed (Weekend),0.038
+Questionnaire Only,AHI 4-class,15,Sleep Quality Last Night,0.037
+Questionnaire Only,AHI 4-class,16,Feeling Sleepy,0.037
+Questionnaire Only,AHI 4-class,17,Weight Gain,0.037
+Questionnaire Only,AHI 4-class,18,Sleep Throat Burn,0.037
+Questionnaire Only,AHI 4-class,19,Nap,0.036
+Questionnaire Only,AHI 4-class,20,Feel Tired Now,0.036
+Questionnaire Only,AHI 4-class,21,Sleep Get Going,0.035
+Questionnaire Only,AHI 4-class,22,Sleep Alert,0.035
+Questionnaire Only,AHI 4-class,23,Shift 1st,0.035
+Questionnaire Only,AHI 4-class,24,Falling Asleep Worry,0.035
+Questionnaire Only,AHI 4-class,25,Ep. Car Passenger,0.035
+Questionnaire Only,AHI 4-class,26,Sleep Nasal Congestion,0.034
+Questionnaire Only,AHI 4-class,27,Feeling Tired,0.033
+Questionnaire Only,AHI 4-class,28,Sleep Thirst,0.033
+Questionnaire Only,AHI 4-class,29,Grind Teeth,0.033
+Questionnaire Only,AHI 4-class,30,Swollen Legs,0.033
+Questionnaire Only,AHI 4-class,31,Sleep Leg Cramps,0.032
+Questionnaire Only,AHI 4-class,32,Ep. Sitting Quietly,0.032
+Questionnaire Only,AHI 4-class,33,Arthritis,0.032
+Questionnaire Only,AHI 4-class,34,Feel Sleepy Now,0.031
+Questionnaire Only,AHI 4-class,35,Problem Going to Sleep at Night,0.03
+Questionnaire Only,AHI 4-class,36,Feeling Alert,0.03
+Questionnaire Only,AHI 4-class,37,Problem Not Feeling Rested,0.03
+Questionnaire Only,AHI 4-class,38,Ep. Watching TV,0.03
+Questionnaire Only,AHI 4-class,39,Problem with Sleepiness,0.03
+Questionnaire Only,AHI 4-class,40,Leg Pain While Falling Asleep,0.03
+Questionnaire Only,AHI 4-class,41,Someone in Room,0.028
+Questionnaire Only,AHI 4-class,42,Sleep Sweat,0.028
+Questionnaire Only,AHI 4-class,43,Sleep Restless,0.028
+Questionnaire Only,AHI 4-class,44,Medications Today,0.028
+Questionnaire Only,AHI 4-class,45,Falling Asleep Discomfort,0.028
+Questionnaire Only,AHI 4-class,46,Falling Asleep Muscular Tension,0.028
+Questionnaire Only,AHI 4-class,47,Ep. Sitting Quietly After Lunch,0.028
+Questionnaire Only,AHI 4-class,48,Falling Asleep Depressed,0.027
+Questionnaire Only,AHI 4-class,49,Sleep Parasthesia,0.027
+Questionnaire Only,AHI 4-class,50,Sleep Talk,0.027
+Questionnaire Only,AHI 4-class,51,Ep. Talking,0.027
+Questionnaire Only,AHI 4-class,52,Problem Waking Up During Night,0.027
+Questionnaire Only,AHI 4-class,53,Before Bed Sleep Aid,0.026
+Questionnaire Only,AHI 4-class,54,Gasping Episodes,0.026
+Questionnaire Only,AHI 4-class,55,Someone in Bed,0.025
+Questionnaire Only,AHI 4-class,56,Nasal Medication,0.025
+Questionnaire Only,AHI 4-class,57,Sleep Short of Breath,0.025
+Questionnaire Only,AHI 4-class,58,Sleep Other Movements,0.025
+Questionnaire Only,AHI 4-class,59,Sleep Disturb Partner,0.024
+Questionnaire Only,AHI 4-class,60,Falling Asleep Jerk,0.024
+Questionnaire Only,AHI 4-class,61,Shortness of Breath,0.024
+Questionnaire Only,AHI 4-class,62,Slept Longer,0.023
+Questionnaire Only,AHI 4-class,63,Joint Pain,0.023
+Questionnaire Only,AHI 4-class,64,Awake Feeling,0.023
+Questionnaire Only,AHI 4-class,65,Sleep Asthma,0.023
+Questionnaire Only,AHI 4-class,66,Watch TV Before Bed,0.023
+Questionnaire Only,AHI 4-class,67,Feel Alert Now,0.023
+Questionnaire Only,AHI 4-class,68,Naps Today,0.023
+Questionnaire Only,AHI 4-class,69,Sleep Hunger,0.022
+Questionnaire Only,AHI 4-class,70,Leg Jerk,0.022
+Questionnaire Only,AHI 4-class,71,Sleep Itch,0.022
+Questionnaire Only,AHI 4-class,72,Caffeinated Beverage Today,0.022
+Questionnaire Only,AHI 4-class,73,Sleep Special Surface,0.021
+Questionnaire Only,AHI 4-class,74,Falling Asleep Afraid,0.021
+Questionnaire Only,AHI 4-class,75,Sleep Choke,0.021
+Questionnaire Only,AHI 4-class,76,Alcohol,0.021
+Questionnaire Only,AHI 4-class,77,Tobacco Habit,0.021
+Questionnaire Only,AHI 4-class,78,Falling Asleep Dream,0.021
+Questionnaire Only,AHI 4-class,79,Sleep Breath Problem,0.02
+Questionnaire Only,AHI 4-class,80,Wake During Night,0.02
+Questionnaire Only,AHI 4-class,81,Ep. Reading,0.02
+Questionnaire Only,AHI 4-class,82,First Awaken Part,0.02
+Questionnaire Only,AHI 4-class,83,Difficulty Going Back to Sleep,0.02
+Questionnaire Only,AHI 4-class,84,Ep. Lying Down,0.02
+Questionnaire Only,AHI 4-class,85,Sleep Cough,0.02
+Questionnaire Only,AHI 4-class,86,Sleep Chest Pain,0.02
+Questionnaire Only,AHI 4-class,87,Feel Sleepy Today,0.019
+Questionnaire Only,AHI 4-class,88,Physical Complaints Today,0.019
+Questionnaire Only,AHI 4-class,89,Sleep Stomach Pain,0.019
+Questionnaire Only,AHI 4-class,90,Sleep Provide Assistance,0.018
+Questionnaire Only,AHI 4-class,91,Memory Loss,0.018
+Questionnaire Only,AHI 4-class,92,Other Heart Disease,0.018
+Questionnaire Only,AHI 4-class,93,Sleep Indigestion,0.017
+Questionnaire Only,AHI 4-class,94,Irregular Heart Beat,0.017
+Questionnaire Only,AHI 4-class,95,Allergy,0.017
+Questionnaire Only,AHI 4-class,96,Ep. In Car,0.017
+Questionnaire Only,AHI 4-class,97,Sleep Eat,0.017
+Questionnaire Only,AHI 4-class,98,Dentures,0.017
+Questionnaire Only,AHI 4-class,99,Second Awaken Part,0.017
+Questionnaire Only,AHI 4-class,100,More Than One Pillow,0.017
+Questionnaire Only,AHI 4-class,101,Sleep Heart Pain,0.016
+Questionnaire Only,AHI 4-class,102,Depression,0.016
+Questionnaire Only,AHI 4-class,103,Falling Asleep Paralyzed,0.016
+Questionnaire Only,AHI 4-class,104,Voice Changes,0.015
+Questionnaire Only,AHI 4-class,105,Weight Loss,0.015
+Questionnaire Only,AHI 4-class,106,Too Little Sleep,0.015
+Questionnaire Only,AHI 4-class,107,Breathing Difficulty,0.015
+Questionnaire Only,AHI 4-class,108,Heartburn,0.015
+Questionnaire Only,AHI 4-class,109,Dreaming Last Night,0.013
+Questionnaire Only,AHI 4-class,110,Sleep Difficulty,0.013
+Questionnaire Only,AHI 4-class,111,Cancer,0.013
+Questionnaire Only,AHI 4-class,112,Feeling Sick,0.013
+Questionnaire Only,AHI 4-class,113,Heart Attack,0.013
+Questionnaire Only,AHI 4-class,114,Nasal Discharge,0.012
+Questionnaire Only,AHI 4-class,115,Frequent Cough,0.012
+Questionnaire Only,AHI 4-class,116,Sleep Walk,0.012
+Questionnaire Only,AHI 4-class,117,Thyroid Disease,0.012
+Questionnaire Only,AHI 4-class,118,Chest Pain,0.012
+Questionnaire Only,AHI 4-class,119,Anemia,0.011
+Questionnaire Only,AHI 4-class,120,Third Awaken Part,0.011
+Questionnaire Only,AHI 4-class,121,Muscular Pain,0.011
+Questionnaire Only,AHI 4-class,122,mh_tobacco_history,0.011
+Questionnaire Only,AHI 4-class,123,Caffeinated Beverage,0.011
+Questionnaire Only,AHI 4-class,124,Hernia,0.01
+Questionnaire Only,AHI 4-class,125,Enlarged Heart,0.01
+Questionnaire Only,AHI 4-class,126,Painful Sinus,0.01
+Questionnaire Only,AHI 4-class,127,Alcohol Quit,0.01
+Questionnaire Only,AHI 4-class,128,Work Sleep Fatigue,0.009
+Questionnaire Only,AHI 4-class,129,Medication Past Month,0.009
+Questionnaire Only,AHI 4-class,130,Body Shaking,0.009
+Questionnaire Only,AHI 4-class,131,Muscle Weakness,0.009
+Questionnaire Only,AHI 4-class,132,Low Blood Pressure,0.009
+Questionnaire Only,AHI 4-class,133,Smothering Spells at Night,0.009
+Questionnaire Only,AHI 4-class,134,Kidney Disease,0.009
+Questionnaire Only,AHI 4-class,135,Stroke History,0.009
+Questionnaire Only,AHI 4-class,136,Body Control Difficulty,0.009
+Questionnaire Only,AHI 4-class,137,Swallowing Difficulty,0.008
+Questionnaire Only,AHI 4-class,138,Seizures,0.008
+Questionnaire Only,AHI 4-class,139,Stomach Disease,0.007
+Questionnaire Only,AHI 4-class,140,Physical Strenuous Day,0.007
+Questionnaire Only,AHI 4-class,141,Enlarged Thyroid,0.007
+Questionnaire Only,AHI 4-class,142,Personality Changes,0.007
+Questionnaire Only,AHI 4-class,143,Peptic Ulcer,0.006
+Questionnaire Only,AHI 4-class,144,Out of Ordinary Happen Today,0.006
+Questionnaire Only,AHI 4-class,145,Shift 2nd,0.006
+Questionnaire Only,AHI 4-class,146,Speaking Difficulty,0.006
+Questionnaire Only,AHI 4-class,147,Alcohol Beverage Today,0.006
+Questionnaire Only,AHI 4-class,148,Liver Disease,0.006
+Questionnaire Only,AHI 4-class,149,Sleep Related Misses,0.005
+Questionnaire Only,AHI 4-class,150,Intestinal Disease,0.005
+Questionnaire Only,AHI 4-class,151,Sleep Accident Mistakes,0.005
+Questionnaire Only,AHI 4-class,152,Paralysis Attacks,0.005
+Questionnaire Only,AHI 4-class,153,Low Blood Sugar,0.005
+Questionnaire Only,AHI 4-class,154,Sleep Related Accidents,0.005
+Questionnaire Only,AHI 4-class,155,Abnormal Glucose,0.004
+Questionnaire Only,AHI 4-class,156,Shift 3rd,0.004
+Questionnaire Only,AHI 4-class,157,Too Much Sleep,0.004
+Questionnaire Only,AHI 4-class,158,Sleep Accident Fatigue,0.003
+Questionnaire Only,AHI 4-class,159,Shift Swing,0.003
+Questionnaire Only,AHI 4-class,160,HIV,0.002
+Questionnaire Only,AHI 4-class,161,Tuberculosis,0.001
+Questionnaire Only,RDI 4-class,1,High Blood Pressure,0.113
+Questionnaire Only,RDI 4-class,2,Snoring,0.1
+Questionnaire Only,RDI 4-class,3,Witnessed Apneas,0.082
+Questionnaire Only,RDI 4-class,4,Have Difficulty Falling Asleep,0.06
+Questionnaire Only,RDI 4-class,5,Headache,0.055
+Questionnaire Only,RDI 4-class,6,Diabetes,0.049
+Questionnaire Only,RDI 4-class,7,Feel Tired Now,0.041
+Questionnaire Only,RDI 4-class,8,Sleep Quality Last Night,0.039
+Questionnaire Only,RDI 4-class,9,Sleep Throat Burn,0.037
+Questionnaire Only,RDI 4-class,10,Ep. Car Passenger,0.035
+Questionnaire Only,RDI 4-class,11,Sleepiness Affect Performance,0.034
+Questionnaire Only,RDI 4-class,12,Sleep Get Going,0.034
+Questionnaire Only,RDI 4-class,13,Time in Bed (Weekday),0.032
+Questionnaire Only,RDI 4-class,14,Feeling Refreshing,0.031
+Questionnaire Only,RDI 4-class,15,Time in Bed (Weekend),0.03
+Questionnaire Only,RDI 4-class,16,Arthritis,0.03
+Questionnaire Only,RDI 4-class,17,Problem Not Feeling Rested,0.03
+Questionnaire Only,RDI 4-class,18,Nap,0.029
+Questionnaire Only,RDI 4-class,19,Falling Asleep Thought,0.029
+Questionnaire Only,RDI 4-class,20,Sleep Urinate,0.029
+Questionnaire Only,RDI 4-class,21,Falling Asleep Worry,0.028
+Questionnaire Only,RDI 4-class,22,Shift 1st,0.028
+Questionnaire Only,RDI 4-class,23,Swollen Legs,0.028
+Questionnaire Only,RDI 4-class,24,Before Bed Sleep Aid,0.027
+Questionnaire Only,RDI 4-class,25,Feeling Tired,0.027
+Questionnaire Only,RDI 4-class,26,Feeling Sleepy,0.026
+Questionnaire Only,RDI 4-class,27,Grind Teeth,0.025
+Questionnaire Only,RDI 4-class,28,Ep. Score,0.025
+Questionnaire Only,RDI 4-class,29,Sleep Leg Cramps,0.025
+Questionnaire Only,RDI 4-class,30,Weight Gain,0.025
+Questionnaire Only,RDI 4-class,31,Slept Longer,0.024
+Questionnaire Only,RDI 4-class,32,Sleep Asthma,0.023
+Questionnaire Only,RDI 4-class,33,Wake During Night,0.023
+Questionnaire Only,RDI 4-class,34,Ep. Watching TV,0.022
+Questionnaire Only,RDI 4-class,35,Sleep Talk,0.022
+Questionnaire Only,RDI 4-class,36,Someone in Bed,0.022
+Questionnaire Only,RDI 4-class,37,Ep. Sitting Quietly,0.021
+Questionnaire Only,RDI 4-class,38,Sleep Disturb Partner,0.021
+Questionnaire Only,RDI 4-class,39,Feeling Alert,0.021
+Questionnaire Only,RDI 4-class,40,Leg Pain While Falling Asleep,0.021
+Questionnaire Only,RDI 4-class,41,Feel Sleepy Now,0.021
+Questionnaire Only,RDI 4-class,42,Problem with Sleepiness,0.02
+Questionnaire Only,RDI 4-class,43,Someone in Room,0.02
+Questionnaire Only,RDI 4-class,44,Leg Jerk,0.02
+Questionnaire Only,RDI 4-class,45,Sleep Indigestion,0.02
+Questionnaire Only,RDI 4-class,46,Alcohol,0.02
+Questionnaire Only,RDI 4-class,47,Sleep Restless,0.02
+Questionnaire Only,RDI 4-class,48,Ep. Talking,0.02
+Questionnaire Only,RDI 4-class,49,Sleep Nasal Congestion,0.019
+Questionnaire Only,RDI 4-class,50,Falling Asleep Muscular Tension,0.019
+Questionnaire Only,RDI 4-class,51,Sleep Sweat,0.019
+Questionnaire Only,RDI 4-class,52,Falling Asleep Depressed,0.019
+Questionnaire Only,RDI 4-class,53,Naps Today,0.019
+Questionnaire Only,RDI 4-class,54,Other Heart Disease,0.018
+Questionnaire Only,RDI 4-class,55,Problem with Tiredness,0.018
+Questionnaire Only,RDI 4-class,56,Difficulty Going Back to Sleep,0.018
+Questionnaire Only,RDI 4-class,57,Falling Asleep Jerk,0.018
+Questionnaire Only,RDI 4-class,58,Problem Waking Up During Night,0.018
+Questionnaire Only,RDI 4-class,59,Sleep Alert,0.018
+Questionnaire Only,RDI 4-class,60,Sleep Thirst,0.018
+Questionnaire Only,RDI 4-class,61,Sleep Other Movements,0.017
+Questionnaire Only,RDI 4-class,62,Sleep Itch,0.017
+Questionnaire Only,RDI 4-class,63,Sleep Parasthesia,0.017
+Questionnaire Only,RDI 4-class,64,Caffeinated Beverage Today,0.017
+Questionnaire Only,RDI 4-class,65,Ep. Sitting Quietly After Lunch,0.017
+Questionnaire Only,RDI 4-class,66,Falling Asleep Discomfort,0.017
+Questionnaire Only,RDI 4-class,67,Physical Complaints Today,0.017
+Questionnaire Only,RDI 4-class,68,Feel Alert Now,0.017
+Questionnaire Only,RDI 4-class,69,Nasal Medication,0.016
+Questionnaire Only,RDI 4-class,70,Watch TV Before Bed,0.016
+Questionnaire Only,RDI 4-class,71,Falling Asleep Dream,0.016
+Questionnaire Only,RDI 4-class,72,Gasping Episodes,0.016
+Questionnaire Only,RDI 4-class,73,Sleep Stomach Pain,0.016
+Questionnaire Only,RDI 4-class,74,Sleep Hunger,0.016
+Questionnaire Only,RDI 4-class,75,Problem Going to Sleep at Night,0.016
+Questionnaire Only,RDI 4-class,76,Ep. Reading,0.016
+Questionnaire Only,RDI 4-class,77,Sleep Provide Assistance,0.016
+Questionnaire Only,RDI 4-class,78,More Than One Pillow,0.015
+Questionnaire Only,RDI 4-class,79,Falling Asleep Afraid,0.015
+Questionnaire Only,RDI 4-class,80,Joint Pain,0.015
+Questionnaire Only,RDI 4-class,81,Ep. Lying Down,0.015
+Questionnaire Only,RDI 4-class,82,Sleep Special Surface,0.015
+Questionnaire Only,RDI 4-class,83,Feel Sleepy Today,0.014
+Questionnaire Only,RDI 4-class,84,Depression,0.014
+Questionnaire Only,RDI 4-class,85,Sleep Short of Breath,0.014
+Questionnaire Only,RDI 4-class,86,Falling Asleep Paralyzed,0.014
+Questionnaire Only,RDI 4-class,87,Dreaming Last Night,0.014
+Questionnaire Only,RDI 4-class,88,Memory Loss,0.013
+Questionnaire Only,RDI 4-class,89,Shortness of Breath,0.013
+Questionnaire Only,RDI 4-class,90,Medications Today,0.013
+Questionnaire Only,RDI 4-class,91,Voice Changes,0.013
+Questionnaire Only,RDI 4-class,92,Weight Loss,0.013
+Questionnaire Only,RDI 4-class,93,Sleep Choke,0.013
+Questionnaire Only,RDI 4-class,94,Sleep Eat,0.012
+Questionnaire Only,RDI 4-class,95,First Awaken Part,0.012
+Questionnaire Only,RDI 4-class,96,Sleep Breath Problem,0.012
+Questionnaire Only,RDI 4-class,97,Anemia,0.012
+Questionnaire Only,RDI 4-class,98,Awake Feeling,0.012
+Questionnaire Only,RDI 4-class,99,Allergy,0.012
+Questionnaire Only,RDI 4-class,100,Irregular Heart Beat,0.011
+Questionnaire Only,RDI 4-class,101,Sleep Cough,0.011
+Questionnaire Only,RDI 4-class,102,Chest Pain,0.011
+Questionnaire Only,RDI 4-class,103,Tobacco Habit,0.011
+Questionnaire Only,RDI 4-class,104,Sleep Chest Pain,0.011
+Questionnaire Only,RDI 4-class,105,Dentures,0.011
+Questionnaire Only,RDI 4-class,106,Ep. In Car,0.01
+Questionnaire Only,RDI 4-class,107,Cancer,0.01
+Questionnaire Only,RDI 4-class,108,Breathing Difficulty,0.01
+Questionnaire Only,RDI 4-class,109,Nasal Discharge,0.01
+Questionnaire Only,RDI 4-class,110,Heart Attack,0.01
+Questionnaire Only,RDI 4-class,111,Heartburn,0.009
+Questionnaire Only,RDI 4-class,112,Sleep Difficulty,0.009
+Questionnaire Only,RDI 4-class,113,Feeling Sick,0.009
+Questionnaire Only,RDI 4-class,114,Enlarged Heart,0.009
+Questionnaire Only,RDI 4-class,115,Thyroid Disease,0.009
+Questionnaire Only,RDI 4-class,116,Third Awaken Part,0.008
+Questionnaire Only,RDI 4-class,117,Work Sleep Fatigue,0.008
+Questionnaire Only,RDI 4-class,118,Hernia,0.008
+Questionnaire Only,RDI 4-class,119,Too Little Sleep,0.008
+Questionnaire Only,RDI 4-class,120,Second Awaken Part,0.008
+Questionnaire Only,RDI 4-class,121,mh_tobacco_history,0.008
+Questionnaire Only,RDI 4-class,122,Swallowing Difficulty,0.008
+Questionnaire Only,RDI 4-class,123,Seizures,0.008
+Questionnaire Only,RDI 4-class,124,Muscular Pain,0.007
+Questionnaire Only,RDI 4-class,125,Muscle Weakness,0.007
+Questionnaire Only,RDI 4-class,126,Painful Sinus,0.007
+Questionnaire Only,RDI 4-class,127,Caffeinated Beverage,0.007
+Questionnaire Only,RDI 4-class,128,Sleep Heart Pain,0.007
+Questionnaire Only,RDI 4-class,129,Personality Changes,0.006
+Questionnaire Only,RDI 4-class,130,Frequent Cough,0.006
+Questionnaire Only,RDI 4-class,131,Kidney Disease,0.006
+Questionnaire Only,RDI 4-class,132,Stroke History,0.006
+Questionnaire Only,RDI 4-class,133,Body Control Difficulty,0.006
+Questionnaire Only,RDI 4-class,134,Low Blood Pressure,0.006
+Questionnaire Only,RDI 4-class,135,Speaking Difficulty,0.006
+Questionnaire Only,RDI 4-class,136,Sleep Walk,0.006
+Questionnaire Only,RDI 4-class,137,Alcohol Beverage Today,0.006
+Questionnaire Only,RDI 4-class,138,Medication Past Month,0.005
+Questionnaire Only,RDI 4-class,139,Out of Ordinary Happen Today,0.005
+Questionnaire Only,RDI 4-class,140,Paralysis Attacks,0.005
+Questionnaire Only,RDI 4-class,141,Stomach Disease,0.005
+Questionnaire Only,RDI 4-class,142,Body Shaking,0.005
+Questionnaire Only,RDI 4-class,143,Smothering Spells at Night,0.005
+Questionnaire Only,RDI 4-class,144,Enlarged Thyroid,0.005
+Questionnaire Only,RDI 4-class,145,Alcohol Quit,0.004
+Questionnaire Only,RDI 4-class,146,Sleep Related Misses,0.004
+Questionnaire Only,RDI 4-class,147,Shift 2nd,0.004
+Questionnaire Only,RDI 4-class,148,Physical Strenuous Day,0.004
+Questionnaire Only,RDI 4-class,149,Liver Disease,0.004
+Questionnaire Only,RDI 4-class,150,Intestinal Disease,0.003
+Questionnaire Only,RDI 4-class,151,Sleep Accident Fatigue,0.003
+Questionnaire Only,RDI 4-class,152,Low Blood Sugar,0.003
+Questionnaire Only,RDI 4-class,153,Too Much Sleep,0.003
+Questionnaire Only,RDI 4-class,154,Tuberculosis,0.003
+Questionnaire Only,RDI 4-class,155,Abnormal Glucose,0.003
+Questionnaire Only,RDI 4-class,156,Peptic Ulcer,0.003
+Questionnaire Only,RDI 4-class,157,Sleep Accident Mistakes,0.003
+Questionnaire Only,RDI 4-class,158,Sleep Related Accidents,0.003
+Questionnaire Only,RDI 4-class,159,HIV,0.002
+Questionnaire Only,RDI 4-class,160,Shift 3rd,0.002
+Questionnaire Only,RDI 4-class,161,Shift Swing,0.002
+Demographics Only,AHI 4-class,1,Age,0.307
+Demographics Only,AHI 4-class,2,BMI,0.302
+Demographics Only,AHI 4-class,3,Gender,0.248
+Demographics Only,AHI 4-class,4,Race,0.043
+Demographics Only,RDI 4-class,1,Age,0.285
+Demographics Only,RDI 4-class,2,BMI,0.268
+Demographics Only,RDI 4-class,3,Gender,0.243
+Demographics Only,RDI 4-class,4,Race,0.028

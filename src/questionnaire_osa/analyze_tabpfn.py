@@ -10,11 +10,16 @@ TabPFN is evaluated with k-fold CV (no held-out test), so we:
    stream per target.
 2. Plot the resulting ROC curve (binary) and aggregated confusion matrix.
 
+These are exploratory diagnostics, not referenced by the manuscript or
+supplementary docx (the manuscript's TabPFN confusion figure, Figure 2, is
+regenerated separately by ``manuscript.make_figure2``), so they are routed
+to the gitignored draft archive.
+
 Output
 ------
-* ``figures/tabpfn/roc_curves.png``
-* ``figures/tabpfn/confusion_matrices_binary.png``
-* ``figures/tabpfn/confusion_matrices_multiclass.png``
+* ``_local/figures_archive/draft_regen/tabpfn/roc_curves.png``
+* ``_local/figures_archive/draft_regen/tabpfn/confusion_matrices_binary.png``
+* ``_local/figures_archive/draft_regen/tabpfn/confusion_matrices_multiclass.png``
 """
 
 from __future__ import annotations
