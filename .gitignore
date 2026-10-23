@@ -16,6 +16,9 @@ venv/
 *.swp
 .DS_Store
 
+# Internal working/provenance notes — not for public release
+docs/
+
 # Local-only scratch / archive — never published, never deleted
 _local/
 .agents/
