@@ -6,7 +6,7 @@ the adults-only cohort (``dem_age >= 18``, n = 67,397) and the 169
 continuous severity indices used to derive them. Internal identifiers
 (record id, lab/physician codes, study year, treatment flags) and
 columns never fed to a model (missingness-indicator engineering columns)
-are dropped. Row order is shuffled with the project's standard random
+are dropped, and ages over 89 are top-coded to 90. Row order is shuffled with the project's standard random
 seed before assigning a fresh sequential ``subject_id`` so the release
 order carries no information about collection order or site.
 
@@ -34,6 +34,11 @@ INDEX_COLUMNS: Dict[str, str] = {
 
 CLASS_NAMES: List[str] = ["No OSA", "Mild OSA", "Moderate OSA", "Severe OSA"]
 
+# HIPAA Safe Harbor: ages over 89 are aggregated into a single 90+ category
+# on export. The published models were trained on the uncapped ages, so this
+# affects only the released file (137 subjects aged 90-99).
+AGE_TOP_CODE: int = 90
+
 
 def _load_encoding() -> Dict[str, Any]:
     with open(PATHS["encoding_json"], encoding="utf-8") as fh:
@@ -49,6 +54,7 @@ def build_shared_dataframe() -> pd.DataFrame:
 
     keep_cols = feature_cols + target_cols + list(INDEX_COLUMNS)
     shared = df[keep_cols].rename(columns=INDEX_COLUMNS).copy()
+    shared["dem_age"] = shared["dem_age"].clip(upper=AGE_TOP_CODE)
 
     shared = shared.sample(frac=1, random_state=SETTINGS["random_state"]).reset_index(drop=True)
     shared.insert(0, "subject_id", range(1, len(shared) + 1))
@@ -92,6 +98,8 @@ def build_data_dictionary(shared: pd.DataFrame) -> pd.DataFrame:
             definition = meta.get("definition", "")
             enc = meta.get("encoding", {})
             enc_str = "; ".join(f"{v}={k}" for k, v in enc.items()) if enc else ""
+            if col == "dem_age":
+                enc_str = f"{AGE_TOP_CODE}={AGE_TOP_CODE} years or older (top-coded for HIPAA Safe Harbor)"
 
         rows.append(
             {
