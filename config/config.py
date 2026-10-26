@@ -59,6 +59,7 @@ PATHS: Dict[str, Path] = {
     "fig_feature_interactions":        PROJECT_ROOT / "results" / "figures" / "feature_interactions",
     "fig_clinical_utility":            PROJECT_ROOT / "results" / "figures" / "clinical_utility",
     "fig_meta_analysis":               PROJECT_ROOT / "results" / "figures" / "meta_analysis",
+    "fig_main_panels":                 PROJECT_ROOT / "results" / "figures" / "main_figure_panels",
     "fig_draft":                       PROJECT_ROOT / "_local" / "figures_archive" / "draft_regen",
     "fig_tabpfn":                      PROJECT_ROOT / "_local" / "figures_archive" / "draft_regen" / "tabpfn",
 
@@ -90,7 +91,7 @@ def ensure_output_dirs() -> None:
         "results_dir", "figures_dir", "tables_dir", "training_dir",
         "fig_model_performance", "fig_feature_importance",
         "fig_feature_importance_stratified", "fig_feature_interactions",
-        "fig_clinical_utility", "fig_meta_analysis", "fig_draft", "fig_tabpfn",
+        "fig_clinical_utility", "fig_meta_analysis", "fig_main_panels", "fig_draft", "fig_tabpfn",
         "tbl_model_performance", "tbl_tabpfn", "tbl_feature_importance",
         "tbl_clinical_utility", "tbl_cohort_description", "tbl_quantification",
     ):
